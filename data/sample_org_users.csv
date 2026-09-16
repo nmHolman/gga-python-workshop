@@ -1,0 +1,43 @@
+username,full_name,department,role,user_type,created,last_login
+wate_1000,Sample User 1000,Water Utilities,org_user,creatorUT,2026-02-17,2026-07-21
+cler_1001,Sample User 1001,Clerk's Office,org_user,creatorUT,2025-08-31,2026-05-31
+fina_1002,Sample User 1002,Finance,org_publisher,viewerUT,2023-08-08,2026-02-06
+fina_1003,Sample User 1003,Finance,org_user,creatorUT,2023-05-23,
+cler_1004,Sample User 1004,Clerk's Office,org_user,creatorUT,2025-10-25,2026-04-23
+plan_1005,Sample User 1005,Planning,org_user,creatorUT,2024-01-10,2026-08-21
+fina_1006,Sample User 1006,Finance,org_user,creatorUT,2024-07-08,2026-08-12
+publ_1007,Sample User 1007,Public Works,org_publisher,viewerUT,2024-07-13,2026-07-18
+wate_1008,Sample User 1008,Water Utilities,org_user,viewerUT,2023-10-03,2026-07-24
+plan_1009,Sample User 1009,Planning,org_user,viewerUT,2023-11-26,2026-07-23
+park_1010,Sample User 1010,Parks & Recreation,org_user,viewerUT,2022-01-29,2026-07-26
+park_1011,Sample User 1011,Parks & Recreation,org_user,creatorUT,2025-07-14,2025-12-04
+cler_1012,Sample User 1012,Clerk's Office,org_user,viewerUT,2021-08-02,2026-08-28
+park_1013,Sample User 1013,Parks & Recreation,org_admin,fieldWorkerUT,2026-07-03,2026-07-04
+anim_1014,Sample User 1014,Animal Control,org_publisher,fieldWorkerUT,2024-10-02,2026-08-28
+anim_1015,Sample User 1015,Animal Control,org_publisher,creatorUT,2025-04-03,2025-12-12
+code_1016,Sample User 1016,Code Enforcement,org_user,fieldWorkerUT,2024-08-15,2026-07-17
+plan_1017,Sample User 1017,Planning,org_publisher,viewerUT,2021-05-21,2026-08-13
+cler_1018,Sample User 1018,Clerk's Office,org_user,viewerUT,2022-08-10,2026-04-20
+gisi_1019,Sample User 1019,GIS/IT,org_user,creatorUT,2025-12-21,2026-07-15
+park_1020,Sample User 1020,Parks & Recreation,org_admin,creatorUT,2021-07-20,2026-05-05
+anim_1021,Sample User 1021,Animal Control,org_user,fieldWorkerUT,2021-11-10,2026-08-20
+publ_1022,Sample User 1022,Public Works,org_user,viewerUT,2025-01-13,2026-04-13
+cler_1023,Sample User 1023,Clerk's Office,org_admin,creatorUT,2026-06-27,2026-07-24
+publ_1024,Sample User 1024,Public Works,org_user,viewerUT,2025-10-25,2026-07-01
+publ_1025,Sample User 1025,Public Works,org_user,fieldWorkerUT,2020-12-31,2026-06-15
+wate_1026,Sample User 1026,Water Utilities,org_publisher,creatorUT,2021-07-18,2026-07-01
+park_1027,Sample User 1027,Parks & Recreation,org_user,creatorUT,2021-09-16,2026-04-08
+publ_1028,Sample User 1028,Public Works,org_user,creatorUT,2023-03-05,
+publ_1029,Sample User 1029,Public Works,org_admin,fieldWorkerUT,2023-11-21,2026-08-20
+wate_1030,Sample User 1030,Water Utilities,org_user,fieldWorkerUT,2024-05-25,2026-09-10
+fina_1031,Sample User 1031,Finance,org_user,fieldWorkerUT,2021-01-17,2026-06-18
+park_1032,Sample User 1032,Parks & Recreation,org_user,fieldWorkerUT,2023-12-27,2026-07-19
+plan_1033,Sample User 1033,Planning,org_publisher,viewerUT,2022-09-01,
+plan_1034,Sample User 1034,Planning,org_publisher,creatorUT,2024-07-09,2026-07-04
+publ_1035,Sample User 1035,Public Works,org_user,viewerUT,2022-01-26,2026-07-28
+gisi_1036,Sample User 1036,GIS/IT,org_publisher,creatorUT,2021-11-02,2026-08-31
+plan_1037,Sample User 1037,Planning,org_user,fieldWorkerUT,2024-05-22,2026-07-10
+anim_1038,Sample User 1038,Animal Control,org_user,fieldWorkerUT,2025-12-07,2026-07-03
+wate_1039,Sample User 1039,Water Utilities,org_user,creatorUT,2024-01-12,2026-08-11
+fina_1040,Sample User 1040,Finance,org_publisher,viewerUT,2026-05-12,2026-09-07
+fina_1041,Sample User 1041,Finance,org_user,viewerUT,2024-09-15,2026-08-21

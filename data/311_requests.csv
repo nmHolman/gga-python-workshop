@@ -1,0 +1,2501 @@
+request_id,department,request_type,created_date,status,closed_date,days_open,council_district,priority
+SR-100857,Public Works,Pothole Repair,2025-01-01,Open,,617,2,Low
+SR-100741,Public Works,Pothole Repair,2025-01-01,In Progress,,617,1,Low
+SR-102392,Public Works,Street Light Outage,2025-01-01,Resolved,2025-01-02,1,5,Low
+SR-100714,Public Works,Sidewalk Damage,2025-01-01,Open,,617,4,Low
+SR-100231,Animal Control,Animal Bite Report,2025-01-01,Closed,2025-01-03,2,5,Medium
+SR-100085,Public Works,Pothole Repair,2025-01-01,Resolved,2025-02-06,36,1,Medium
+SR-101557,Water Utilities,Meter Reading Issue,2025-01-01,Resolved,2025-02-02,32,3,High
+SR-100128,Public Works,Pothole Repair,2025-01-01,Resolved,2025-01-25,24,5,Low
+SR-101375,Planning,Sign Violation,2025-01-01,In Progress,,617,3,Medium
+SR-100694,Code Enforcement,Unsafe Structure,2025-01-01,Resolved,2025-01-05,4,1,Low
+SR-100030,Code Enforcement,Overgrown Lot,2025-01-02,Closed,2025-03-10,67,5,High
+SR-101625,Public Works,Road Debris,2025-01-02,Closed,2025-01-16,14,5,Low
+SR-100898,Water Utilities,Billing Inquiry,2025-01-02,Closed,2025-01-02,0,4,Medium
+SR-102300,Code Enforcement,Illegal Dumping,2025-01-02,In Progress,,616,5,Low
+SR-100949,Code Enforcement,Abandoned Vehicle,2025-01-02,Closed,2025-01-15,13,5,High
+SR-100524,Planning,Land Use Complaint,2025-01-03,Resolved,2025-01-08,5,3,Medium
+SR-100237,Public Works,Street Light Outage,2025-01-03,Closed,2025-01-12,9,2,Low
+SR-100737,Water Utilities,Meter Reading Issue,2025-01-03,Open,,615,4,Low
+SR-101410,Parks & Recreation,Tree Trimming Request,2025-01-03,Closed,2025-01-10,7,2,High
+SR-100014,Public Works,Sidewalk Damage,2025-01-05,Closed,2025-01-14,9,3,Medium
+SR-101651,Public Works,Road Debris,2025-01-05,Closed,2025-01-13,8,5,Medium
+SR-100608,Parks & Recreation,Tree Trimming Request,2025-01-05,In Progress,,613,3,Medium
+SR-100438,Parks & Recreation,Park Maintenance,2025-01-05,In Progress,,613,1,High
+SR-100572,Code Enforcement,Overgrown Lot,2025-01-06,Closed,2025-01-11,5,3,High
+SR-100617,Public Works,Road Debris,2025-01-06,Closed,2025-01-09,3,2,Medium
+SR-101501,Water Utilities,Low Water Pressure,2025-01-06,In Progress,,612,4,Low
+SR-102098,Parks & Recreation,Park Maintenance,2025-01-06,In Progress,,612,1,Medium
+SR-100618,Planning,Sign Violation,2025-01-06,Open,,612,3,Medium
+SR-101648,Parks & Recreation,Trail Erosion,2025-01-06,Resolved,2025-01-14,8,3,Medium
+SR-101358,Water Utilities,Meter Reading Issue,2025-01-07,Closed,2025-01-11,4,4,Low
+SR-101402,Code Enforcement,Unsafe Structure,2025-01-07,Resolved,2025-01-17,10,5,Medium
+SR-100266,Water Utilities,Meter Reading Issue,2025-01-07,Open,,611,5,Low
+SR-101355,Public Works,Street Light Outage,2025-01-08,Closed,2025-01-15,7,5,Medium
+SR-101338,Public Works,Storm Drain Blocked,2025-01-08,Closed,2025-01-18,10,3,Low
+SR-101528,Public Works,Street Light Outage,2025-01-08,In Progress,,610,4,Low
+SR-101299,Parks & Recreation,Park Maintenance,2025-01-08,Open,,610,1,High
+SR-102465,Parks & Recreation,Trail Erosion,2025-01-08,Closed,2025-01-12,4,5,Medium
+SR-100660,Parks & Recreation,Park Maintenance,2025-01-08,Open,,610,3,Medium
+SR-101744,Public Works,Road Debris,2025-01-08,Resolved,2025-01-30,22,1,Medium
+SR-102443,Water Utilities,Meter Reading Issue,2025-01-09,Closed,2025-02-12,34,3,Medium
+SR-101148,Public Works,Storm Drain Blocked,2025-01-10,Resolved,2025-01-19,9,4,Low
+SR-100081,Parks & Recreation,Park Maintenance,2025-01-10,Closed,2025-02-11,32,5,Low
+SR-101945,Planning,Zoning Inquiry,2025-01-10,Resolved,2025-01-15,5,2,Low
+SR-101937,Animal Control,Stray Animal,2025-01-10,Resolved,2025-01-17,7,2,Low
+SR-100283,Public Works,Pothole Repair,2025-01-10,In Progress,,608,5,Medium
+SR-100592,Parks & Recreation,Trail Erosion,2025-01-10,In Progress,,608,3,Medium
+SR-101109,Parks & Recreation,Tree Trimming Request,2025-01-10,Resolved,2025-01-15,5,3,Medium
+SR-102305,Planning,Zoning Inquiry,2025-01-11,Open,,607,4,Low
+SR-101468,Animal Control,Wildlife Concern,2025-01-11,Resolved,2025-02-06,26,1,Low
+SR-101029,Public Works,Pothole Repair,2025-01-11,Closed,2025-01-11,0,4,Medium
+SR-101429,Water Utilities,Low Water Pressure,2025-01-11,Resolved,2025-01-22,11,3,High
+SR-101002,Planning,Land Use Complaint,2025-01-12,In Progress,,606,1,Medium
+SR-100077,Code Enforcement,Overgrown Lot,2025-01-12,Open,,606,4,Low
+SR-100238,Public Works,Street Light Outage,2025-01-12,Resolved,2025-01-13,1,4,Low
+SR-100430,Water Utilities,Billing Inquiry,2025-01-12,In Progress,,606,4,Medium
+SR-101277,Water Utilities,Low Water Pressure,2025-01-12,Resolved,2025-01-12,0,2,Low
+SR-100209,Code Enforcement,Illegal Dumping,2025-01-12,In Progress,,606,5,Medium
+SR-100629,Code Enforcement,Unsafe Structure,2025-01-12,In Progress,,606,5,Low
+SR-102406,Parks & Recreation,Playground Equipment Damage,2025-01-12,Closed,2025-01-29,17,5,Medium
+SR-101138,Public Works,Road Debris,2025-01-13,Resolved,2025-02-02,20,5,Medium
+SR-101540,Planning,Sign Violation,2025-01-13,Resolved,2025-02-21,39,3,Low
+SR-101112,Public Works,Pothole Repair,2025-01-13,Resolved,2025-01-13,0,4,Low
+SR-102097,Water Utilities,Billing Inquiry,2025-01-14,Closed,2025-02-06,23,1,Medium
+SR-101400,Code Enforcement,Unsafe Structure,2025-01-14,Open,,604,4,Medium
+SR-101541,Public Works,Sidewalk Damage,2025-01-14,Resolved,2025-01-26,12,5,Low
+SR-100303,Water Utilities,Low Water Pressure,2025-01-14,Closed,2025-01-30,16,4,Low
+SR-100777,Planning,Zoning Inquiry,2025-01-14,Resolved,2025-01-31,17,2,Medium
+SR-102089,Code Enforcement,Unsafe Structure,2025-01-15,Resolved,2025-01-16,1,3,Low
+SR-101903,Public Works,Road Debris,2025-01-15,Open,,603,2,High
+SR-102357,Water Utilities,Water Main Break,2025-01-16,Resolved,2025-03-10,53,3,Medium
+SR-102395,Public Works,Street Light Outage,2025-01-16,Closed,2025-01-18,2,1,Low
+SR-100337,Water Utilities,Low Water Pressure,2025-01-16,Resolved,2025-03-10,53,5,Medium
+SR-100876,Water Utilities,Water Main Break,2025-01-16,Open,,602,4,Medium
+SR-100954,Code Enforcement,Unsafe Structure,2025-01-16,Resolved,2025-01-17,1,5,Low
+SR-101503,Parks & Recreation,Park Maintenance,2025-01-16,Closed,2025-01-18,2,4,Medium
+SR-102420,Animal Control,Animal Bite Report,2025-01-16,Closed,2025-01-16,0,2,Medium
+SR-102088,Water Utilities,Meter Reading Issue,2025-01-17,In Progress,,601,2,Low
+SR-100038,Water Utilities,Meter Reading Issue,2025-01-17,Resolved,2025-03-20,62,5,High
+SR-101303,Public Works,Pothole Repair,2025-01-18,Resolved,2025-01-19,1,2,Low
+SR-100932,Code Enforcement,Abandoned Vehicle,2025-01-18,Resolved,2025-01-20,2,5,High
+SR-100797,Animal Control,Stray Animal,2025-01-19,Closed,2025-02-18,30,2,Low
+SR-101226,Public Works,Storm Drain Blocked,2025-01-19,Open,,599,5,High
+SR-101334,Water Utilities,Meter Reading Issue,2025-01-19,In Progress,,599,3,Medium
+SR-101316,Public Works,Pothole Repair,2025-01-19,Resolved,2025-01-23,4,3,Low
+SR-102448,Public Works,Street Light Outage,2025-01-21,Open,,597,3,Low
+SR-100194,Public Works,Road Debris,2025-01-21,Closed,2025-02-18,28,4,Low
+SR-102361,Public Works,Pothole Repair,2025-01-21,Open,,597,1,Low
+SR-100963,Code Enforcement,Unsafe Structure,2025-01-21,Resolved,2025-03-02,40,1,Low
+SR-100216,Parks & Recreation,Trail Erosion,2025-01-21,Open,,597,4,High
+SR-101923,Public Works,Street Light Outage,2025-01-22,In Progress,,596,1,Low
+SR-100326,Public Works,Street Light Outage,2025-01-22,Closed,2025-02-13,22,2,High
+SR-102026,Parks & Recreation,Playground Equipment Damage,2025-01-22,Resolved,2025-01-27,5,2,Low
+SR-100189,Code Enforcement,Overgrown Lot,2025-01-22,Open,,596,2,High
+SR-101592,Water Utilities,Billing Inquiry,2025-01-22,Closed,2025-02-06,15,3,Low
+SR-100208,Code Enforcement,Illegal Dumping,2025-01-22,Resolved,2025-01-29,7,1,Low
+SR-101089,Public Works,Pothole Repair,2025-01-23,Resolved,2025-02-07,15,2,Medium
+SR-102338,Water Utilities,Low Water Pressure,2025-01-23,Closed,2025-02-24,32,5,Low
+SR-101607,Code Enforcement,Unsafe Structure,2025-01-23,Resolved,2025-01-31,8,1,Low
+SR-101009,Parks & Recreation,Playground Equipment Damage,2025-01-23,Closed,2025-02-24,32,3,Medium
+SR-101635,Animal Control,Wildlife Concern,2025-01-23,Closed,2025-03-01,37,3,Medium
+SR-101057,Water Utilities,Billing Inquiry,2025-01-24,Resolved,2025-02-14,21,5,Low
+SR-101229,Parks & Recreation,Park Maintenance,2025-01-24,In Progress,,594,2,Medium
+SR-100213,Animal Control,Animal Bite Report,2025-01-24,Resolved,2025-01-30,6,4,Medium
+SR-101459,Public Works,Road Debris,2025-01-24,Open,,594,5,Medium
+SR-100269,Animal Control,Animal Bite Report,2025-01-25,Open,,593,5,Low
+SR-101243,Planning,Zoning Inquiry,2025-01-25,Open,,593,4,Low
+SR-100968,Animal Control,Animal Bite Report,2025-01-25,Open,,593,2,High
+SR-101155,Parks & Recreation,Park Maintenance,2025-01-25,Open,,593,1,Medium
+SR-101489,Code Enforcement,Illegal Dumping,2025-01-25,In Progress,,593,4,Low
+SR-101339,Code Enforcement,Unsafe Structure,2025-01-26,Open,,592,4,Low
+SR-101980,Public Works,Street Light Outage,2025-01-26,Closed,2025-01-29,3,3,Medium
+SR-100330,Code Enforcement,Unsafe Structure,2025-01-26,Resolved,2025-02-04,9,3,High
+SR-100816,Code Enforcement,Abandoned Vehicle,2025-01-26,Closed,2025-03-01,34,5,Low
+SR-102399,Planning,Land Use Complaint,2025-01-26,In Progress,,592,5,Low
+SR-100358,Public Works,Sidewalk Damage,2025-01-26,In Progress,,592,5,Medium
+SR-101909,Water Utilities,Meter Reading Issue,2025-01-27,Closed,2025-01-30,3,2,Low
+SR-101480,Public Works,Road Debris,2025-01-27,Open,,591,2,Low
+SR-101694,Code Enforcement,Overgrown Lot,2025-01-27,Open,,591,3,Medium
+SR-100929,Public Works,Street Light Outage,2025-01-27,Resolved,2025-02-03,7,2,Medium
+SR-101360,Public Works,Storm Drain Blocked,2025-01-27,Closed,2025-01-30,3,4,High
+SR-100219,Public Works,Pothole Repair,2025-01-28,Closed,2025-01-31,3,1,Medium
+SR-101671,Water Utilities,Low Water Pressure,2025-01-28,Closed,2025-02-06,9,4,Low
+SR-102289,Public Works,Pothole Repair,2025-01-28,Resolved,2025-02-10,13,4,Low
+SR-102241,Public Works,Storm Drain Blocked,2025-01-28,Open,,590,1,Low
+SR-101633,Water Utilities,Water Main Break,2025-01-28,Resolved,2025-02-04,7,2,Medium
+SR-101125,Public Works,Storm Drain Blocked,2025-01-28,Open,,590,2,Medium
+SR-100018,Public Works,Storm Drain Blocked,2025-01-28,Resolved,2025-01-30,2,3,Low
+SR-100905,Parks & Recreation,Trail Erosion,2025-01-28,Resolved,2025-02-05,8,3,Low
+SR-102009,Public Works,Sidewalk Damage,2025-01-29,Open,,589,5,Medium
+SR-101589,Animal Control,Barking Complaint,2025-01-29,Closed,2025-02-26,28,1,High
+SR-101857,Water Utilities,Billing Inquiry,2025-01-29,Closed,2025-02-05,7,3,High
+SR-100152,Public Works,Sidewalk Damage,2025-01-29,In Progress,,589,4,Medium
+SR-101032,Public Works,Sidewalk Damage,2025-01-29,In Progress,,589,5,High
+SR-100377,Code Enforcement,Illegal Dumping,2025-01-30,Closed,2025-02-06,7,3,Low
+SR-100409,Parks & Recreation,Park Maintenance,2025-01-31,Resolved,2025-02-26,26,2,Medium
+SR-101010,Water Utilities,Water Main Break,2025-01-31,Open,,587,5,Low
+SR-101796,Parks & Recreation,Park Maintenance,2025-01-31,Open,,587,1,Medium
+SR-102018,Animal Control,Stray Animal,2025-01-31,Closed,2025-03-03,31,2,Low
+SR-100566,Code Enforcement,Noise Complaint,2025-02-01,Resolved,2025-02-27,26,3,Medium
+SR-102364,Public Works,Sidewalk Damage,2025-02-01,Resolved,2025-02-14,13,4,Low
+SR-102135,Animal Control,Animal Bite Report,2025-02-01,Resolved,2025-02-18,17,2,Medium
+SR-100328,Public Works,Pothole Repair,2025-02-01,In Progress,,586,4,Medium
+SR-102062,Code Enforcement,Abandoned Vehicle,2025-02-02,Closed,2025-02-07,5,2,High
+SR-101304,Public Works,Pothole Repair,2025-02-03,Closed,2025-02-27,24,5,High
+SR-102043,Parks & Recreation,Tree Trimming Request,2025-02-03,Closed,2025-02-05,2,2,High
+SR-102013,Code Enforcement,Overgrown Lot,2025-02-03,In Progress,,584,5,Medium
+SR-102347,Planning,Sign Violation,2025-02-04,Closed,2025-02-09,5,5,Medium
+SR-102397,Planning,Sign Violation,2025-02-04,Closed,2025-02-04,0,5,Medium
+SR-100355,Public Works,Storm Drain Blocked,2025-02-04,Closed,2025-02-07,3,5,Medium
+SR-101826,Water Utilities,Meter Reading Issue,2025-02-05,Resolved,2025-03-02,25,2,High
+SR-101918,Planning,Zoning Inquiry,2025-02-05,Resolved,2025-02-05,0,2,Low
+SR-101318,Public Works,Road Debris,2025-02-06,Closed,2025-02-23,17,3,High
+SR-101067,Planning,Sign Violation,2025-02-06,Closed,2025-02-15,9,2,High
+SR-101803,Public Works,Sidewalk Damage,2025-02-07,Closed,2025-02-13,6,5,Low
+SR-100502,Parks & Recreation,Playground Equipment Damage,2025-02-07,Resolved,2025-02-08,1,1,Low
+SR-101208,Water Utilities,Billing Inquiry,2025-02-07,Resolved,2025-02-26,19,5,Low
+SR-102129,Parks & Recreation,Tree Trimming Request,2025-02-07,Closed,2025-02-09,2,5,Medium
+SR-101619,Planning,Sign Violation,2025-02-08,Closed,2025-02-16,8,4,Low
+SR-101837,Water Utilities,Billing Inquiry,2025-02-08,Closed,2025-02-08,0,2,Medium
+SR-101192,Public Works,Pothole Repair,2025-02-08,Resolved,2025-02-12,4,1,Low
+SR-100648,Parks & Recreation,Playground Equipment Damage,2025-02-08,Resolved,2025-02-19,11,4,Medium
+SR-100531,Public Works,Sidewalk Damage,2025-02-09,Closed,2025-02-19,10,4,Medium
+SR-100815,Planning,Permit Question,2025-02-09,In Progress,,578,4,Medium
+SR-101915,Code Enforcement,Overgrown Lot,2025-02-09,Resolved,2025-02-09,0,1,Low
+SR-102358,Water Utilities,Water Main Break,2025-02-10,Resolved,2025-03-08,26,5,Medium
+SR-100012,Animal Control,Animal Bite Report,2025-02-10,Closed,2025-03-11,29,4,Low
+SR-102385,Parks & Recreation,Playground Equipment Damage,2025-02-10,Resolved,2025-02-24,14,1,High
+SR-100983,Public Works,Road Debris,2025-02-11,Resolved,2025-02-14,3,2,Medium
+SR-100835,Water Utilities,Billing Inquiry,2025-02-11,Open,,576,2,Low
+SR-100265,Code Enforcement,Overgrown Lot,2025-02-11,Resolved,2025-02-20,9,2,High
+SR-100148,Animal Control,Stray Animal,2025-02-11,In Progress,,576,1,Low
+SR-100116,Animal Control,Stray Animal,2025-02-11,Closed,2025-02-16,5,3,Medium
+SR-100809,Public Works,Pothole Repair,2025-02-11,Resolved,2025-02-22,11,3,Low
+SR-101283,Public Works,Pothole Repair,2025-02-11,Resolved,2025-02-18,7,1,Medium
+SR-100156,Water Utilities,Meter Reading Issue,2025-02-11,Open,,576,2,Medium
+SR-102185,Public Works,Pothole Repair,2025-02-12,Resolved,2025-02-14,2,4,Medium
+SR-100493,Animal Control,Wildlife Concern,2025-02-12,In Progress,,575,4,Low
+SR-102327,Water Utilities,Meter Reading Issue,2025-02-12,In Progress,,575,4,Medium
+SR-100663,Parks & Recreation,Park Maintenance,2025-02-12,Open,,575,2,Medium
+SR-101361,Parks & Recreation,Trail Erosion,2025-02-12,Closed,2025-02-21,9,5,Low
+SR-102307,Animal Control,Barking Complaint,2025-02-13,Resolved,2025-02-15,2,4,Low
+SR-100581,Water Utilities,Water Main Break,2025-02-13,Resolved,2025-02-13,0,1,Low
+SR-102136,Water Utilities,Water Main Break,2025-02-13,Resolved,2025-03-03,18,3,Low
+SR-100528,Public Works,Sidewalk Damage,2025-02-13,In Progress,,574,1,Low
+SR-101631,Planning,Sign Violation,2025-02-14,Closed,2025-03-20,34,3,High
+SR-100405,Code Enforcement,Illegal Dumping,2025-02-14,Resolved,2025-03-23,37,2,Low
+SR-101366,Public Works,Storm Drain Blocked,2025-02-14,Resolved,2025-03-02,16,5,Low
+SR-101680,Animal Control,Wildlife Concern,2025-02-15,In Progress,,572,1,Low
+SR-101878,Public Works,Road Debris,2025-02-15,In Progress,,572,2,Medium
+SR-102469,Code Enforcement,Illegal Dumping,2025-02-15,Resolved,2025-03-01,14,4,Medium
+SR-102381,Code Enforcement,Unsafe Structure,2025-02-15,Closed,2025-02-24,9,3,Low
+SR-102051,Code Enforcement,Unsafe Structure,2025-02-16,Closed,2025-02-27,11,1,High
+SR-102282,Water Utilities,Low Water Pressure,2025-02-16,Closed,2025-02-23,7,3,Medium
+SR-101770,Parks & Recreation,Trail Erosion,2025-02-16,Closed,2025-02-22,6,5,High
+SR-101097,Parks & Recreation,Trail Erosion,2025-02-16,Closed,2025-03-08,20,3,Low
+SR-101369,Public Works,Pothole Repair,2025-02-16,Resolved,2025-02-20,4,2,Low
+SR-100888,Public Works,Sidewalk Damage,2025-02-16,Resolved,2025-03-14,26,3,Low
+SR-101064,Planning,Land Use Complaint,2025-02-17,In Progress,,570,5,Medium
+SR-100717,Code Enforcement,Overgrown Lot,2025-02-17,Closed,2025-02-19,2,2,Medium
+SR-101477,Water Utilities,Low Water Pressure,2025-02-17,Closed,2025-03-11,22,4,Medium
+SR-101891,Public Works,Road Debris,2025-02-17,In Progress,,570,5,Medium
+SR-102152,Water Utilities,Meter Reading Issue,2025-02-17,Closed,2025-02-26,9,3,Low
+SR-102037,Code Enforcement,Illegal Dumping,2025-02-18,Resolved,2025-02-28,10,3,Low
+SR-100837,Parks & Recreation,Park Maintenance,2025-02-18,Closed,2025-02-18,0,1,Low
+SR-100560,Public Works,Storm Drain Blocked,2025-02-18,Resolved,2025-02-23,5,4,Low
+SR-100781,Water Utilities,Billing Inquiry,2025-02-18,Resolved,2025-03-12,22,4,Medium
+SR-101969,Public Works,Pothole Repair,2025-02-18,Resolved,2025-03-04,14,5,Low
+SR-102015,Water Utilities,Billing Inquiry,2025-02-19,Open,,568,4,Low
+SR-101643,Public Works,Pothole Repair,2025-02-19,Closed,2025-05-06,76,2,Medium
+SR-101772,Planning,Permit Question,2025-02-20,Open,,567,1,Medium
+SR-102054,Public Works,Storm Drain Blocked,2025-02-20,In Progress,,567,5,Low
+SR-101258,Animal Control,Animal Bite Report,2025-02-20,Resolved,2025-02-24,4,2,High
+SR-101681,Water Utilities,Low Water Pressure,2025-02-21,Resolved,2025-03-02,9,1,Low
+SR-102419,Code Enforcement,Abandoned Vehicle,2025-02-22,Closed,2025-02-27,5,2,High
+SR-100671,Animal Control,Animal Bite Report,2025-02-23,Open,,564,3,Medium
+SR-101021,Code Enforcement,Abandoned Vehicle,2025-02-23,Open,,564,2,Low
+SR-101127,Animal Control,Animal Bite Report,2025-02-23,Open,,564,2,Medium
+SR-101081,Public Works,Storm Drain Blocked,2025-02-23,Resolved,2025-03-27,32,4,Medium
+SR-100843,Water Utilities,Water Main Break,2025-02-24,Open,,563,2,Low
+SR-100137,Public Works,Road Debris,2025-02-24,Resolved,2025-03-31,35,2,High
+SR-100273,Water Utilities,Billing Inquiry,2025-02-25,Resolved,2025-03-01,4,1,Low
+SR-100097,Parks & Recreation,Tree Trimming Request,2025-02-25,Closed,2025-03-21,24,5,Low
+SR-100770,Public Works,Storm Drain Blocked,2025-02-25,Resolved,2025-03-07,10,3,Medium
+SR-100805,Public Works,Street Light Outage,2025-02-26,Closed,2025-02-26,0,5,Medium
+SR-100306,Public Works,Storm Drain Blocked,2025-02-26,Resolved,2025-03-03,5,4,Medium
+SR-100849,Public Works,Street Light Outage,2025-02-26,Open,,561,3,Low
+SR-102481,Animal Control,Barking Complaint,2025-02-26,Resolved,2025-03-01,3,2,Low
+SR-101446,Code Enforcement,Noise Complaint,2025-02-26,Closed,2025-02-27,1,4,Medium
+SR-100896,Planning,Land Use Complaint,2025-02-27,Closed,2025-02-28,1,5,Medium
+SR-100576,Planning,Zoning Inquiry,2025-02-27,Closed,2025-03-02,3,3,Low
+SR-100763,Public Works,Road Debris,2025-02-27,Resolved,2025-02-28,1,5,Low
+SR-101215,Public Works,Road Debris,2025-02-28,In Progress,,559,5,Medium
+SR-101241,Public Works,Road Debris,2025-02-28,Closed,2025-03-03,3,5,Low
+SR-100225,Code Enforcement,Noise Complaint,2025-02-28,Resolved,2025-03-04,4,4,Low
+SR-100478,Planning,Permit Question,2025-02-28,Open,,559,1,Medium
+SR-101203,Water Utilities,Meter Reading Issue,2025-02-28,Closed,2025-03-14,14,5,Medium
+SR-100248,Public Works,Sidewalk Damage,2025-03-01,Closed,2025-03-14,13,3,Medium
+SR-101765,Planning,Zoning Inquiry,2025-03-01,Closed,2025-03-01,0,5,Medium
+SR-100308,Parks & Recreation,Trail Erosion,2025-03-01,Resolved,2025-03-05,4,3,Low
+SR-100607,Code Enforcement,Noise Complaint,2025-03-01,Closed,2025-03-02,1,1,Low
+SR-102366,Code Enforcement,Unsafe Structure,2025-03-01,Open,,558,3,Medium
+SR-102474,Animal Control,Animal Bite Report,2025-03-02,Open,,557,5,Low
+SR-102292,Parks & Recreation,Tree Trimming Request,2025-03-02,Resolved,2025-03-02,0,4,Low
+SR-101527,Public Works,Street Light Outage,2025-03-02,Closed,2025-03-07,5,4,Low
+SR-101291,Public Works,Road Debris,2025-03-02,Resolved,2025-03-02,0,4,Medium
+SR-101275,Public Works,Storm Drain Blocked,2025-03-02,Closed,2025-03-19,17,3,Low
+SR-100759,Water Utilities,Meter Reading Issue,2025-03-02,In Progress,,557,4,Medium
+SR-102332,Parks & Recreation,Trail Erosion,2025-03-03,Closed,2025-03-22,19,5,Low
+SR-100171,Public Works,Sidewalk Damage,2025-03-03,In Progress,,556,4,Low
+SR-101956,Parks & Recreation,Playground Equipment Damage,2025-03-04,Closed,2025-03-10,6,3,Low
+SR-100378,Code Enforcement,Overgrown Lot,2025-03-04,Closed,2025-03-05,1,2,Low
+SR-102421,Animal Control,Barking Complaint,2025-03-04,Closed,2025-03-04,0,1,Low
+SR-100200,Water Utilities,Billing Inquiry,2025-03-05,Open,,554,2,Medium
+SR-100707,Animal Control,Stray Animal,2025-03-05,Closed,2025-03-20,15,5,Medium
+SR-102210,Public Works,Street Light Outage,2025-03-06,Open,,553,4,Low
+SR-100235,Public Works,Pothole Repair,2025-03-06,Resolved,2025-03-11,5,5,Low
+SR-102271,Public Works,Street Light Outage,2025-03-06,Resolved,2025-03-06,0,2,Low
+SR-100082,Planning,Permit Question,2025-03-06,Closed,2025-03-13,7,3,Medium
+SR-101075,Code Enforcement,Noise Complaint,2025-03-06,In Progress,,553,4,High
+SR-101627,Code Enforcement,Abandoned Vehicle,2025-03-06,Resolved,2025-03-06,0,2,Low
+SR-102296,Water Utilities,Water Main Break,2025-03-06,Closed,2025-03-13,7,4,Low
+SR-102145,Public Works,Road Debris,2025-03-07,Closed,2025-03-16,9,4,Low
+SR-102412,Water Utilities,Meter Reading Issue,2025-03-07,In Progress,,552,2,Low
+SR-100680,Public Works,Sidewalk Damage,2025-03-07,Closed,2025-03-18,11,2,Low
+SR-101177,Code Enforcement,Unsafe Structure,2025-03-08,Open,,551,2,Medium
+SR-102116,Planning,Permit Question,2025-03-08,Closed,2025-03-11,3,5,Low
+SR-101452,Animal Control,Stray Animal,2025-03-09,Resolved,2025-03-25,16,4,Low
+SR-101086,Water Utilities,Billing Inquiry,2025-03-09,Resolved,2025-03-17,8,4,Low
+SR-100387,Animal Control,Animal Bite Report,2025-03-09,Resolved,2025-04-25,47,5,Medium
+SR-101456,Public Works,Pothole Repair,2025-03-09,Open,,550,2,Low
+SR-101479,Code Enforcement,Overgrown Lot,2025-03-10,Closed,2025-04-04,25,4,Low
+SR-100065,Parks & Recreation,Playground Equipment Damage,2025-03-10,Resolved,2025-03-14,4,3,Low
+SR-100052,Public Works,Storm Drain Blocked,2025-03-10,Resolved,2025-03-11,1,4,Low
+SR-100597,Parks & Recreation,Trail Erosion,2025-03-11,Resolved,2025-04-07,27,4,Medium
+SR-102167,Parks & Recreation,Playground Equipment Damage,2025-03-11,Resolved,2025-03-23,12,2,Low
+SR-101238,Public Works,Storm Drain Blocked,2025-03-11,Closed,2025-04-03,23,1,Low
+SR-101389,Code Enforcement,Overgrown Lot,2025-03-12,Resolved,2025-03-19,7,3,Low
+SR-100752,Public Works,Street Light Outage,2025-03-12,Closed,2025-03-19,7,2,Medium
+SR-100840,Water Utilities,Water Main Break,2025-03-12,Resolved,2025-03-16,4,4,Low
+SR-101566,Planning,Land Use Complaint,2025-03-12,Resolved,2025-04-09,28,4,Medium
+SR-102499,Code Enforcement,Abandoned Vehicle,2025-03-12,Closed,2025-03-19,7,4,Medium
+SR-101872,Parks & Recreation,Tree Trimming Request,2025-03-12,Resolved,2025-03-22,10,3,Low
+SR-100631,Public Works,Street Light Outage,2025-03-12,Resolved,2025-03-12,0,5,Medium
+SR-101729,Public Works,Street Light Outage,2025-03-12,Resolved,2025-03-16,4,1,Medium
+SR-100333,Code Enforcement,Noise Complaint,2025-03-13,Resolved,2025-04-01,19,2,Low
+SR-100582,Code Enforcement,Noise Complaint,2025-03-13,Closed,2025-04-12,30,3,Medium
+SR-102231,Code Enforcement,Abandoned Vehicle,2025-03-14,Resolved,2025-03-16,2,5,Low
+SR-100206,Water Utilities,Water Main Break,2025-03-14,Resolved,2025-03-14,0,2,High
+SR-100254,Water Utilities,Billing Inquiry,2025-03-14,In Progress,,545,1,Medium
+SR-102248,Public Works,Storm Drain Blocked,2025-03-14,Resolved,2025-04-08,25,2,Medium
+SR-101137,Code Enforcement,Abandoned Vehicle,2025-03-14,Resolved,2025-03-25,11,3,Low
+SR-100519,Public Works,Storm Drain Blocked,2025-03-14,Closed,2025-03-23,9,1,High
+SR-100910,Code Enforcement,Abandoned Vehicle,2025-03-14,Resolved,2025-03-20,6,2,Medium
+SR-100315,Code Enforcement,Noise Complaint,2025-03-15,Closed,2025-04-17,33,2,Low
+SR-101953,Public Works,Road Debris,2025-03-15,Closed,2025-03-15,0,1,High
+SR-102458,Public Works,Storm Drain Blocked,2025-03-15,Open,,544,4,Low
+SR-100544,Water Utilities,Low Water Pressure,2025-03-15,Resolved,2025-03-16,1,3,High
+SR-101286,Animal Control,Wildlife Concern,2025-03-15,Resolved,2025-03-17,2,1,Low
+SR-101890,Planning,Zoning Inquiry,2025-03-16,Closed,2025-03-18,2,2,Low
+SR-102331,Public Works,Street Light Outage,2025-03-16,Closed,2025-03-17,1,3,Low
+SR-100975,Public Works,Storm Drain Blocked,2025-03-16,Closed,2025-03-16,0,3,High
+SR-100312,Public Works,Storm Drain Blocked,2025-03-16,Closed,2025-04-01,16,5,Low
+SR-100343,Code Enforcement,Illegal Dumping,2025-03-16,Resolved,2025-03-28,12,1,Medium
+SR-102494,Water Utilities,Low Water Pressure,2025-03-17,In Progress,,542,3,Medium
+SR-100628,Public Works,Street Light Outage,2025-03-17,Resolved,2025-03-22,5,2,Low
+SR-100703,Public Works,Sidewalk Damage,2025-03-17,Resolved,2025-04-01,15,3,Low
+SR-101428,Planning,Permit Question,2025-03-18,Resolved,2025-03-30,12,3,Medium
+SR-100664,Public Works,Sidewalk Damage,2025-03-18,Open,,541,3,Medium
+SR-102092,Water Utilities,Billing Inquiry,2025-03-18,In Progress,,541,1,Low
+SR-102309,Code Enforcement,Overgrown Lot,2025-03-18,Resolved,2025-03-30,12,5,Low
+SR-102109,Parks & Recreation,Playground Equipment Damage,2025-03-19,Closed,2025-04-07,19,5,Low
+SR-101376,Animal Control,Wildlife Concern,2025-03-19,Resolved,2025-03-20,1,4,Medium
+SR-100789,Water Utilities,Meter Reading Issue,2025-03-19,Resolved,2025-03-29,10,5,Medium
+SR-100096,Water Utilities,Water Main Break,2025-03-19,Resolved,2025-03-23,4,2,Medium
+SR-101608,Code Enforcement,Abandoned Vehicle,2025-03-19,Closed,2025-03-22,3,3,Low
+SR-101647,Water Utilities,Water Main Break,2025-03-19,Closed,2025-03-24,5,4,Medium
+SR-100472,Water Utilities,Meter Reading Issue,2025-03-19,Closed,2025-04-02,14,5,Low
+SR-100720,Water Utilities,Water Main Break,2025-03-20,Closed,2025-04-02,13,5,Low
+SR-101817,Planning,Land Use Complaint,2025-03-20,In Progress,,539,1,Low
+SR-100958,Water Utilities,Billing Inquiry,2025-03-20,Closed,2025-03-28,8,1,Low
+SR-100329,Code Enforcement,Noise Complaint,2025-03-20,Closed,2025-04-14,25,3,High
+SR-101048,Public Works,Road Debris,2025-03-20,Closed,2025-03-28,8,5,Medium
+SR-100488,Public Works,Street Light Outage,2025-03-20,Closed,2025-03-22,2,5,Low
+SR-100999,Planning,Sign Violation,2025-03-20,Resolved,2025-04-08,19,4,Medium
+SR-102216,Code Enforcement,Unsafe Structure,2025-03-21,Closed,2025-06-01,72,4,Low
+SR-101820,Public Works,Street Light Outage,2025-03-21,Resolved,2025-04-12,22,4,Low
+SR-100159,Water Utilities,Meter Reading Issue,2025-03-22,Closed,2025-04-03,12,1,High
+SR-101440,Planning,Land Use Complaint,2025-03-22,Closed,2025-03-27,5,3,High
+SR-100847,Water Utilities,Low Water Pressure,2025-03-22,Open,,537,4,High
+SR-101596,Public Works,Road Debris,2025-03-22,In Progress,,537,2,Medium
+SR-101805,Water Utilities,Water Main Break,2025-03-23,Resolved,2025-03-25,2,1,Low
+SR-102153,Public Works,Storm Drain Blocked,2025-03-23,Closed,2025-04-07,15,3,Low
+SR-101997,Public Works,Street Light Outage,2025-03-23,Closed,2025-03-23,0,4,Medium
+SR-102329,Public Works,Storm Drain Blocked,2025-03-24,Resolved,2025-03-29,5,4,Low
+SR-100622,Animal Control,Barking Complaint,2025-03-24,Resolved,2025-04-19,26,4,Medium
+SR-100350,Water Utilities,Low Water Pressure,2025-03-24,Closed,2025-05-06,43,3,Medium
+SR-101745,Water Utilities,Billing Inquiry,2025-03-24,Resolved,2025-04-19,26,1,Low
+SR-101300,Public Works,Sidewalk Damage,2025-03-24,Resolved,2025-03-27,3,4,Low
+SR-101951,Animal Control,Barking Complaint,2025-03-25,Resolved,2025-03-29,4,5,Medium
+SR-100832,Water Utilities,Water Main Break,2025-03-25,Closed,2025-03-25,0,5,Low
+SR-101054,Planning,Permit Question,2025-03-25,In Progress,,534,2,Medium
+SR-100193,Water Utilities,Billing Inquiry,2025-03-25,In Progress,,534,1,High
+SR-100791,Code Enforcement,Abandoned Vehicle,2025-03-25,Open,,534,3,Medium
+SR-100133,Code Enforcement,Overgrown Lot,2025-03-25,Resolved,2025-04-01,7,4,Medium
+SR-100456,Planning,Sign Violation,2025-03-25,In Progress,,534,5,Low
+SR-101090,Animal Control,Barking Complaint,2025-03-26,Resolved,2025-03-30,4,3,Low
+SR-101985,Code Enforcement,Illegal Dumping,2025-03-26,Resolved,2025-04-01,6,5,Medium
+SR-101309,Water Utilities,Meter Reading Issue,2025-03-27,Closed,2025-03-28,1,2,Medium
+SR-100161,Animal Control,Animal Bite Report,2025-03-27,Open,,532,5,Medium
+SR-102379,Water Utilities,Billing Inquiry,2025-03-27,Closed,2025-04-01,5,3,Medium
+SR-102351,Water Utilities,Water Main Break,2025-03-27,In Progress,,532,3,Medium
+SR-101844,Public Works,Pothole Repair,2025-03-27,Resolved,2025-04-14,18,2,Medium
+SR-101018,Water Utilities,Meter Reading Issue,2025-03-27,In Progress,,532,1,Medium
+SR-102066,Parks & Recreation,Tree Trimming Request,2025-03-27,Closed,2025-04-02,6,2,Medium
+SR-101543,Animal Control,Animal Bite Report,2025-03-27,Closed,2025-05-06,40,2,Low
+SR-101244,Code Enforcement,Overgrown Lot,2025-03-27,Resolved,2025-04-10,14,1,Medium
+SR-100138,Code Enforcement,Overgrown Lot,2025-03-28,Closed,2025-05-13,46,5,Low
+SR-102186,Public Works,Road Debris,2025-03-28,Open,,531,1,Medium
+SR-100285,Water Utilities,Water Main Break,2025-03-28,Open,,531,1,Medium
+SR-100501,Public Works,Road Debris,2025-03-29,Open,,530,3,Low
+SR-101971,Public Works,Sidewalk Damage,2025-03-29,Open,,530,5,Medium
+SR-100813,Parks & Recreation,Park Maintenance,2025-03-29,Open,,530,4,Medium
+SR-101217,Planning,Permit Question,2025-03-30,Closed,2025-03-30,0,2,High
+SR-101462,Planning,Zoning Inquiry,2025-03-30,Resolved,2025-04-20,21,4,Medium
+SR-102214,Public Works,Sidewalk Damage,2025-03-30,Closed,2025-04-03,4,5,Low
+SR-101198,Public Works,Pothole Repair,2025-03-30,Closed,2025-04-02,3,3,Low
+SR-101819,Public Works,Storm Drain Blocked,2025-03-30,In Progress,,529,1,Medium
+SR-101141,Code Enforcement,Overgrown Lot,2025-03-30,Resolved,2025-04-07,8,3,Low
+SR-100827,Code Enforcement,Illegal Dumping,2025-03-31,Closed,2025-04-10,10,4,Medium
+SR-101894,Public Works,Storm Drain Blocked,2025-03-31,Open,,528,2,Low
+SR-100889,Parks & Recreation,Park Maintenance,2025-03-31,Resolved,2025-04-03,3,1,High
+SR-100630,Public Works,Road Debris,2025-03-31,Resolved,2025-04-01,1,5,Medium
+SR-101043,Code Enforcement,Overgrown Lot,2025-04-01,In Progress,,527,5,Medium
+SR-100452,Planning,Zoning Inquiry,2025-04-01,Closed,2025-04-07,6,1,Low
+SR-100006,Public Works,Storm Drain Blocked,2025-04-02,Open,,526,5,Medium
+SR-101686,Planning,Land Use Complaint,2025-04-02,Closed,2025-04-10,8,4,High
+SR-100986,Planning,Sign Violation,2025-04-02,Resolved,2025-04-21,19,5,Low
+SR-100094,Water Utilities,Billing Inquiry,2025-04-03,Resolved,2025-05-16,43,3,Low
+SR-100515,Water Utilities,Low Water Pressure,2025-04-03,Open,,525,1,Low
+SR-101399,Code Enforcement,Illegal Dumping,2025-04-03,Resolved,2025-04-20,17,4,Low
+SR-100212,Planning,Zoning Inquiry,2025-04-03,In Progress,,525,4,Low
+SR-101458,Public Works,Sidewalk Damage,2025-04-03,Resolved,2025-04-06,3,1,Low
+SR-101520,Parks & Recreation,Trail Erosion,2025-04-04,Closed,2025-04-12,8,2,Medium
+SR-100743,Parks & Recreation,Trail Erosion,2025-04-04,Resolved,2025-04-10,6,5,Medium
+SR-101207,Parks & Recreation,Park Maintenance,2025-04-05,Resolved,2025-05-03,28,1,Medium
+SR-100721,Water Utilities,Water Main Break,2025-04-05,Resolved,2025-04-06,1,1,Low
+SR-100086,Parks & Recreation,Trail Erosion,2025-04-05,Closed,2025-04-06,1,2,Low
+SR-101269,Water Utilities,Water Main Break,2025-04-05,In Progress,,523,4,Medium
+SR-101743,Planning,Permit Question,2025-04-05,Open,,523,3,Medium
+SR-102283,Planning,Sign Violation,2025-04-06,In Progress,,522,2,Medium
+SR-101134,Parks & Recreation,Tree Trimming Request,2025-04-06,Resolved,2025-04-08,2,1,Low
+SR-100852,Public Works,Sidewalk Damage,2025-04-06,Resolved,2025-04-18,12,2,Medium
+SR-100562,Water Utilities,Low Water Pressure,2025-04-06,Resolved,2025-04-08,2,2,Medium
+SR-101949,Planning,Zoning Inquiry,2025-04-06,In Progress,,522,2,Medium
+SR-102439,Animal Control,Animal Bite Report,2025-04-07,Resolved,2025-04-09,2,1,Low
+SR-101860,Planning,Zoning Inquiry,2025-04-07,Open,,521,5,Low
+SR-102225,Code Enforcement,Illegal Dumping,2025-04-07,Resolved,2025-05-06,29,5,Medium
+SR-101605,Animal Control,Wildlife Concern,2025-04-07,In Progress,,521,1,Low
+SR-100919,Animal Control,Wildlife Concern,2025-04-08,Open,,520,5,High
+SR-101859,Code Enforcement,Overgrown Lot,2025-04-08,Open,,520,4,Medium
+SR-100557,Public Works,Sidewalk Damage,2025-04-08,In Progress,,520,2,Low
+SR-100013,Public Works,Road Debris,2025-04-09,In Progress,,519,3,Low
+SR-101011,Parks & Recreation,Tree Trimming Request,2025-04-09,Closed,2025-05-05,26,3,High
+SR-100174,Public Works,Pothole Repair,2025-04-09,Resolved,2025-04-19,10,3,Low
+SR-100061,Code Enforcement,Abandoned Vehicle,2025-04-09,Resolved,2025-04-15,6,5,Low
+SR-102106,Water Utilities,Billing Inquiry,2025-04-09,Closed,2025-04-09,0,4,High
+SR-100033,Planning,Zoning Inquiry,2025-04-09,In Progress,,519,2,Low
+SR-101672,Planning,Permit Question,2025-04-09,Open,,519,5,High
+SR-100911,Parks & Recreation,Tree Trimming Request,2025-04-09,Open,,519,3,Medium
+SR-100487,Code Enforcement,Abandoned Vehicle,2025-04-10,Open,,518,4,High
+SR-100054,Parks & Recreation,Playground Equipment Damage,2025-04-10,Resolved,2025-04-10,0,2,High
+SR-101181,Public Works,Pothole Repair,2025-04-10,Resolved,2025-04-11,1,4,Low
+SR-100001,Public Works,Road Debris,2025-04-10,Closed,2025-04-11,1,5,High
+SR-101235,Public Works,Sidewalk Damage,2025-04-11,Closed,2025-04-30,19,5,High
+SR-100304,Public Works,Sidewalk Damage,2025-04-11,Resolved,2025-04-12,1,4,Medium
+SR-101074,Public Works,Street Light Outage,2025-04-11,Closed,2025-04-18,7,2,Low
+SR-100419,Parks & Recreation,Playground Equipment Damage,2025-04-11,Resolved,2025-04-19,8,1,Low
+SR-101129,Public Works,Storm Drain Blocked,2025-04-11,Closed,2025-05-09,28,1,Low
+SR-100437,Planning,Sign Violation,2025-04-12,Resolved,2025-04-16,4,1,Medium
+SR-100882,Water Utilities,Billing Inquiry,2025-04-12,Open,,516,3,Medium
+SR-101384,Planning,Permit Question,2025-04-12,In Progress,,516,5,High
+SR-100157,Parks & Recreation,Park Maintenance,2025-04-12,Resolved,2025-04-22,10,4,Medium
+SR-100338,Parks & Recreation,Trail Erosion,2025-04-12,Closed,2025-05-28,46,3,Medium
+SR-101405,Water Utilities,Water Main Break,2025-04-13,In Progress,,515,5,Low
+SR-100517,Public Works,Pothole Repair,2025-04-13,Open,,515,1,High
+SR-100965,Planning,Permit Question,2025-04-13,Resolved,2025-04-17,4,5,Medium
+SR-100391,Animal Control,Wildlife Concern,2025-04-14,Closed,2025-04-18,4,3,Low
+SR-101571,Code Enforcement,Overgrown Lot,2025-04-14,Resolved,2025-04-24,10,5,Low
+SR-102456,Public Works,Pothole Repair,2025-04-14,In Progress,,514,5,Medium
+SR-101618,Parks & Recreation,Tree Trimming Request,2025-04-14,Resolved,2025-04-20,6,2,Low
+SR-101403,Planning,Sign Violation,2025-04-14,Open,,514,3,Low
+SR-100428,Public Works,Pothole Repair,2025-04-14,Closed,2025-04-15,1,5,Low
+SR-101835,Planning,Zoning Inquiry,2025-04-15,Closed,2025-04-18,3,4,Low
+SR-101261,Code Enforcement,Illegal Dumping,2025-04-15,Open,,513,4,High
+SR-101365,Public Works,Street Light Outage,2025-04-15,Resolved,2025-05-04,19,3,Medium
+SR-101063,Animal Control,Wildlife Concern,2025-04-15,In Progress,,513,2,High
+SR-100205,Water Utilities,Low Water Pressure,2025-04-16,Open,,512,3,Low
+SR-102176,Animal Control,Animal Bite Report,2025-04-16,Resolved,2025-04-23,7,1,Low
+SR-102460,Water Utilities,Low Water Pressure,2025-04-16,Resolved,2025-04-18,2,2,Low
+SR-101099,Parks & Recreation,Park Maintenance,2025-04-16,Resolved,2025-04-17,1,3,Low
+SR-101946,Animal Control,Wildlife Concern,2025-04-17,Closed,2025-04-17,0,1,Medium
+SR-101553,Public Works,Street Light Outage,2025-04-17,In Progress,,511,3,Medium
+SR-100601,Parks & Recreation,Tree Trimming Request,2025-04-18,In Progress,,510,3,Medium
+SR-100812,Public Works,Storm Drain Blocked,2025-04-18,Resolved,2025-05-27,39,4,Low
+SR-102287,Code Enforcement,Abandoned Vehicle,2025-04-18,Open,,510,4,Medium
+SR-101377,Public Works,Street Light Outage,2025-04-19,Closed,2025-04-26,7,3,Low
+SR-100710,Planning,Zoning Inquiry,2025-04-19,In Progress,,509,5,Low
+SR-100907,Code Enforcement,Abandoned Vehicle,2025-04-19,Open,,509,4,Low
+SR-100368,Water Utilities,Water Main Break,2025-04-19,Resolved,2025-04-30,11,5,Medium
+SR-101076,Animal Control,Wildlife Concern,2025-04-20,Resolved,2025-05-12,22,5,Low
+SR-102012,Parks & Recreation,Park Maintenance,2025-04-20,Closed,2025-04-22,2,4,High
+SR-102034,Parks & Recreation,Trail Erosion,2025-04-20,Closed,2025-05-01,11,4,Low
+SR-100103,Parks & Recreation,Park Maintenance,2025-04-21,Closed,2025-05-01,10,1,Medium
+SR-102432,Code Enforcement,Abandoned Vehicle,2025-04-21,In Progress,,507,4,Medium
+SR-102258,Public Works,Storm Drain Blocked,2025-04-21,Open,,507,3,Medium
+SR-102226,Animal Control,Stray Animal,2025-04-21,Closed,2025-05-07,16,1,Low
+SR-101876,Water Utilities,Meter Reading Issue,2025-04-22,Resolved,2025-04-28,6,5,Medium
+SR-102103,Planning,Land Use Complaint,2025-04-22,In Progress,,506,4,Low
+SR-101165,Parks & Recreation,Tree Trimming Request,2025-04-22,Closed,2025-04-30,8,1,Medium
+SR-102206,Water Utilities,Low Water Pressure,2025-04-22,Open,,506,2,Low
+SR-102208,Parks & Recreation,Tree Trimming Request,2025-04-22,Resolved,2025-04-25,3,1,Low
+SR-101290,Public Works,Pothole Repair,2025-04-22,Resolved,2025-04-26,4,3,High
+SR-100563,Public Works,Sidewalk Damage,2025-04-22,Closed,2025-04-24,2,1,Low
+SR-101858,Code Enforcement,Abandoned Vehicle,2025-04-23,Resolved,2025-06-11,49,2,Low
+SR-101780,Public Works,Road Debris,2025-04-23,Closed,2025-04-29,6,3,Low
+SR-100294,Public Works,Sidewalk Damage,2025-04-23,In Progress,,505,1,Low
+SR-100371,Code Enforcement,Unsafe Structure,2025-04-23,Open,,505,1,High
+SR-102400,Planning,Sign Violation,2025-04-23,Closed,2025-04-24,1,2,Low
+SR-100023,Animal Control,Barking Complaint,2025-04-23,Resolved,2025-06-07,45,5,Low
+SR-101795,Water Utilities,Billing Inquiry,2025-04-23,Open,,505,3,High
+SR-101084,Animal Control,Stray Animal,2025-04-24,Open,,504,3,Low
+SR-100701,Animal Control,Barking Complaint,2025-04-24,Resolved,2025-05-05,11,3,High
+SR-100399,Parks & Recreation,Tree Trimming Request,2025-04-24,Closed,2025-05-01,7,3,High
+SR-101478,Planning,Sign Violation,2025-04-24,Resolved,2025-05-02,8,2,Medium
+SR-101266,Water Utilities,Billing Inquiry,2025-04-25,Open,,503,2,Medium
+SR-100902,Water Utilities,Low Water Pressure,2025-04-25,Closed,2025-05-24,29,5,High
+SR-102091,Code Enforcement,Abandoned Vehicle,2025-04-25,Closed,2025-05-10,15,5,Medium
+SR-100180,Code Enforcement,Noise Complaint,2025-04-25,Resolved,2025-05-15,20,2,Medium
+SR-101194,Public Works,Storm Drain Blocked,2025-04-25,Closed,2025-05-10,15,2,Low
+SR-101492,Public Works,Pothole Repair,2025-04-25,Resolved,2025-04-29,4,1,Medium
+SR-101562,Public Works,Sidewalk Damage,2025-04-26,Resolved,2025-05-21,25,1,Medium
+SR-100204,Public Works,Road Debris,2025-04-26,Resolved,2025-05-01,5,2,Medium
+SR-100870,Public Works,Street Light Outage,2025-04-26,Open,,502,3,Low
+SR-100669,Water Utilities,Low Water Pressure,2025-04-26,Resolved,2025-05-09,13,1,Medium
+SR-100899,Planning,Zoning Inquiry,2025-04-27,Resolved,2025-04-27,0,3,Medium
+SR-101022,Planning,Permit Question,2025-04-28,Resolved,2025-05-09,11,4,Low
+SR-100121,Water Utilities,Water Main Break,2025-04-28,Open,,500,4,Low
+SR-102408,Code Enforcement,Noise Complaint,2025-04-28,Resolved,2025-05-11,13,5,Low
+SR-101848,Planning,Sign Violation,2025-04-28,Closed,2025-05-06,8,2,Low
+SR-100107,Animal Control,Barking Complaint,2025-04-28,In Progress,,500,3,Medium
+SR-100311,Water Utilities,Billing Inquiry,2025-04-28,Resolved,2025-05-10,12,4,Low
+SR-101040,Parks & Recreation,Playground Equipment Damage,2025-04-28,Resolved,2025-05-03,5,4,Low
+SR-101135,Parks & Recreation,Trail Erosion,2025-04-28,Resolved,2025-05-18,20,3,Medium
+SR-101986,Parks & Recreation,Playground Equipment Damage,2025-04-29,Resolved,2025-04-29,0,1,Low
+SR-101809,Water Utilities,Billing Inquiry,2025-04-30,Closed,2025-05-06,6,3,Medium
+SR-101189,Code Enforcement,Noise Complaint,2025-04-30,Closed,2025-05-10,10,5,Low
+SR-100537,Public Works,Road Debris,2025-04-30,Closed,2025-05-23,23,1,High
+SR-100048,Animal Control,Animal Bite Report,2025-04-30,Resolved,2025-05-03,3,2,Low
+SR-101001,Public Works,Sidewalk Damage,2025-05-01,Open,,497,2,Medium
+SR-100939,Public Works,Road Debris,2025-05-01,Closed,2025-05-16,15,3,Low
+SR-100626,Public Works,Street Light Outage,2025-05-01,Open,,497,3,Low
+SR-100966,Public Works,Street Light Outage,2025-05-01,Closed,2025-05-03,2,2,Low
+SR-101530,Code Enforcement,Abandoned Vehicle,2025-05-01,Resolved,2025-05-17,16,3,Medium
+SR-101963,Public Works,Street Light Outage,2025-05-01,Resolved,2025-05-09,8,1,Low
+SR-102353,Code Enforcement,Unsafe Structure,2025-05-01,Resolved,2025-05-01,0,1,Low
+SR-101788,Public Works,Road Debris,2025-05-02,Closed,2025-05-19,17,3,Low
+SR-101713,Parks & Recreation,Park Maintenance,2025-05-02,Resolved,2025-05-08,6,5,Low
+SR-100525,Planning,Sign Violation,2025-05-02,Closed,2025-05-07,5,3,Medium
+SR-100439,Code Enforcement,Noise Complaint,2025-05-02,Open,,496,2,Medium
+SR-100385,Public Works,Road Debris,2025-05-02,Closed,2025-05-03,1,5,Low
+SR-101301,Public Works,Road Debris,2025-05-02,Open,,496,1,Medium
+SR-102164,Public Works,Pothole Repair,2025-05-03,Resolved,2025-05-26,23,2,Low
+SR-100912,Public Works,Sidewalk Damage,2025-05-03,Resolved,2025-05-31,28,4,Low
+SR-100973,Code Enforcement,Illegal Dumping,2025-05-03,Open,,495,2,Low
+SR-100690,Planning,Land Use Complaint,2025-05-03,In Progress,,495,4,Low
+SR-100026,Water Utilities,Water Main Break,2025-05-04,Closed,2025-05-12,8,3,Medium
+SR-100240,Public Works,Road Debris,2025-05-04,Closed,2025-06-10,37,3,Low
+SR-100345,Public Works,Pothole Repair,2025-05-04,Open,,494,3,Medium
+SR-100293,Planning,Land Use Complaint,2025-05-04,In Progress,,494,4,Low
+SR-102267,Planning,Zoning Inquiry,2025-05-04,In Progress,,494,1,Low
+SR-100543,Animal Control,Stray Animal,2025-05-05,Resolved,2025-05-15,10,5,Medium
+SR-101455,Code Enforcement,Noise Complaint,2025-05-05,Closed,2025-05-26,21,2,Low
+SR-102077,Water Utilities,Meter Reading Issue,2025-05-05,Resolved,2025-05-05,0,5,Medium
+SR-101624,Animal Control,Stray Animal,2025-05-05,Resolved,2025-05-09,4,2,Low
+SR-100897,Public Works,Street Light Outage,2025-05-05,Resolved,2025-05-25,20,5,Medium
+SR-101173,Code Enforcement,Noise Complaint,2025-05-06,Resolved,2025-05-16,10,5,Low
+SR-100092,Code Enforcement,Noise Complaint,2025-05-06,In Progress,,492,3,Medium
+SR-100769,Code Enforcement,Unsafe Structure,2025-05-06,Resolved,2025-05-09,3,3,Low
+SR-102341,Public Works,Road Debris,2025-05-06,Open,,492,3,Low
+SR-100049,Animal Control,Barking Complaint,2025-05-07,Resolved,2025-05-21,14,2,High
+SR-100650,Public Works,Road Debris,2025-05-08,In Progress,,490,4,High
+SR-101373,Public Works,Road Debris,2025-05-08,Resolved,2025-05-27,19,3,Medium
+SR-100612,Planning,Zoning Inquiry,2025-05-08,Open,,490,4,Medium
+SR-100836,Water Utilities,Meter Reading Issue,2025-05-08,Open,,490,4,High
+SR-100744,Water Utilities,Low Water Pressure,2025-05-08,Resolved,2025-05-14,6,2,Low
+SR-101051,Public Works,Pothole Repair,2025-05-08,In Progress,,490,2,Low
+SR-102071,Code Enforcement,Illegal Dumping,2025-05-08,Closed,2025-05-16,8,3,Low
+SR-101031,Water Utilities,Billing Inquiry,2025-05-08,Closed,2025-05-19,11,1,Low
+SR-101088,Public Works,Sidewalk Damage,2025-05-08,In Progress,,490,1,High
+SR-101487,Parks & Recreation,Trail Erosion,2025-05-09,Resolved,2025-05-13,4,3,Low
+SR-102025,Animal Control,Wildlife Concern,2025-05-09,In Progress,,489,3,Medium
+SR-102068,Public Works,Street Light Outage,2025-05-09,In Progress,,489,1,Low
+SR-101061,Parks & Recreation,Park Maintenance,2025-05-10,Open,,488,4,Low
+SR-100788,Water Utilities,Meter Reading Issue,2025-05-10,Closed,2025-05-11,1,3,Low
+SR-100024,Parks & Recreation,Park Maintenance,2025-05-10,Resolved,2025-05-19,9,4,Low
+SR-100923,Water Utilities,Billing Inquiry,2025-05-10,Resolved,2025-05-13,3,5,Low
+SR-102468,Code Enforcement,Abandoned Vehicle,2025-05-10,In Progress,,488,5,Medium
+SR-101364,Public Works,Sidewalk Damage,2025-05-11,In Progress,,487,1,Medium
+SR-101133,Parks & Recreation,Playground Equipment Damage,2025-05-11,Resolved,2025-05-23,12,4,Low
+SR-100322,Animal Control,Stray Animal,2025-05-11,In Progress,,487,1,Low
+SR-101295,Public Works,Sidewalk Damage,2025-05-12,Closed,2025-05-13,1,3,Low
+SR-101191,Parks & Recreation,Trail Erosion,2025-05-12,Open,,486,5,Medium
+SR-101505,Water Utilities,Meter Reading Issue,2025-05-12,Closed,2025-05-15,3,5,High
+SR-101933,Water Utilities,Water Main Break,2025-05-13,In Progress,,485,1,Low
+SR-101019,Water Utilities,Billing Inquiry,2025-05-13,Closed,2025-05-18,5,5,Medium
+SR-101265,Water Utilities,Meter Reading Issue,2025-05-13,Closed,2025-05-13,0,5,Low
+SR-102488,Planning,Zoning Inquiry,2025-05-13,Closed,2025-05-30,17,3,Medium
+SR-102298,Water Utilities,Low Water Pressure,2025-05-13,Closed,2025-05-17,4,3,Low
+SR-102398,Code Enforcement,Unsafe Structure,2025-05-13,Open,,485,3,High
+SR-100183,Water Utilities,Billing Inquiry,2025-05-13,Closed,2025-06-07,25,3,High
+SR-102074,Parks & Recreation,Tree Trimming Request,2025-05-14,Closed,2025-05-23,9,5,Low
+SR-102316,Animal Control,Animal Bite Report,2025-05-14,Closed,2025-05-15,1,5,High
+SR-100486,Code Enforcement,Noise Complaint,2025-05-14,Closed,2025-05-17,3,1,Medium
+SR-100124,Animal Control,Animal Bite Report,2025-05-14,Resolved,2025-05-20,6,3,Low
+SR-102151,Planning,Zoning Inquiry,2025-05-14,Open,,484,1,Medium
+SR-102291,Animal Control,Animal Bite Report,2025-05-15,Resolved,2025-06-20,36,5,Low
+SR-102222,Public Works,Street Light Outage,2025-05-15,In Progress,,483,1,Low
+SR-101725,Parks & Recreation,Playground Equipment Damage,2025-05-15,Closed,2025-05-18,3,5,Low
+SR-101280,Water Utilities,Billing Inquiry,2025-05-16,Resolved,2025-05-19,3,4,High
+SR-100415,Water Utilities,Billing Inquiry,2025-05-17,Resolved,2025-06-08,22,4,High
+SR-102063,Planning,Sign Violation,2025-05-17,Open,,481,4,Medium
+SR-101319,Parks & Recreation,Park Maintenance,2025-05-17,In Progress,,481,5,Low
+SR-102270,Water Utilities,Billing Inquiry,2025-05-17,Closed,2025-05-20,3,2,Low
+SR-101426,Water Utilities,Water Main Break,2025-05-17,Resolved,2025-06-01,15,3,Medium
+SR-101792,Public Works,Pothole Repair,2025-05-17,Closed,2025-05-18,1,1,Low
+SR-100639,Water Utilities,Billing Inquiry,2025-05-18,Resolved,2025-05-24,6,1,Medium
+SR-102253,Water Utilities,Low Water Pressure,2025-05-18,Resolved,2025-05-27,9,3,Low
+SR-101293,Parks & Recreation,Tree Trimming Request,2025-05-18,Resolved,2025-06-11,24,5,Medium
+SR-100110,Public Works,Road Debris,2025-05-19,Resolved,2025-06-20,32,3,Low
+SR-102315,Public Works,Road Debris,2025-05-19,Closed,2025-05-31,12,4,Low
+SR-101256,Water Utilities,Low Water Pressure,2025-05-19,Open,,479,1,Medium
+SR-101096,Planning,Permit Question,2025-05-19,Resolved,2025-06-19,31,3,Medium
+SR-100810,Public Works,Pothole Repair,2025-05-20,Open,,478,2,High
+SR-102256,Code Enforcement,Overgrown Lot,2025-05-20,Closed,2025-06-06,17,2,Low
+SR-102344,Animal Control,Barking Complaint,2025-05-21,Closed,2025-05-30,9,2,Low
+SR-100134,Public Works,Pothole Repair,2025-05-21,Resolved,2025-05-27,6,3,Low
+SR-101152,Animal Control,Stray Animal,2025-05-21,Resolved,2025-06-08,18,1,Medium
+SR-101760,Water Utilities,Water Main Break,2025-05-22,Resolved,2025-05-26,4,3,High
+SR-101185,Water Utilities,Water Main Break,2025-05-22,Resolved,2025-06-18,27,1,Medium
+SR-101662,Public Works,Road Debris,2025-05-22,Open,,476,3,Low
+SR-101999,Parks & Recreation,Playground Equipment Damage,2025-05-22,In Progress,,476,3,Low
+SR-102371,Public Works,Pothole Repair,2025-05-22,Closed,2025-05-27,5,3,High
+SR-100434,Parks & Recreation,Tree Trimming Request,2025-05-23,Closed,2025-06-01,9,1,Low
+SR-102447,Public Works,Street Light Outage,2025-05-23,Resolved,2025-05-27,4,3,Low
+SR-102204,Planning,Sign Violation,2025-05-23,Closed,2025-05-31,8,3,Low
+SR-101947,Planning,Land Use Complaint,2025-05-23,Resolved,2025-06-07,15,4,Low
+SR-102452,Planning,Sign Violation,2025-05-24,Closed,2025-06-02,9,1,Low
+SR-100729,Planning,Zoning Inquiry,2025-05-24,Open,,474,2,Low
+SR-100783,Planning,Sign Violation,2025-05-24,Closed,2025-05-31,7,4,Medium
+SR-102023,Water Utilities,Meter Reading Issue,2025-05-25,Closed,2025-06-07,13,5,Low
+SR-101433,Code Enforcement,Overgrown Lot,2025-05-25,Open,,473,5,Low
+SR-100230,Public Works,Street Light Outage,2025-05-25,Closed,2025-06-15,21,1,Low
+SR-101755,Public Works,Street Light Outage,2025-05-25,Open,,473,5,Medium
+SR-100117,Code Enforcement,Overgrown Lot,2025-05-25,Resolved,2025-06-21,27,5,High
+SR-101873,Public Works,Storm Drain Blocked,2025-05-25,Resolved,2025-05-27,2,5,High
+SR-100175,Water Utilities,Low Water Pressure,2025-05-25,Closed,2025-05-27,2,5,Low
+SR-101620,Code Enforcement,Noise Complaint,2025-05-26,Resolved,2025-05-26,0,2,High
+SR-101642,Planning,Sign Violation,2025-05-26,Resolved,2025-06-09,14,2,Low
+SR-101249,Animal Control,Animal Bite Report,2025-05-26,In Progress,,472,2,Medium
+SR-101978,Water Utilities,Water Main Break,2025-05-27,Resolved,2025-06-05,9,3,Low
+SR-100398,Parks & Recreation,Playground Equipment Damage,2025-05-27,In Progress,,471,5,Medium
+SR-100142,Public Works,Road Debris,2025-05-27,Closed,2025-05-28,1,5,Low
+SR-100380,Water Utilities,Billing Inquiry,2025-05-28,Resolved,2025-06-01,4,2,Medium
+SR-101567,Water Utilities,Low Water Pressure,2025-05-29,Resolved,2025-05-29,0,5,Low
+SR-101887,Code Enforcement,Overgrown Lot,2025-05-29,Open,,469,4,Medium
+SR-100423,Planning,Sign Violation,2025-05-29,Resolved,2025-06-11,13,1,High
+SR-100075,Animal Control,Stray Animal,2025-05-29,Closed,2025-05-29,0,4,Low
+SR-101041,Public Works,Pothole Repair,2025-05-29,Closed,2025-07-12,44,4,Low
+SR-100291,Code Enforcement,Illegal Dumping,2025-05-29,Resolved,2025-05-30,1,2,Medium
+SR-100045,Code Enforcement,Noise Complaint,2025-05-30,Open,,468,4,Low
+SR-102354,Public Works,Street Light Outage,2025-05-30,Closed,2025-06-10,11,1,Low
+SR-101824,Water Utilities,Water Main Break,2025-05-31,Closed,2025-07-11,41,3,Medium
+SR-100724,Animal Control,Barking Complaint,2025-05-31,Resolved,2025-06-05,5,5,Medium
+SR-101768,Animal Control,Animal Bite Report,2025-05-31,In Progress,,467,5,Medium
+SR-100494,Parks & Recreation,Playground Equipment Damage,2025-05-31,Closed,2025-05-31,0,1,Low
+SR-101558,Water Utilities,Low Water Pressure,2025-06-01,Closed,2025-06-02,1,4,Low
+SR-102084,Public Works,Street Light Outage,2025-06-01,In Progress,,466,2,Medium
+SR-102312,Code Enforcement,Overgrown Lot,2025-06-01,Open,,466,2,Medium
+SR-101039,Code Enforcement,Noise Complaint,2025-06-02,Closed,2025-06-08,6,4,Low
+SR-101036,Code Enforcement,Overgrown Lot,2025-06-02,Closed,2025-06-16,14,2,Medium
+SR-102492,Planning,Land Use Complaint,2025-06-02,Closed,2025-06-05,3,3,Medium
+SR-100793,Public Works,Pothole Repair,2025-06-03,Resolved,2025-06-03,0,3,Medium
+SR-100305,Water Utilities,Billing Inquiry,2025-06-03,Resolved,2025-06-08,5,5,Low
+SR-101453,Code Enforcement,Abandoned Vehicle,2025-06-03,Closed,2025-06-10,7,3,Medium
+SR-100719,Parks & Recreation,Playground Equipment Damage,2025-06-03,Open,,464,3,Medium
+SR-101502,Parks & Recreation,Trail Erosion,2025-06-03,In Progress,,464,1,Low
+SR-100413,Public Works,Street Light Outage,2025-06-03,Resolved,2025-06-18,15,1,Low
+SR-101401,Parks & Recreation,Tree Trimming Request,2025-06-04,Resolved,2025-06-04,0,1,Medium
+SR-101994,Public Works,Sidewalk Damage,2025-06-04,Open,,463,3,Medium
+SR-100554,Water Utilities,Billing Inquiry,2025-06-04,In Progress,,463,1,High
+SR-101799,Public Works,Sidewalk Damage,2025-06-04,Closed,2025-07-03,29,4,Low
+SR-101139,Public Works,Street Light Outage,2025-06-05,Resolved,2025-06-17,12,4,Medium
+SR-102154,Public Works,Road Debris,2025-06-05,Open,,462,5,Medium
+SR-101469,Public Works,Storm Drain Blocked,2025-06-05,Open,,462,3,Low
+SR-101924,Planning,Permit Question,2025-06-05,Open,,462,3,Low
+SR-102140,Public Works,Pothole Repair,2025-06-05,Resolved,2025-06-18,13,3,Medium
+SR-102099,Water Utilities,Water Main Break,2025-06-05,Open,,462,2,High
+SR-101091,Public Works,Street Light Outage,2025-06-05,Open,,462,2,Low
+SR-100534,Parks & Recreation,Playground Equipment Damage,2025-06-05,In Progress,,462,3,Medium
+SR-101712,Water Utilities,Low Water Pressure,2025-06-06,Resolved,2025-06-24,18,5,Medium
+SR-100122,Parks & Recreation,Tree Trimming Request,2025-06-06,Resolved,2025-06-15,9,4,Medium
+SR-100010,Code Enforcement,Overgrown Lot,2025-06-06,Open,,461,1,Medium
+SR-101649,Parks & Recreation,Park Maintenance,2025-06-06,Closed,2025-06-09,3,2,Medium
+SR-102178,Public Works,Pothole Repair,2025-06-07,In Progress,,460,4,Low
+SR-101023,Public Works,Storm Drain Blocked,2025-06-07,In Progress,,460,4,Medium
+SR-100145,Public Works,Street Light Outage,2025-06-07,Closed,2025-06-15,8,1,Low
+SR-101728,Public Works,Road Debris,2025-06-07,Closed,2025-06-21,14,4,Low
+SR-101908,Code Enforcement,Abandoned Vehicle,2025-06-08,Open,,459,4,Medium
+SR-101591,Water Utilities,Billing Inquiry,2025-06-08,Closed,2025-06-12,4,3,Medium
+SR-102038,Public Works,Pothole Repair,2025-06-08,Resolved,2025-06-09,1,1,Medium
+SR-100614,Public Works,Sidewalk Damage,2025-06-08,In Progress,,459,4,High
+SR-102393,Public Works,Street Light Outage,2025-06-09,Resolved,2025-06-09,0,1,Low
+SR-101340,Parks & Recreation,Playground Equipment Damage,2025-06-09,Open,,458,3,Low
+SR-102006,Parks & Recreation,Trail Erosion,2025-06-09,Open,,458,5,Low
+SR-101714,Planning,Permit Question,2025-06-09,Closed,2025-06-09,0,2,Low
+SR-100410,Parks & Recreation,Trail Erosion,2025-06-09,Resolved,2025-06-17,8,4,Low
+SR-100040,Public Works,Road Debris,2025-06-10,In Progress,,457,1,Low
+SR-101882,Public Works,Road Debris,2025-06-10,Open,,457,4,Medium
+SR-100034,Code Enforcement,Noise Complaint,2025-06-10,Resolved,2025-06-10,0,4,Low
+SR-100684,Public Works,Road Debris,2025-06-10,Resolved,2025-06-20,10,2,Medium
+SR-100165,Parks & Recreation,Playground Equipment Damage,2025-06-10,Resolved,2025-07-06,26,2,Low
+SR-101579,Planning,Zoning Inquiry,2025-06-10,Closed,2025-07-27,47,4,Low
+SR-102427,Animal Control,Animal Bite Report,2025-06-11,Closed,2025-07-03,22,3,Medium
+SR-100422,Water Utilities,Water Main Break,2025-06-11,Closed,2025-06-17,6,4,Medium
+SR-101457,Planning,Sign Violation,2025-06-11,Resolved,2025-07-09,28,3,Low
+SR-100638,Water Utilities,Meter Reading Issue,2025-06-12,Closed,2025-06-22,10,3,High
+SR-100067,Code Enforcement,Noise Complaint,2025-06-12,Resolved,2025-07-08,26,2,High
+SR-101253,Code Enforcement,Overgrown Lot,2025-06-12,Resolved,2025-06-18,6,4,High
+SR-102321,Water Utilities,Low Water Pressure,2025-06-12,Resolved,2025-06-17,5,4,Low
+SR-101220,Animal Control,Barking Complaint,2025-06-12,Closed,2025-06-21,9,2,Medium
+SR-102279,Code Enforcement,Illegal Dumping,2025-06-13,Resolved,2025-06-15,2,2,Low
+SR-102410,Planning,Land Use Complaint,2025-06-13,Closed,2025-06-20,7,2,Medium
+SR-102275,Planning,Sign Violation,2025-06-13,Closed,2025-07-05,22,1,Low
+SR-100268,Public Works,Pothole Repair,2025-06-13,Open,,454,5,Low
+SR-101231,Public Works,Storm Drain Blocked,2025-06-13,Resolved,2025-06-14,1,1,Medium
+SR-101644,Public Works,Street Light Outage,2025-06-13,Resolved,2025-07-11,28,2,Low
+SR-100490,Animal Control,Stray Animal,2025-06-13,In Progress,,454,1,Medium
+SR-100633,Code Enforcement,Overgrown Lot,2025-06-13,Open,,454,2,Low
+SR-101601,Water Utilities,Water Main Break,2025-06-14,Open,,453,4,High
+SR-101934,Animal Control,Wildlife Concern,2025-06-14,In Progress,,453,2,High
+SR-102024,Planning,Zoning Inquiry,2025-06-14,Resolved,2025-06-20,6,4,Low
+SR-100746,Animal Control,Wildlife Concern,2025-06-14,Resolved,2025-06-16,2,1,Low
+SR-101169,Planning,Permit Question,2025-06-15,Closed,2025-06-17,2,3,Low
+SR-102096,Code Enforcement,Unsafe Structure,2025-06-15,Resolved,2025-06-19,4,3,Medium
+SR-102352,Public Works,Road Debris,2025-06-16,In Progress,,451,2,Low
+SR-101150,Public Works,Sidewalk Damage,2025-06-16,In Progress,,451,4,High
+SR-102008,Planning,Land Use Complaint,2025-06-16,Closed,2025-06-29,13,5,High
+SR-101670,Planning,Zoning Inquiry,2025-06-16,Resolved,2025-06-20,4,1,Medium
+SR-101691,Public Works,Pothole Repair,2025-06-16,Closed,2025-07-07,21,4,Low
+SR-100252,Code Enforcement,Noise Complaint,2025-06-16,Open,,451,4,Medium
+SR-101447,Code Enforcement,Abandoned Vehicle,2025-06-16,Open,,451,2,High
+SR-100826,Public Works,Pothole Repair,2025-06-16,Open,,451,3,Low
+SR-100864,Code Enforcement,Noise Complaint,2025-06-17,Resolved,2025-07-02,15,4,Low
+SR-100473,Code Enforcement,Noise Complaint,2025-06-17,Resolved,2025-06-17,0,3,Low
+SR-102079,Animal Control,Stray Animal,2025-06-17,Open,,450,5,Low
+SR-100057,Planning,Zoning Inquiry,2025-06-17,In Progress,,450,5,Low
+SR-100674,Parks & Recreation,Park Maintenance,2025-06-18,In Progress,,449,5,Low
+SR-101072,Public Works,Street Light Outage,2025-06-18,Resolved,2025-06-27,9,4,Low
+SR-100462,Public Works,Storm Drain Blocked,2025-06-18,Resolved,2025-07-10,22,2,High
+SR-101652,Public Works,Street Light Outage,2025-06-18,Resolved,2025-06-24,6,1,High
+SR-101246,Public Works,Road Debris,2025-06-18,Closed,2025-06-22,4,4,Low
+SR-101144,Public Works,Pothole Repair,2025-06-18,Resolved,2025-06-22,4,3,Low
+SR-100795,Code Enforcement,Illegal Dumping,2025-06-18,Open,,449,3,Low
+SR-100546,Code Enforcement,Overgrown Lot,2025-06-19,Resolved,2025-07-04,15,3,High
+SR-102229,Code Enforcement,Noise Complaint,2025-06-19,Resolved,2025-06-21,2,1,Medium
+SR-102182,Public Works,Pothole Repair,2025-06-19,Closed,2025-06-21,2,2,Medium
+SR-101353,Parks & Recreation,Trail Erosion,2025-06-19,Open,,448,5,High
+SR-100643,Public Works,Street Light Outage,2025-06-20,Open,,447,3,Medium
+SR-100838,Planning,Sign Violation,2025-06-20,Closed,2025-06-20,0,1,Low
+SR-100662,Animal Control,Barking Complaint,2025-06-20,Open,,447,4,Low
+SR-101867,Public Works,Sidewalk Damage,2025-06-20,Resolved,2025-06-23,3,3,Low
+SR-100687,Code Enforcement,Illegal Dumping,2025-06-21,Resolved,2025-07-23,32,1,Low
+SR-101769,Public Works,Pothole Repair,2025-06-21,Closed,2025-06-21,0,1,Low
+SR-101727,Public Works,Sidewalk Damage,2025-06-21,Resolved,2025-07-07,16,1,Medium
+SR-100955,Animal Control,Wildlife Concern,2025-06-21,Closed,2025-06-22,1,2,Medium
+SR-100270,Public Works,Storm Drain Blocked,2025-06-22,Closed,2025-07-01,9,4,Low
+SR-100449,Planning,Sign Violation,2025-06-22,In Progress,,445,3,High
+SR-100072,Public Works,Sidewalk Damage,2025-06-22,Resolved,2025-06-22,0,2,Medium
+SR-100990,Planning,Zoning Inquiry,2025-06-22,Closed,2025-07-11,19,4,Medium
+SR-100941,Animal Control,Animal Bite Report,2025-06-23,Resolved,2025-07-15,22,4,Low
+SR-101654,Parks & Recreation,Tree Trimming Request,2025-06-24,Closed,2025-07-03,9,1,Low
+SR-101239,Public Works,Pothole Repair,2025-06-24,Open,,443,4,Low
+SR-100229,Water Utilities,Low Water Pressure,2025-06-24,Closed,2025-07-08,14,2,Low
+SR-100417,Parks & Recreation,Park Maintenance,2025-06-24,Closed,2025-06-26,2,5,Low
+SR-101281,Public Works,Storm Drain Blocked,2025-06-24,Closed,2025-06-26,2,1,Low
+SR-100514,Code Enforcement,Illegal Dumping,2025-06-24,In Progress,,443,2,Low
+SR-101346,Public Works,Sidewalk Damage,2025-06-24,Open,,443,1,Low
+SR-100904,Water Utilities,Water Main Break,2025-06-25,Closed,2025-07-07,12,4,Medium
+SR-101182,Water Utilities,Water Main Break,2025-06-25,Resolved,2025-07-09,14,4,Medium
+SR-101871,Water Utilities,Meter Reading Issue,2025-06-25,Resolved,2025-07-01,6,5,Medium
+SR-102169,Water Utilities,Water Main Break,2025-06-25,Closed,2025-07-05,10,5,Medium
+SR-101313,Public Works,Street Light Outage,2025-06-25,Resolved,2025-06-25,0,2,Medium
+SR-101771,Public Works,Road Debris,2025-06-25,Closed,2025-07-05,10,3,Medium
+SR-100416,Animal Control,Barking Complaint,2025-06-26,Closed,2025-07-01,5,3,Low
+SR-101616,Code Enforcement,Abandoned Vehicle,2025-06-26,Resolved,2025-07-02,6,1,Medium
+SR-102340,Water Utilities,Low Water Pressure,2025-06-26,Closed,2025-06-30,4,2,Low
+SR-101045,Animal Control,Stray Animal,2025-06-26,Closed,2025-07-05,9,3,Medium
+SR-100808,Public Works,Storm Drain Blocked,2025-06-26,Closed,2025-08-05,40,4,Medium
+SR-100227,Code Enforcement,Abandoned Vehicle,2025-06-27,Resolved,2025-07-02,5,5,Low
+SR-101700,Public Works,Street Light Outage,2025-06-27,In Progress,,440,1,Low
+SR-102052,Water Utilities,Meter Reading Issue,2025-06-27,In Progress,,440,3,Medium
+SR-101085,Animal Control,Stray Animal,2025-06-27,Open,,440,1,Low
+SR-100903,Public Works,Pothole Repair,2025-06-27,In Progress,,440,3,Low
+SR-101544,Public Works,Pothole Repair,2025-06-27,In Progress,,440,4,Low
+SR-101160,Code Enforcement,Overgrown Lot,2025-06-27,Resolved,2025-06-28,1,1,Low
+SR-101436,Public Works,Road Debris,2025-06-27,In Progress,,440,3,Medium
+SR-100359,Code Enforcement,Noise Complaint,2025-06-28,Resolved,2025-07-01,3,4,Low
+SR-101682,Public Works,Storm Drain Blocked,2025-06-28,Resolved,2025-07-08,10,1,High
+SR-101900,Water Utilities,Water Main Break,2025-06-28,Closed,2025-06-30,2,1,High
+SR-100131,Public Works,Storm Drain Blocked,2025-06-28,Resolved,2025-07-01,3,4,Low
+SR-100860,Code Enforcement,Illegal Dumping,2025-06-28,Closed,2025-06-30,2,2,Low
+SR-101995,Animal Control,Wildlife Concern,2025-06-29,Open,,438,5,Low
+SR-101004,Code Enforcement,Unsafe Structure,2025-06-29,Closed,2025-07-11,12,4,Medium
+SR-101292,Animal Control,Stray Animal,2025-06-29,Open,,438,4,Medium
+SR-100866,Animal Control,Stray Animal,2025-06-29,In Progress,,438,3,Medium
+SR-102235,Public Works,Pothole Repair,2025-06-30,Resolved,2025-07-02,2,5,Low
+SR-102065,Water Utilities,Meter Reading Issue,2025-06-30,Resolved,2025-07-22,22,4,High
+SR-101621,Public Works,Sidewalk Damage,2025-06-30,Closed,2025-08-20,51,3,Medium
+SR-101026,Code Enforcement,Illegal Dumping,2025-06-30,Open,,437,2,Low
+SR-100642,Public Works,Storm Drain Blocked,2025-06-30,In Progress,,437,4,Low
+SR-100673,Planning,Land Use Complaint,2025-06-30,Resolved,2025-07-07,7,1,High
+SR-100880,Code Enforcement,Noise Complaint,2025-07-01,Resolved,2025-07-13,12,4,Low
+SR-100811,Parks & Recreation,Park Maintenance,2025-07-01,Resolved,2025-07-04,3,2,Medium
+SR-102261,Code Enforcement,Noise Complaint,2025-07-01,Closed,2025-08-01,31,4,Low
+SR-102472,Code Enforcement,Overgrown Lot,2025-07-02,In Progress,,435,4,Low
+SR-101227,Public Works,Sidewalk Damage,2025-07-02,Closed,2025-07-09,7,4,High
+SR-100164,Water Utilities,Billing Inquiry,2025-07-02,Resolved,2025-07-08,6,1,Medium
+SR-100310,Public Works,Pothole Repair,2025-07-02,Resolved,2025-07-05,3,1,Medium
+SR-100994,Water Utilities,Meter Reading Issue,2025-07-02,Resolved,2025-07-19,17,1,Medium
+SR-100725,Parks & Recreation,Park Maintenance,2025-07-02,Closed,2025-07-03,1,5,Low
+SR-102249,Water Utilities,Meter Reading Issue,2025-07-03,Closed,2025-07-08,5,2,Low
+SR-100394,Code Enforcement,Noise Complaint,2025-07-03,Closed,2025-07-06,3,4,High
+SR-101202,Planning,Sign Violation,2025-07-03,Closed,2025-07-04,1,4,Medium
+SR-102200,Code Enforcement,Abandoned Vehicle,2025-07-04,Closed,2025-08-03,30,3,High
+SR-101948,Water Utilities,Low Water Pressure,2025-07-04,Resolved,2025-07-08,4,1,Low
+SR-100522,Water Utilities,Meter Reading Issue,2025-07-04,Closed,2025-07-20,16,4,Medium
+SR-100765,Public Works,Sidewalk Damage,2025-07-04,Resolved,2025-07-18,14,2,Low
+SR-102031,Code Enforcement,Overgrown Lot,2025-07-05,Closed,2025-07-25,20,5,Low
+SR-102173,Parks & Recreation,Park Maintenance,2025-07-05,Open,,432,3,Low
+SR-101094,Public Works,Street Light Outage,2025-07-05,Resolved,2025-07-09,4,5,Low
+SR-102171,Public Works,Street Light Outage,2025-07-06,In Progress,,431,1,High
+SR-100627,Public Works,Sidewalk Damage,2025-07-06,Open,,431,4,Low
+SR-100570,Animal Control,Stray Animal,2025-07-06,Resolved,2025-07-07,1,4,Low
+SR-101388,Public Works,Street Light Outage,2025-07-07,In Progress,,430,2,Low
+SR-102242,Water Utilities,Low Water Pressure,2025-07-08,In Progress,,429,1,Medium
+SR-101142,Water Utilities,Water Main Break,2025-07-08,Closed,2025-07-27,19,4,Low
+SR-101264,Animal Control,Barking Complaint,2025-07-09,Resolved,2025-08-03,25,4,High
+SR-102322,Planning,Sign Violation,2025-07-09,Open,,428,5,Low
+SR-100342,Public Works,Street Light Outage,2025-07-09,Resolved,2025-07-24,15,2,Low
+SR-100364,Water Utilities,Water Main Break,2025-07-09,Closed,2025-07-30,21,1,Low
+SR-102073,Planning,Permit Question,2025-07-10,Closed,2025-07-12,2,1,Low
+SR-100467,Code Enforcement,Overgrown Lot,2025-07-10,Resolved,2025-07-18,8,1,Low
+SR-101113,Water Utilities,Low Water Pressure,2025-07-10,Closed,2025-08-02,23,5,Low
+SR-101767,Parks & Recreation,Park Maintenance,2025-07-10,Resolved,2025-07-12,2,2,Medium
+SR-101071,Public Works,Street Light Outage,2025-07-10,Open,,427,1,Low
+SR-101818,Animal Control,Wildlife Concern,2025-07-11,Resolved,2025-07-17,6,2,Medium
+SR-100942,Animal Control,Wildlife Concern,2025-07-11,In Progress,,426,2,Medium
+SR-101123,Water Utilities,Billing Inquiry,2025-07-11,Resolved,2025-07-28,17,4,Low
+SR-102142,Public Works,Sidewalk Damage,2025-07-11,Closed,2025-07-17,6,5,Medium
+SR-100282,Water Utilities,Water Main Break,2025-07-11,Resolved,2025-07-29,18,1,Medium
+SR-101965,Water Utilities,Water Main Break,2025-07-11,Resolved,2025-07-16,5,1,Low
+SR-100598,Public Works,Sidewalk Damage,2025-07-11,Resolved,2025-08-07,27,1,High
+SR-102457,Water Utilities,Low Water Pressure,2025-07-12,Closed,2025-07-28,16,4,Medium
+SR-100659,Water Utilities,Billing Inquiry,2025-07-12,Resolved,2025-07-16,4,1,Low
+SR-101645,Code Enforcement,Unsafe Structure,2025-07-12,Open,,425,1,Low
+SR-101701,Public Works,Street Light Outage,2025-07-12,Closed,2025-07-13,1,2,Medium
+SR-102454,Planning,Permit Question,2025-07-13,Closed,2025-07-15,2,1,Medium
+SR-100136,Water Utilities,Billing Inquiry,2025-07-13,Resolved,2025-07-22,9,3,Low
+SR-101610,Water Utilities,Meter Reading Issue,2025-07-13,Resolved,2025-08-04,22,4,Low
+SR-102144,Animal Control,Barking Complaint,2025-07-13,Resolved,2025-07-16,3,3,Low
+SR-101739,Code Enforcement,Unsafe Structure,2025-07-13,Resolved,2025-07-17,4,4,High
+SR-100069,Planning,Land Use Complaint,2025-07-13,Open,,424,3,Medium
+SR-101715,Public Works,Sidewalk Damage,2025-07-13,Resolved,2025-07-30,17,1,Low
+SR-100432,Public Works,Sidewalk Damage,2025-07-14,Closed,2025-07-28,14,2,Low
+SR-100177,Public Works,Road Debris,2025-07-14,Closed,2025-08-20,37,1,Low
+SR-101687,Animal Control,Barking Complaint,2025-07-15,Open,,422,4,High
+SR-101337,Planning,Zoning Inquiry,2025-07-15,Resolved,2025-08-31,47,3,Low
+SR-101865,Water Utilities,Water Main Break,2025-07-15,Resolved,2025-07-15,0,5,Low
+SR-100848,Water Utilities,Meter Reading Issue,2025-07-15,In Progress,,422,3,Low
+SR-100689,Water Utilities,Water Main Break,2025-07-16,Resolved,2025-08-02,17,2,Medium
+SR-100600,Public Works,Road Debris,2025-07-16,Resolved,2025-07-16,0,1,Medium
+SR-100844,Animal Control,Barking Complaint,2025-07-17,Resolved,2025-07-21,4,1,Low
+SR-102426,Animal Control,Animal Bite Report,2025-07-17,In Progress,,420,4,Low
+SR-100925,Code Enforcement,Noise Complaint,2025-07-17,Resolved,2025-08-05,19,2,Medium
+SR-100468,Public Works,Sidewalk Damage,2025-07-17,Closed,2025-08-16,30,5,High
+SR-100754,Planning,Land Use Complaint,2025-07-17,Closed,2025-07-21,4,1,High
+SR-100118,Parks & Recreation,Tree Trimming Request,2025-07-17,Resolved,2025-08-19,33,2,Low
+SR-102081,Public Works,Sidewalk Damage,2025-07-18,Open,,419,5,Low
+SR-102172,Water Utilities,Low Water Pressure,2025-07-18,Open,,419,1,Medium
+SR-101732,Code Enforcement,Illegal Dumping,2025-07-18,Resolved,2025-07-19,1,2,Medium
+SR-100890,Public Works,Road Debris,2025-07-18,Open,,419,3,Medium
+SR-100520,Public Works,Storm Drain Blocked,2025-07-18,In Progress,,419,2,Low
+SR-100821,Public Works,Pothole Repair,2025-07-19,Closed,2025-08-18,30,3,Medium
+SR-101273,Parks & Recreation,Tree Trimming Request,2025-07-19,Resolved,2025-07-26,7,2,Medium
+SR-100284,Code Enforcement,Abandoned Vehicle,2025-07-19,Closed,2025-07-22,3,5,Low
+SR-100386,Code Enforcement,Illegal Dumping,2025-07-20,In Progress,,417,4,Low
+SR-100356,Public Works,Storm Drain Blocked,2025-07-20,Closed,2025-08-17,28,1,Low
+SR-100372,Parks & Recreation,Playground Equipment Damage,2025-07-21,Resolved,2025-07-26,5,2,Medium
+SR-102429,Planning,Zoning Inquiry,2025-07-21,Closed,2025-07-25,4,5,Low
+SR-100465,Planning,Permit Question,2025-07-21,In Progress,,416,1,Low
+SR-102047,Water Utilities,Billing Inquiry,2025-07-21,Closed,2025-08-12,22,5,High
+SR-101907,Water Utilities,Meter Reading Issue,2025-07-22,Closed,2025-07-30,8,2,Medium
+SR-102094,Animal Control,Animal Bite Report,2025-07-22,Open,,415,4,Medium
+SR-101172,Code Enforcement,Illegal Dumping,2025-07-22,Closed,2025-07-25,3,3,Low
+SR-101777,Public Works,Storm Drain Blocked,2025-07-22,Resolved,2025-08-09,18,2,Low
+SR-101515,Planning,Zoning Inquiry,2025-07-23,In Progress,,414,1,High
+SR-100856,Planning,Sign Violation,2025-07-23,In Progress,,414,4,Low
+SR-101666,Water Utilities,Low Water Pressure,2025-07-23,Resolved,2025-08-03,11,2,Low
+SR-100400,Code Enforcement,Noise Complaint,2025-07-23,In Progress,,414,1,Medium
+SR-100382,Water Utilities,Meter Reading Issue,2025-07-23,Open,,414,1,Low
+SR-100483,Code Enforcement,Abandoned Vehicle,2025-07-23,Resolved,2025-07-23,0,2,Low
+SR-100661,Parks & Recreation,Trail Erosion,2025-07-23,In Progress,,414,4,Low
+SR-102139,Code Enforcement,Abandoned Vehicle,2025-07-24,Resolved,2025-10-28,96,2,Low
+SR-101098,Code Enforcement,Unsafe Structure,2025-07-24,Resolved,2025-08-05,12,1,Medium
+SR-100411,Public Works,Storm Drain Blocked,2025-07-24,Closed,2025-08-22,29,4,Low
+SR-101451,Animal Control,Animal Bite Report,2025-07-24,Resolved,2025-08-08,15,2,Medium
+SR-101252,Water Utilities,Billing Inquiry,2025-07-24,In Progress,,413,3,High
+SR-100655,Water Utilities,Billing Inquiry,2025-07-25,Open,,412,3,Low
+SR-101910,Parks & Recreation,Tree Trimming Request,2025-07-25,Open,,412,4,High
+SR-100757,Planning,Zoning Inquiry,2025-07-26,Open,,411,3,Low
+SR-102016,Public Works,Street Light Outage,2025-07-26,Open,,411,1,Medium
+SR-100518,Parks & Recreation,Tree Trimming Request,2025-07-26,In Progress,,411,2,Low
+SR-100535,Public Works,Road Debris,2025-07-26,Closed,2025-08-13,18,4,Medium
+SR-102317,Water Utilities,Billing Inquiry,2025-07-26,Closed,2025-08-16,21,5,Low
+SR-101604,Water Utilities,Water Main Break,2025-07-27,In Progress,,410,4,Low
+SR-101285,Public Works,Road Debris,2025-07-27,Resolved,2025-07-30,3,2,Medium
+SR-101461,Public Works,Street Light Outage,2025-07-28,Resolved,2025-08-10,13,3,Low
+SR-101513,Public Works,Pothole Repair,2025-07-28,In Progress,,409,5,Medium
+SR-101944,Water Utilities,Meter Reading Issue,2025-07-28,Closed,2025-08-03,6,4,Medium
+SR-101966,Public Works,Road Debris,2025-07-28,Resolved,2025-08-06,9,2,Medium
+SR-101523,Planning,Permit Question,2025-07-28,In Progress,,409,5,Low
+SR-101724,Code Enforcement,Overgrown Lot,2025-07-29,Closed,2025-07-29,0,2,Low
+SR-100884,Code Enforcement,Abandoned Vehicle,2025-07-29,Resolved,2025-07-29,0,2,Low
+SR-100589,Planning,Land Use Complaint,2025-07-29,Resolved,2025-09-24,57,4,Low
+SR-102313,Code Enforcement,Illegal Dumping,2025-07-29,Closed,2025-09-17,50,1,Low
+SR-100476,Animal Control,Barking Complaint,2025-07-29,In Progress,,408,1,Medium
+SR-101754,Public Works,Pothole Repair,2025-07-29,Resolved,2025-07-30,1,4,Low
+SR-101065,Water Utilities,Billing Inquiry,2025-07-30,Open,,407,2,Medium
+SR-101957,Parks & Recreation,Playground Equipment Damage,2025-07-30,Closed,2025-09-02,34,2,Medium
+SR-100340,Water Utilities,Low Water Pressure,2025-07-30,Closed,2025-08-16,17,2,Medium
+SR-102122,Planning,Permit Question,2025-07-31,Resolved,2025-08-04,4,5,Medium
+SR-102369,Water Utilities,Meter Reading Issue,2025-07-31,Resolved,2025-08-15,15,5,Low
+SR-101473,Water Utilities,Low Water Pressure,2025-07-31,Closed,2025-08-05,5,4,Low
+SR-101524,Planning,Land Use Complaint,2025-08-01,Resolved,2025-08-02,1,4,Low
+SR-100806,Code Enforcement,Overgrown Lot,2025-08-01,Open,,405,5,Low
+SR-100279,Water Utilities,Water Main Break,2025-08-01,Open,,405,4,Low
+SR-102325,Water Utilities,Meter Reading Issue,2025-08-02,Resolved,2025-08-20,18,5,Low
+SR-100972,Public Works,Storm Drain Blocked,2025-08-02,Resolved,2025-09-03,32,2,Medium
+SR-100202,Water Utilities,Meter Reading Issue,2025-08-02,Open,,404,4,High
+SR-102205,Public Works,Sidewalk Damage,2025-08-02,Open,,404,4,Medium
+SR-100981,Public Works,Sidewalk Damage,2025-08-02,In Progress,,404,4,Low
+SR-102383,Code Enforcement,Abandoned Vehicle,2025-08-02,In Progress,,404,1,Medium
+SR-101650,Water Utilities,Meter Reading Issue,2025-08-02,Closed,2025-08-25,23,3,Medium
+SR-100861,Planning,Land Use Complaint,2025-08-02,Open,,404,5,Low
+SR-100361,Parks & Recreation,Park Maintenance,2025-08-02,Resolved,2025-08-05,3,4,Medium
+SR-100873,Planning,Sign Violation,2025-08-02,Resolved,2025-08-13,11,1,Medium
+SR-101345,Public Works,Road Debris,2025-08-03,Closed,2025-08-16,13,3,High
+SR-101070,Public Works,Pothole Repair,2025-08-03,Open,,403,1,Low
+SR-100480,Parks & Recreation,Park Maintenance,2025-08-03,Closed,2025-08-09,6,4,Low
+SR-100828,Planning,Land Use Complaint,2025-08-03,Closed,2025-08-03,0,3,Medium
+SR-102060,Public Works,Storm Drain Blocked,2025-08-03,Closed,2025-08-04,1,1,Low
+SR-102323,Water Utilities,Meter Reading Issue,2025-08-03,Resolved,2025-08-13,10,4,Low
+SR-101808,Water Utilities,Meter Reading Issue,2025-08-03,Closed,2025-08-20,17,4,Low
+SR-100731,Public Works,Street Light Outage,2025-08-03,Resolved,2025-08-26,23,1,Medium
+SR-102209,Water Utilities,Water Main Break,2025-08-04,Resolved,2025-08-25,21,3,High
+SR-102004,Water Utilities,Water Main Break,2025-08-04,Closed,2025-08-10,6,2,High
+SR-101899,Water Utilities,Meter Reading Issue,2025-08-04,Closed,2025-08-07,3,1,Medium
+SR-102184,Code Enforcement,Noise Complaint,2025-08-04,Resolved,2025-08-05,1,2,Low
+SR-101368,Public Works,Storm Drain Blocked,2025-08-05,Closed,2025-08-11,6,1,Low
+SR-100062,Parks & Recreation,Tree Trimming Request,2025-08-05,Resolved,2025-08-08,3,1,Medium
+SR-101003,Code Enforcement,Noise Complaint,2025-08-06,Open,,400,1,Low
+SR-100433,Water Utilities,Billing Inquiry,2025-08-06,Closed,2025-08-16,10,5,Medium
+SR-101931,Parks & Recreation,Tree Trimming Request,2025-08-06,Resolved,2025-08-17,11,4,Medium
+SR-101987,Parks & Recreation,Park Maintenance,2025-08-07,Open,,399,5,Low
+SR-101921,Planning,Sign Violation,2025-08-07,Closed,2025-08-13,6,4,Low
+SR-101163,Parks & Recreation,Tree Trimming Request,2025-08-07,Resolved,2025-08-08,1,1,Low
+SR-100948,Planning,Land Use Complaint,2025-08-08,Resolved,2025-08-17,9,1,Low
+SR-100318,Public Works,Sidewalk Damage,2025-08-08,Closed,2025-08-26,18,2,Medium
+SR-100335,Public Works,Pothole Repair,2025-08-08,In Progress,,398,5,Medium
+SR-100895,Public Works,Sidewalk Damage,2025-08-08,Closed,2025-08-23,15,2,Low
+SR-101735,Animal Control,Animal Bite Report,2025-08-08,Resolved,2025-08-31,23,5,Medium
+SR-101595,Code Enforcement,Overgrown Lot,2025-08-08,Resolved,2025-08-10,2,4,Medium
+SR-100246,Water Utilities,Low Water Pressure,2025-08-08,In Progress,,398,2,Low
+SR-100839,Parks & Recreation,Park Maintenance,2025-08-09,Closed,2025-08-27,18,4,Low
+SR-101690,Public Works,Street Light Outage,2025-08-09,In Progress,,397,2,Low
+SR-100822,Water Utilities,Water Main Break,2025-08-09,In Progress,,397,4,High
+SR-101276,Parks & Recreation,Park Maintenance,2025-08-09,Closed,2025-09-02,24,3,Low
+SR-101271,Water Utilities,Low Water Pressure,2025-08-09,Open,,397,4,Medium
+SR-100715,Code Enforcement,Illegal Dumping,2025-08-09,Resolved,2025-08-28,19,3,Low
+SR-100993,Water Utilities,Low Water Pressure,2025-08-09,Closed,2025-09-11,33,2,Low
+SR-101147,Planning,Permit Question,2025-08-09,Open,,397,2,Medium
+SR-101485,Water Utilities,Water Main Break,2025-08-09,Closed,2025-08-21,12,2,Medium
+SR-102203,Water Utilities,Water Main Break,2025-08-09,In Progress,,397,4,Low
+SR-102237,Public Works,Sidewalk Damage,2025-08-10,In Progress,,396,5,Medium
+SR-101677,Public Works,Sidewalk Damage,2025-08-11,Open,,395,3,Low
+SR-101374,Water Utilities,Water Main Break,2025-08-12,In Progress,,394,1,Low
+SR-101398,Public Works,Street Light Outage,2025-08-12,Resolved,2025-08-17,5,2,Medium
+SR-101954,Water Utilities,Low Water Pressure,2025-08-12,In Progress,,394,3,Low
+SR-100688,Public Works,Storm Drain Blocked,2025-08-12,Resolved,2025-08-14,2,1,Low
+SR-102085,Public Works,Road Debris,2025-08-13,Closed,2025-10-15,63,5,Medium
+SR-100109,Planning,Land Use Complaint,2025-08-13,Resolved,2025-08-28,15,1,Medium
+SR-100894,Public Works,Road Debris,2025-08-13,In Progress,,393,3,Low
+SR-102318,Public Works,Sidewalk Damage,2025-08-13,Open,,393,1,Medium
+SR-102100,Code Enforcement,Abandoned Vehicle,2025-08-13,Closed,2025-08-19,6,4,Low
+SR-100144,Planning,Sign Violation,2025-08-14,In Progress,,392,2,Medium
+SR-102450,Code Enforcement,Unsafe Structure,2025-08-14,Open,,392,4,High
+SR-100178,Animal Control,Barking Complaint,2025-08-14,Resolved,2025-08-20,6,3,Medium
+SR-100341,Code Enforcement,Noise Complaint,2025-08-14,Closed,2025-09-03,20,2,Low
+SR-100292,Code Enforcement,Unsafe Structure,2025-08-14,Resolved,2025-08-15,1,2,Low
+SR-101823,Public Works,Sidewalk Damage,2025-08-14,Resolved,2025-08-19,5,5,High
+SR-100937,Public Works,Storm Drain Blocked,2025-08-14,Resolved,2025-08-28,14,3,Low
+SR-101550,Water Utilities,Low Water Pressure,2025-08-15,Resolved,2025-09-02,18,4,Low
+SR-100281,Public Works,Street Light Outage,2025-08-15,Resolved,2025-08-20,5,2,Medium
+SR-102389,Code Enforcement,Abandoned Vehicle,2025-08-15,Resolved,2025-08-17,2,3,Medium
+SR-100867,Planning,Land Use Complaint,2025-08-15,Closed,2025-09-04,20,5,Medium
+SR-100346,Code Enforcement,Noise Complaint,2025-08-15,Resolved,2025-09-01,17,4,High
+SR-100190,Parks & Recreation,Trail Erosion,2025-08-15,Resolved,2025-08-25,10,5,Low
+SR-100331,Code Enforcement,Unsafe Structure,2025-08-15,Closed,2025-08-16,1,1,Low
+SR-100287,Planning,Permit Question,2025-08-16,Closed,2025-08-21,5,3,Low
+SR-100319,Public Works,Pothole Repair,2025-08-16,Open,,390,2,Medium
+SR-101561,Code Enforcement,Illegal Dumping,2025-08-16,Closed,2025-08-28,12,5,Medium
+SR-101288,Public Works,Street Light Outage,2025-08-16,Closed,2025-09-01,16,2,Low
+SR-101656,Public Works,Sidewalk Damage,2025-08-16,In Progress,,390,5,Low
+SR-101814,Parks & Recreation,Playground Equipment Damage,2025-08-17,Resolved,2025-08-24,7,1,High
+SR-100930,Water Utilities,Water Main Break,2025-08-17,In Progress,,389,2,Low
+SR-100683,Water Utilities,Low Water Pressure,2025-08-17,Resolved,2025-09-04,18,1,High
+SR-100577,Animal Control,Barking Complaint,2025-08-17,Closed,2025-08-24,7,2,Medium
+SR-100885,Code Enforcement,Unsafe Structure,2025-08-18,Resolved,2025-09-18,31,4,Low
+SR-101659,Water Utilities,Low Water Pressure,2025-08-18,Resolved,2025-08-29,11,3,Low
+SR-101017,Public Works,Street Light Outage,2025-08-18,Open,,388,5,High
+SR-102055,Parks & Recreation,Park Maintenance,2025-08-18,Resolved,2025-08-19,1,1,Low
+SR-100946,Animal Control,Wildlife Concern,2025-08-19,In Progress,,387,5,Low
+SR-101372,Public Works,Storm Drain Blocked,2025-08-19,Resolved,2025-08-25,6,2,Low
+SR-101810,Code Enforcement,Noise Complaint,2025-08-19,Resolved,2025-08-29,10,4,Low
+SR-101979,Public Works,Street Light Outage,2025-08-19,In Progress,,387,4,Low
+SR-100019,Public Works,Pothole Repair,2025-08-19,In Progress,,387,3,Low
+SR-101347,Public Works,Storm Drain Blocked,2025-08-20,Closed,2025-09-04,15,1,Medium
+SR-102137,Code Enforcement,Abandoned Vehicle,2025-08-20,In Progress,,386,3,Low
+SR-100031,Parks & Recreation,Playground Equipment Damage,2025-08-21,Closed,2025-08-26,5,3,High
+SR-101785,Water Utilities,Water Main Break,2025-08-21,Closed,2025-09-17,27,5,Low
+SR-101314,Planning,Sign Violation,2025-08-21,Resolved,2025-09-04,14,3,Low
+SR-100408,Code Enforcement,Overgrown Lot,2025-08-21,Open,,385,3,Low
+SR-101917,Public Works,Road Debris,2025-08-22,Resolved,2025-09-13,22,3,Low
+SR-101692,Animal Control,Wildlife Concern,2025-08-22,Closed,2025-08-25,3,2,Medium
+SR-100384,Animal Control,Barking Complaint,2025-08-22,Resolved,2025-08-28,6,5,Low
+SR-101559,Planning,Land Use Complaint,2025-08-22,Open,,384,1,Low
+SR-101247,Code Enforcement,Illegal Dumping,2025-08-22,In Progress,,384,1,High
+SR-101175,Public Works,Road Debris,2025-08-23,Closed,2025-08-25,2,2,Low
+SR-101482,Animal Control,Wildlife Concern,2025-08-23,Resolved,2025-09-11,19,3,Low
+SR-100998,Water Utilities,Meter Reading Issue,2025-08-23,In Progress,,383,5,Low
+SR-100296,Planning,Permit Question,2025-08-23,Resolved,2025-08-26,3,5,Low
+SR-101737,Planning,Permit Question,2025-08-23,In Progress,,383,4,Medium
+SR-101328,Public Works,Sidewalk Damage,2025-08-23,Resolved,2025-09-18,26,3,Low
+SR-100800,Code Enforcement,Illegal Dumping,2025-08-24,Closed,2025-08-29,5,1,Low
+SR-101851,Planning,Land Use Complaint,2025-08-24,Closed,2025-09-02,9,2,Medium
+SR-100887,Parks & Recreation,Tree Trimming Request,2025-08-24,Resolved,2025-08-24,0,3,Low
+SR-100706,Planning,Permit Question,2025-08-24,Resolved,2025-09-08,15,2,High
+SR-100113,Animal Control,Animal Bite Report,2025-08-24,Closed,2025-08-30,6,3,High
+SR-100559,Animal Control,Wildlife Concern,2025-08-24,Closed,2025-08-27,3,5,Low
+SR-101095,Public Works,Sidewalk Damage,2025-08-24,In Progress,,382,1,Medium
+SR-100420,Public Works,Sidewalk Damage,2025-08-24,Closed,2025-08-24,0,5,Low
+SR-100842,Planning,Zoning Inquiry,2025-08-25,Resolved,2025-08-25,0,1,Low
+SR-100623,Planning,Sign Violation,2025-08-25,Resolved,2025-09-04,10,2,High
+SR-100984,Parks & Recreation,Park Maintenance,2025-08-25,In Progress,,381,4,Medium
+SR-100571,Water Utilities,Billing Inquiry,2025-08-25,Closed,2025-08-31,6,5,Medium
+SR-101013,Public Works,Storm Drain Blocked,2025-08-26,Resolved,2025-09-03,8,4,High
+SR-102411,Planning,Sign Violation,2025-08-27,Resolved,2025-09-05,9,1,Low
+SR-102431,Water Utilities,Meter Reading Issue,2025-08-28,Closed,2025-09-29,32,2,Low
+SR-101709,Public Works,Pothole Repair,2025-08-28,Resolved,2025-09-11,14,4,High
+SR-101653,Parks & Recreation,Tree Trimming Request,2025-08-29,In Progress,,377,4,Medium
+SR-102416,Code Enforcement,Unsafe Structure,2025-08-29,Resolved,2025-08-29,0,2,Low
+SR-101841,Water Utilities,Low Water Pressure,2025-08-29,In Progress,,377,5,Low
+SR-101720,Public Works,Pothole Repair,2025-08-29,Open,,377,4,Low
+SR-101972,Public Works,Storm Drain Blocked,2025-08-30,In Progress,,376,4,Medium
+SR-102110,Public Works,Street Light Outage,2025-08-30,Closed,2025-10-03,34,2,Low
+SR-101839,Water Utilities,Billing Inquiry,2025-08-30,Resolved,2025-09-12,13,5,Medium
+SR-100203,Public Works,Storm Drain Blocked,2025-08-30,Resolved,2025-09-03,4,1,High
+SR-102294,Water Utilities,Billing Inquiry,2025-08-30,Closed,2025-09-04,5,3,Low
+SR-100188,Public Works,Storm Drain Blocked,2025-08-30,In Progress,,376,4,Low
+SR-100901,Public Works,Sidewalk Damage,2025-08-31,In Progress,,375,1,Low
+SR-100017,Public Works,Sidewalk Damage,2025-08-31,Closed,2025-09-02,2,5,Low
+SR-100106,Public Works,Pothole Repair,2025-08-31,Closed,2025-08-31,0,2,Medium
+SR-101255,Water Utilities,Billing Inquiry,2025-08-31,In Progress,,375,4,Low
+SR-101568,Planning,Zoning Inquiry,2025-09-01,Closed,2025-10-16,45,5,Low
+SR-102491,Code Enforcement,Illegal Dumping,2025-09-01,In Progress,,374,1,Medium
+SR-102046,Planning,Permit Question,2025-09-01,Closed,2025-09-09,8,4,Low
+SR-102308,Planning,Permit Question,2025-09-01,Open,,374,1,Medium
+SR-101251,Planning,Sign Violation,2025-09-01,Closed,2025-09-07,6,2,Medium
+SR-100587,Animal Control,Barking Complaint,2025-09-01,In Progress,,374,3,Low
+SR-101146,Code Enforcement,Overgrown Lot,2025-09-01,Resolved,2025-09-01,0,5,Low
+SR-102180,Public Works,Street Light Outage,2025-09-02,In Progress,,373,4,Medium
+SR-100640,Parks & Recreation,Tree Trimming Request,2025-09-02,In Progress,,373,3,Medium
+SR-102002,Planning,Sign Violation,2025-09-03,Resolved,2025-09-03,0,5,Medium
+SR-101815,Code Enforcement,Overgrown Lot,2025-09-03,Resolved,2025-09-29,26,4,High
+SR-101593,Parks & Recreation,Trail Erosion,2025-09-03,Resolved,2025-09-12,9,2,Low
+SR-100051,Code Enforcement,Noise Complaint,2025-09-04,Resolved,2025-09-04,0,3,Medium
+SR-101476,Animal Control,Wildlife Concern,2025-09-05,Closed,2025-09-08,3,5,Medium
+SR-101463,Code Enforcement,Abandoned Vehicle,2025-09-05,Closed,2025-09-21,16,3,Medium
+SR-100609,Animal Control,Stray Animal,2025-09-06,Open,,369,4,Low
+SR-101047,Water Utilities,Low Water Pressure,2025-09-06,Open,,369,2,Medium
+SR-101984,Planning,Land Use Complaint,2025-09-06,Resolved,2025-09-10,4,3,Low
+SR-100712,Planning,Land Use Complaint,2025-09-06,Open,,369,3,Medium
+SR-101576,Public Works,Sidewalk Damage,2025-09-06,In Progress,,369,4,Low
+SR-100988,Code Enforcement,Illegal Dumping,2025-09-07,Resolved,2025-09-29,22,3,Low
+SR-102087,Water Utilities,Meter Reading Issue,2025-09-07,Closed,2025-09-18,11,1,High
+SR-101307,Code Enforcement,Abandoned Vehicle,2025-09-08,Resolved,2025-09-25,17,4,Low
+SR-100226,Animal Control,Wildlife Concern,2025-09-08,Closed,2025-09-08,0,2,High
+SR-100656,Public Works,Road Debris,2025-09-08,Closed,2025-09-28,20,5,Low
+SR-100166,Water Utilities,Low Water Pressure,2025-09-08,Resolved,2025-10-02,24,3,Low
+SR-100442,Public Works,Sidewalk Damage,2025-09-09,Closed,2025-11-11,63,2,Medium
+SR-101749,Parks & Recreation,Playground Equipment Damage,2025-09-09,Open,,366,4,Low
+SR-101623,Parks & Recreation,Tree Trimming Request,2025-09-10,Closed,2025-09-21,11,2,High
+SR-101784,Code Enforcement,Abandoned Vehicle,2025-09-10,Closed,2025-09-14,4,3,Low
+SR-100704,Code Enforcement,Unsafe Structure,2025-09-10,Closed,2025-09-12,2,3,Low
+SR-100098,Water Utilities,Meter Reading Issue,2025-09-10,Resolved,2025-10-31,51,2,Medium
+SR-102440,Water Utilities,Meter Reading Issue,2025-09-11,Closed,2025-11-02,52,1,High
+SR-100251,Parks & Recreation,Playground Equipment Damage,2025-09-11,In Progress,,364,5,Medium
+SR-101421,Public Works,Street Light Outage,2025-09-11,Open,,364,1,Low
+SR-101014,Parks & Recreation,Tree Trimming Request,2025-09-11,Closed,2025-09-13,2,1,Medium
+SR-101407,Animal Control,Animal Bite Report,2025-09-11,Open,,364,5,Medium
+SR-101216,Code Enforcement,Abandoned Vehicle,2025-09-11,Resolved,2025-09-11,0,5,Low
+SR-100313,Planning,Permit Question,2025-09-11,Closed,2025-09-21,10,3,Low
+SR-101548,Code Enforcement,Overgrown Lot,2025-09-12,Closed,2025-09-18,6,4,Low
+SR-100950,Animal Control,Wildlife Concern,2025-09-12,Closed,2025-10-02,20,1,Medium
+SR-101640,Code Enforcement,Noise Complaint,2025-09-12,Resolved,2025-09-30,18,5,Low
+SR-101697,Public Works,Street Light Outage,2025-09-13,Open,,362,2,High
+SR-100681,Public Works,Road Debris,2025-09-14,Closed,2025-09-18,4,2,Low
+SR-101853,Planning,Zoning Inquiry,2025-09-14,Resolved,2025-11-11,58,2,Low
+SR-100221,Parks & Recreation,Playground Equipment Damage,2025-09-14,Resolved,2025-09-21,7,4,Medium
+SR-102058,Water Utilities,Water Main Break,2025-09-14,Closed,2025-09-15,1,4,Medium
+SR-101864,Parks & Recreation,Trail Erosion,2025-09-14,In Progress,,361,2,Low
+SR-100846,Water Utilities,Billing Inquiry,2025-09-15,Closed,2025-09-22,7,1,Low
+SR-101351,Code Enforcement,Overgrown Lot,2025-09-16,Resolved,2025-09-22,6,2,Medium
+SR-101843,Animal Control,Barking Complaint,2025-09-16,Closed,2025-09-17,1,4,Low
+SR-100020,Water Utilities,Water Main Break,2025-09-16,Resolved,2025-09-16,0,1,Low
+SR-101854,Planning,Zoning Inquiry,2025-09-16,In Progress,,359,2,High
+SR-100256,Public Works,Street Light Outage,2025-09-16,Open,,359,4,Medium
+SR-102039,Parks & Recreation,Playground Equipment Damage,2025-09-16,Resolved,2025-09-21,5,3,Low
+SR-102188,Water Utilities,Low Water Pressure,2025-09-16,Closed,2025-10-05,19,2,Low
+SR-100676,Public Works,Street Light Outage,2025-09-17,Resolved,2025-09-26,9,1,Low
+SR-100336,Water Utilities,Water Main Break,2025-09-17,Closed,2025-10-06,19,3,High
+SR-101885,Public Works,Pothole Repair,2025-09-17,Open,,358,3,Medium
+SR-100549,Water Utilities,Billing Inquiry,2025-09-17,In Progress,,358,2,Medium
+SR-100111,Planning,Permit Question,2025-09-18,Closed,2025-09-18,0,5,Medium
+SR-100300,Water Utilities,Meter Reading Issue,2025-09-18,In Progress,,357,3,Low
+SR-101722,Parks & Recreation,Trail Erosion,2025-09-18,Resolved,2025-09-21,3,1,Medium
+SR-102033,Animal Control,Barking Complaint,2025-09-18,Resolved,2025-11-05,48,3,Low
+SR-100865,Public Works,Road Debris,2025-09-19,Resolved,2025-10-02,13,3,Medium
+SR-100181,Water Utilities,Water Main Break,2025-09-19,Closed,2025-09-27,8,4,High
+SR-101628,Code Enforcement,Unsafe Structure,2025-09-19,Open,,356,2,Medium
+SR-101813,Animal Control,Wildlife Concern,2025-09-19,Resolved,2025-10-10,21,1,Medium
+SR-101507,Water Utilities,Meter Reading Issue,2025-09-20,In Progress,,355,5,Medium
+SR-100274,Public Works,Sidewalk Damage,2025-09-20,Open,,355,4,Medium
+SR-101484,Animal Control,Barking Complaint,2025-09-20,Closed,2025-09-22,2,1,Low
+SR-101602,Public Works,Storm Drain Blocked,2025-09-20,Closed,2025-09-20,0,2,Low
+SR-102224,Code Enforcement,Illegal Dumping,2025-09-21,Open,,354,3,Low
+SR-101199,Code Enforcement,Unsafe Structure,2025-09-21,In Progress,,354,1,Low
+SR-100891,Public Works,Storm Drain Blocked,2025-09-21,Resolved,2025-10-13,22,1,Medium
+SR-102388,Animal Control,Animal Bite Report,2025-09-21,Open,,354,1,Low
+SR-102391,Public Works,Sidewalk Damage,2025-09-21,Open,,354,3,High
+SR-101875,Water Utilities,Meter Reading Issue,2025-09-21,In Progress,,354,1,Low
+SR-100401,Animal Control,Animal Bite Report,2025-09-21,Open,,354,3,Medium
+SR-100778,Code Enforcement,Abandoned Vehicle,2025-09-22,Resolved,2025-09-26,4,4,Low
+SR-101408,Code Enforcement,Overgrown Lot,2025-09-22,Resolved,2025-10-22,30,5,Low
+SR-102470,Water Utilities,Water Main Break,2025-09-22,In Progress,,353,2,Low
+SR-100453,Animal Control,Wildlife Concern,2025-09-23,Closed,2025-10-14,21,5,Low
+SR-101508,Parks & Recreation,Trail Erosion,2025-09-23,Closed,2025-09-23,0,1,Low
+SR-101783,Public Works,Road Debris,2025-09-24,Closed,2025-10-03,9,3,Medium
+SR-100393,Code Enforcement,Illegal Dumping,2025-09-24,Resolved,2025-09-29,5,5,Medium
+SR-100087,Water Utilities,Low Water Pressure,2025-09-25,Closed,2025-10-15,20,3,Low
+SR-101210,Water Utilities,Water Main Break,2025-09-25,Closed,2025-09-27,2,1,Medium
+SR-100022,Animal Control,Wildlife Concern,2025-09-25,Resolved,2025-09-28,3,1,Low
+SR-100150,Water Utilities,Meter Reading Issue,2025-09-25,Resolved,2025-10-07,12,2,High
+SR-102108,Animal Control,Animal Bite Report,2025-09-26,In Progress,,349,5,Low
+SR-101581,Public Works,Storm Drain Blocked,2025-09-26,In Progress,,349,5,Low
+SR-101996,Water Utilities,Meter Reading Issue,2025-09-26,Closed,2025-10-11,15,2,Low
+SR-102445,Code Enforcement,Unsafe Structure,2025-09-26,Resolved,2025-09-29,3,1,Medium
+SR-100862,Planning,Land Use Complaint,2025-09-26,Open,,349,1,Low
+SR-102119,Code Enforcement,Abandoned Vehicle,2025-09-26,In Progress,,349,4,Medium
+SR-100768,Water Utilities,Water Main Break,2025-09-27,Closed,2025-10-10,13,2,Low
+SR-101092,Code Enforcement,Illegal Dumping,2025-09-27,Resolved,2025-09-29,2,3,Medium
+SR-101685,Water Utilities,Billing Inquiry,2025-09-27,Resolved,2025-10-21,24,3,Low
+SR-102485,Code Enforcement,Noise Complaint,2025-09-27,In Progress,,348,4,Low
+SR-101603,Planning,Sign Violation,2025-09-28,Resolved,2025-10-15,17,1,Low
+SR-100000,Planning,Zoning Inquiry,2025-09-28,Resolved,2025-10-13,15,2,Low
+SR-101551,Public Works,Pothole Repair,2025-09-29,Closed,2025-10-11,12,3,Low
+SR-102213,Water Utilities,Low Water Pressure,2025-09-29,Closed,2025-10-01,2,1,Medium
+SR-101483,Public Works,Sidewalk Damage,2025-09-29,Resolved,2025-10-10,11,3,Low
+SR-101600,Water Utilities,Water Main Break,2025-09-29,Closed,2025-10-12,13,2,High
+SR-101710,Public Works,Road Debris,2025-09-29,Resolved,2025-10-01,2,2,Medium
+SR-100583,Planning,Land Use Complaint,2025-09-30,Resolved,2025-10-02,2,5,Medium
+SR-100586,Public Works,Storm Drain Blocked,2025-09-30,In Progress,,345,4,Medium
+SR-101204,Parks & Recreation,Tree Trimming Request,2025-09-30,Resolved,2025-10-08,8,2,Medium
+SR-100730,Water Utilities,Low Water Pressure,2025-09-30,Closed,2025-10-04,4,3,Medium
+SR-100760,Animal Control,Barking Complaint,2025-09-30,Closed,2025-10-20,20,4,Medium
+SR-101707,Code Enforcement,Noise Complaint,2025-09-30,Closed,2025-10-02,2,1,Medium
+SR-100967,Public Works,Road Debris,2025-09-30,In Progress,,345,2,Low
+SR-102356,Planning,Sign Violation,2025-09-30,In Progress,,345,5,Medium
+SR-101438,Public Works,Road Debris,2025-10-01,Resolved,2025-10-04,3,3,Low
+SR-100685,Planning,Permit Question,2025-10-01,Closed,2025-10-11,10,4,Medium
+SR-101893,Water Utilities,Billing Inquiry,2025-10-01,Resolved,2025-10-15,14,5,Low
+SR-101087,Animal Control,Stray Animal,2025-10-02,Open,,343,5,Medium
+SR-101171,Public Works,Sidewalk Damage,2025-10-02,Closed,2025-10-15,13,2,Medium
+SR-101889,Water Utilities,Billing Inquiry,2025-10-02,Resolved,2025-10-20,18,5,Low
+SR-101870,Planning,Zoning Inquiry,2025-10-03,Closed,2025-10-17,14,5,High
+SR-100575,Parks & Recreation,Playground Equipment Damage,2025-10-03,In Progress,,342,4,Low
+SR-101499,Parks & Recreation,Trail Erosion,2025-10-03,Closed,2025-10-24,21,3,Medium
+SR-101598,Code Enforcement,Noise Complaint,2025-10-03,Resolved,2025-10-11,8,5,Low
+SR-101943,Parks & Recreation,Playground Equipment Damage,2025-10-04,Closed,2025-10-13,9,4,Medium
+SR-102370,Public Works,Storm Drain Blocked,2025-10-04,In Progress,,341,4,Low
+SR-100863,Water Utilities,Meter Reading Issue,2025-10-04,Closed,2025-10-09,5,3,Low
+SR-100376,Parks & Recreation,Trail Erosion,2025-10-04,Resolved,2025-10-18,14,3,Low
+SR-102495,Public Works,Pothole Repair,2025-10-04,Open,,341,1,High
+SR-102041,Water Utilities,Meter Reading Issue,2025-10-04,Resolved,2025-10-19,15,3,Medium
+SR-102064,Public Works,Street Light Outage,2025-10-05,Closed,2025-11-21,47,2,High
+SR-101082,Animal Control,Animal Bite Report,2025-10-05,Closed,2025-10-07,2,2,Medium
+SR-101723,Code Enforcement,Abandoned Vehicle,2025-10-05,Resolved,2025-11-09,35,1,Medium
+SR-101289,Animal Control,Stray Animal,2025-10-05,Closed,2025-10-09,4,1,Low
+SR-100790,Code Enforcement,Unsafe Structure,2025-10-05,Closed,2025-10-06,1,5,Low
+SR-101225,Code Enforcement,Noise Complaint,2025-10-06,Closed,2025-10-09,3,5,Medium
+SR-102124,Public Works,Pothole Repair,2025-10-06,Resolved,2025-11-17,42,5,Low
+SR-101884,Parks & Recreation,Playground Equipment Damage,2025-10-06,Closed,2025-11-08,33,1,Low
+SR-101827,Public Works,Pothole Repair,2025-10-06,Resolved,2025-10-06,0,3,Low
+SR-102319,Water Utilities,Meter Reading Issue,2025-10-06,Resolved,2025-10-17,11,2,Medium
+SR-101533,Water Utilities,Billing Inquiry,2025-10-07,Closed,2025-10-09,2,2,Low
+SR-100039,Water Utilities,Water Main Break,2025-10-07,Resolved,2025-10-11,4,3,High
+SR-100823,Animal Control,Wildlife Concern,2025-10-08,In Progress,,337,5,Low
+SR-101236,Parks & Recreation,Trail Erosion,2025-10-08,In Progress,,337,3,High
+SR-100516,Animal Control,Barking Complaint,2025-10-09,Open,,336,2,High
+SR-101305,Water Utilities,Meter Reading Issue,2025-10-09,Resolved,2025-10-18,9,4,Medium
+SR-100931,Planning,Permit Question,2025-10-09,Closed,2025-10-19,10,4,Medium
+SR-101491,Water Utilities,Meter Reading Issue,2025-10-09,Closed,2025-10-18,9,3,High
+SR-101183,Public Works,Road Debris,2025-10-09,In Progress,,336,3,High
+SR-101833,Animal Control,Animal Bite Report,2025-10-09,In Progress,,336,1,Medium
+SR-101927,Animal Control,Barking Complaint,2025-10-10,Resolved,2025-10-12,2,2,Low
+SR-100297,Public Works,Storm Drain Blocked,2025-10-10,Resolved,2025-11-19,40,4,Medium
+SR-100458,Planning,Sign Violation,2025-10-10,Resolved,2025-10-31,21,2,Medium
+SR-101800,Water Utilities,Meter Reading Issue,2025-10-10,Open,,335,5,Medium
+SR-100477,Public Works,Sidewalk Damage,2025-10-10,Closed,2025-10-16,6,5,Medium
+SR-102170,Planning,Land Use Complaint,2025-10-10,In Progress,,335,5,Low
+SR-100222,Public Works,Storm Drain Blocked,2025-10-11,Closed,2025-10-11,0,5,Medium
+SR-100819,Code Enforcement,Unsafe Structure,2025-10-11,Open,,334,2,Medium
+SR-100749,Water Utilities,Water Main Break,2025-10-11,Closed,2025-10-14,3,4,High
+SR-101008,Code Enforcement,Noise Complaint,2025-10-11,Resolved,2025-10-30,19,1,Medium
+SR-101573,Animal Control,Barking Complaint,2025-10-11,Closed,2025-10-27,16,5,Medium
+SR-101874,Public Works,Sidewalk Damage,2025-10-12,Closed,2025-10-27,15,3,Low
+SR-100132,Animal Control,Stray Animal,2025-10-12,Resolved,2025-10-22,10,4,Low
+SR-101093,Code Enforcement,Abandoned Vehicle,2025-10-12,Resolved,2025-11-12,31,2,Low
+SR-101059,Public Works,Street Light Outage,2025-10-12,Open,,333,3,Medium
+SR-101683,Water Utilities,Meter Reading Issue,2025-10-13,Open,,332,4,Medium
+SR-101387,Parks & Recreation,Park Maintenance,2025-10-13,Closed,2025-11-06,24,1,Medium
+SR-101862,Animal Control,Stray Animal,2025-10-14,In Progress,,331,3,Medium
+SR-100258,Animal Control,Stray Animal,2025-10-14,In Progress,,331,2,Low
+SR-101218,Planning,Zoning Inquiry,2025-10-15,Closed,2025-10-24,9,3,High
+SR-101132,Parks & Recreation,Tree Trimming Request,2025-10-15,Closed,2025-10-15,0,5,Medium
+SR-100850,Planning,Land Use Complaint,2025-10-15,Closed,2025-10-21,6,4,Medium
+SR-100041,Water Utilities,Billing Inquiry,2025-10-15,Resolved,2025-10-28,13,3,Low
+SR-100588,Code Enforcement,Illegal Dumping,2025-10-15,Resolved,2025-10-24,9,4,High
+SR-102021,Public Works,Road Debris,2025-10-16,Closed,2025-10-18,2,2,Medium
+SR-100119,Water Utilities,Water Main Break,2025-10-16,Closed,2025-10-25,9,4,High
+SR-100344,Code Enforcement,Abandoned Vehicle,2025-10-16,Closed,2025-10-17,1,2,Low
+SR-101763,Parks & Recreation,Park Maintenance,2025-10-16,Resolved,2025-10-16,0,1,Low
+SR-100874,Code Enforcement,Unsafe Structure,2025-10-16,Resolved,2025-10-23,7,2,Medium
+SR-100459,Planning,Sign Violation,2025-10-17,Resolved,2025-11-11,25,4,Low
+SR-100379,Public Works,Storm Drain Blocked,2025-10-17,Resolved,2025-10-19,2,4,Low
+SR-101025,Water Utilities,Water Main Break,2025-10-17,Resolved,2025-11-02,16,4,Low
+SR-101443,Parks & Recreation,Trail Erosion,2025-10-17,Closed,2025-11-04,18,1,Low
+SR-100242,Animal Control,Wildlife Concern,2025-10-18,Open,,327,2,Low
+SR-100620,Parks & Recreation,Park Maintenance,2025-10-18,Resolved,2025-11-22,35,3,Low
+SR-100115,Water Utilities,Low Water Pressure,2025-10-18,Closed,2025-10-20,2,3,Medium
+SR-100883,Water Utilities,Billing Inquiry,2025-10-18,Closed,2025-10-30,12,1,Medium
+SR-101050,Water Utilities,Billing Inquiry,2025-10-19,Closed,2025-10-20,1,2,High
+SR-101941,Water Utilities,Water Main Break,2025-10-19,Open,,326,1,Low
+SR-100123,Water Utilities,Billing Inquiry,2025-10-19,Resolved,2025-11-03,15,4,Low
+SR-100677,Public Works,Sidewalk Damage,2025-10-19,Open,,326,3,Medium
+SR-101424,Water Utilities,Low Water Pressure,2025-10-20,Open,,325,5,Low
+SR-101626,Planning,Zoning Inquiry,2025-10-20,Resolved,2025-10-30,10,3,Medium
+SR-101932,Code Enforcement,Noise Complaint,2025-10-20,Closed,2025-10-20,0,5,Medium
+SR-101419,Water Utilities,Billing Inquiry,2025-10-20,Resolved,2025-11-01,12,3,Medium
+SR-100705,Planning,Sign Violation,2025-10-21,Resolved,2025-10-27,6,4,Medium
+SR-100025,Planning,Zoning Inquiry,2025-10-21,Resolved,2025-10-26,5,3,Medium
+SR-100596,Water Utilities,Water Main Break,2025-10-21,Closed,2025-11-03,13,4,Medium
+SR-101673,Public Works,Storm Drain Blocked,2025-10-21,Resolved,2025-11-13,23,5,Medium
+SR-100691,Code Enforcement,Unsafe Structure,2025-10-21,Resolved,2025-10-29,8,2,Low
+SR-100185,Water Utilities,Meter Reading Issue,2025-10-22,Open,,323,3,High
+SR-102174,Animal Control,Wildlife Concern,2025-10-22,Closed,2025-10-30,8,2,Medium
+SR-100751,Water Utilities,Billing Inquiry,2025-10-22,Closed,2025-11-11,20,2,High
+SR-100215,Animal Control,Animal Bite Report,2025-10-22,Resolved,2025-10-25,3,5,Low
+SR-101590,Planning,Sign Violation,2025-10-22,Resolved,2025-10-27,5,5,High
+SR-101128,Code Enforcement,Noise Complaint,2025-10-22,In Progress,,323,3,Low
+SR-100498,Public Works,Sidewalk Damage,2025-10-22,Resolved,2025-10-25,3,5,Medium
+SR-101509,Code Enforcement,Noise Complaint,2025-10-23,In Progress,,322,5,Low
+SR-102187,Code Enforcement,Noise Complaint,2025-10-23,Closed,2025-10-23,0,5,Medium
+SR-100495,Public Works,Street Light Outage,2025-10-23,Resolved,2025-10-28,5,2,Medium
+SR-101382,Code Enforcement,Illegal Dumping,2025-10-23,Open,,322,4,Medium
+SR-101250,Public Works,Pothole Repair,2025-10-23,Resolved,2025-11-18,26,5,Medium
+SR-101297,Code Enforcement,Overgrown Lot,2025-10-24,Open,,321,3,Low
+SR-100645,Public Works,Storm Drain Blocked,2025-10-25,Resolved,2025-10-28,3,1,Medium
+SR-102056,Water Utilities,Meter Reading Issue,2025-10-25,Resolved,2025-11-04,10,5,Low
+SR-100029,Animal Control,Animal Bite Report,2025-10-25,Closed,2025-10-28,3,2,High
+SR-102438,Parks & Recreation,Playground Equipment Damage,2025-10-25,Resolved,2025-11-02,8,4,Medium
+SR-101804,Public Works,Street Light Outage,2025-10-25,Open,,320,4,Low
+SR-101363,Animal Control,Animal Bite Report,2025-10-26,Closed,2025-10-30,4,1,Low
+SR-102498,Water Utilities,Meter Reading Issue,2025-10-26,Open,,319,1,High
+SR-100834,Water Utilities,Water Main Break,2025-10-27,In Progress,,318,4,Low
+SR-101695,Code Enforcement,Unsafe Structure,2025-10-27,In Progress,,318,1,Low
+SR-100357,Animal Control,Wildlife Concern,2025-10-28,Open,,317,4,Low
+SR-102146,Water Utilities,Billing Inquiry,2025-10-28,In Progress,,317,1,Medium
+SR-102181,Planning,Zoning Inquiry,2025-10-29,Resolved,2025-10-31,2,5,Medium
+SR-102336,Parks & Recreation,Trail Erosion,2025-10-29,Open,,316,3,Low
+SR-102230,Public Works,Sidewalk Damage,2025-10-29,Open,,316,1,Low
+SR-100782,Parks & Recreation,Park Maintenance,2025-10-29,Open,,316,1,Low
+SR-101450,Animal Control,Wildlife Concern,2025-10-30,Resolved,2025-11-25,26,1,High
+SR-100220,Public Works,Road Debris,2025-10-30,Closed,2025-11-02,3,2,Low
+SR-100503,Parks & Recreation,Tree Trimming Request,2025-10-30,Open,,315,5,Low
+SR-101102,Public Works,Sidewalk Damage,2025-10-30,Closed,2025-10-30,0,3,Low
+SR-101393,Planning,Zoning Inquiry,2025-10-31,Open,,314,4,Low
+SR-101335,Planning,Zoning Inquiry,2025-10-31,Resolved,2025-12-07,37,2,Medium
+SR-101517,Parks & Recreation,Tree Trimming Request,2025-10-31,In Progress,,314,4,Low
+SR-100395,Animal Control,Animal Bite Report,2025-10-31,Closed,2025-11-01,1,2,Low
+SR-101577,Public Works,Street Light Outage,2025-10-31,Closed,2025-11-03,3,1,Medium
+SR-100236,Code Enforcement,Overgrown Lot,2025-11-01,Resolved,2025-11-10,9,2,Medium
+SR-102451,Public Works,Pothole Repair,2025-11-01,Resolved,2025-12-17,46,1,High
+SR-100641,Water Utilities,Low Water Pressure,2025-11-02,Resolved,2025-11-05,3,3,High
+SR-101381,Parks & Recreation,Park Maintenance,2025-11-02,Resolved,2025-11-12,10,5,Medium
+SR-101104,Planning,Zoning Inquiry,2025-11-03,Closed,2025-11-07,4,4,Medium
+SR-100332,Public Works,Road Debris,2025-11-03,In Progress,,311,4,Medium
+SR-102286,Planning,Permit Question,2025-11-03,Resolved,2025-11-22,19,4,Medium
+SR-101825,Code Enforcement,Noise Complaint,2025-11-03,In Progress,,311,5,Low
+SR-100280,Public Works,Sidewalk Damage,2025-11-04,Open,,310,4,High
+SR-102076,Parks & Recreation,Trail Erosion,2025-11-04,In Progress,,310,2,Low
+SR-100723,Public Works,Pothole Repair,2025-11-04,Closed,2025-11-12,8,4,Low
+SR-101404,Code Enforcement,Overgrown Lot,2025-11-05,Resolved,2025-11-10,5,3,Low
+SR-101496,Public Works,Pothole Repair,2025-11-05,Open,,309,1,Low
+SR-100556,Planning,Land Use Complaint,2025-11-05,Closed,2025-12-19,44,2,High
+SR-102130,Water Utilities,Water Main Break,2025-11-05,Resolved,2025-12-04,29,5,Medium
+SR-102462,Planning,Land Use Complaint,2025-11-05,Closed,2025-11-11,6,1,Low
+SR-102422,Public Works,Sidewalk Damage,2025-11-05,Closed,2025-11-07,2,5,High
+SR-100153,Public Works,Sidewalk Damage,2025-11-06,Closed,2025-11-13,7,5,Low
+SR-101866,Planning,Zoning Inquiry,2025-11-06,Closed,2025-11-27,21,1,Medium
+SR-101787,Code Enforcement,Unsafe Structure,2025-11-07,Resolved,2025-11-09,2,5,High
+SR-100922,Animal Control,Barking Complaint,2025-11-07,Open,,307,1,Medium
+SR-100505,Water Utilities,Water Main Break,2025-11-07,Closed,2025-11-09,2,5,Low
+SR-101262,Animal Control,Animal Bite Report,2025-11-07,Resolved,2025-11-20,13,3,Low
+SR-101379,Public Works,Storm Drain Blocked,2025-11-07,Open,,307,2,Medium
+SR-102111,Parks & Recreation,Trail Erosion,2025-11-07,Resolved,2025-11-22,15,5,Medium
+SR-101176,Public Works,Street Light Outage,2025-11-07,Resolved,2025-11-12,5,3,Low
+SR-101630,Animal Control,Animal Bite Report,2025-11-08,In Progress,,306,3,Low
+SR-101190,Code Enforcement,Illegal Dumping,2025-11-08,Resolved,2025-11-19,11,1,Low
+SR-100504,Animal Control,Barking Complaint,2025-11-08,In Progress,,306,5,Low
+SR-100918,Water Utilities,Water Main Break,2025-11-09,In Progress,,305,1,High
+SR-100708,Code Enforcement,Overgrown Lot,2025-11-09,Resolved,2025-11-11,2,4,Low
+SR-102250,Code Enforcement,Abandoned Vehicle,2025-11-09,In Progress,,305,5,Low
+SR-100316,Water Utilities,Low Water Pressure,2025-11-09,Open,,305,4,Low
+SR-100309,Planning,Permit Question,2025-11-10,Closed,2025-11-24,14,3,Low
+SR-100506,Planning,Permit Question,2025-11-10,Closed,2025-12-13,33,5,High
+SR-102423,Parks & Recreation,Tree Trimming Request,2025-11-11,Resolved,2025-12-13,32,4,Medium
+SR-101970,Public Works,Road Debris,2025-11-11,Resolved,2025-11-21,10,4,Medium
+SR-102493,Public Works,Road Debris,2025-11-11,In Progress,,303,3,Medium
+SR-100621,Water Utilities,Water Main Break,2025-11-12,Resolved,2025-11-14,2,2,Low
+SR-101821,Animal Control,Barking Complaint,2025-11-12,In Progress,,302,5,High
+SR-100179,Code Enforcement,Noise Complaint,2025-11-12,Closed,2025-11-13,1,5,High
+SR-101049,Water Utilities,Water Main Break,2025-11-12,In Progress,,302,3,Low
+SR-100644,Code Enforcement,Illegal Dumping,2025-11-12,Resolved,2025-11-12,0,4,Medium
+SR-101108,Code Enforcement,Noise Complaint,2025-11-13,In Progress,,301,4,Medium
+SR-100611,Animal Control,Wildlife Concern,2025-11-13,Closed,2025-11-19,6,2,Low
+SR-100461,Public Works,Road Debris,2025-11-13,Closed,2025-11-19,6,4,High
+SR-101798,Parks & Recreation,Trail Erosion,2025-11-13,Resolved,2025-11-17,4,2,Low
+SR-102113,Animal Control,Barking Complaint,2025-11-14,Resolved,2025-11-22,8,5,Low
+SR-100207,Animal Control,Wildlife Concern,2025-11-14,Resolved,2025-12-02,18,3,High
+SR-102149,Code Enforcement,Unsafe Structure,2025-11-14,Resolved,2025-12-13,29,4,High
+SR-102159,Animal Control,Barking Complaint,2025-11-14,Open,,300,1,Low
+SR-100365,Water Utilities,Water Main Break,2025-11-14,Open,,300,1,Low
+SR-101044,Code Enforcement,Abandoned Vehicle,2025-11-15,Resolved,2025-11-22,7,4,Low
+SR-100697,Public Works,Storm Drain Blocked,2025-11-15,Resolved,2025-11-28,13,3,Medium
+SR-102345,Water Utilities,Low Water Pressure,2025-11-15,Closed,2025-11-23,8,1,Low
+SR-102048,Water Utilities,Low Water Pressure,2025-11-16,Resolved,2025-11-29,13,4,Low
+SR-102239,Code Enforcement,Noise Complaint,2025-11-16,Resolved,2025-12-28,42,2,Medium
+SR-100969,Code Enforcement,Abandoned Vehicle,2025-11-16,Closed,2025-11-16,0,3,Low
+SR-100917,Planning,Permit Question,2025-11-16,Resolved,2025-11-16,0,2,Low
+SR-101079,Code Enforcement,Abandoned Vehicle,2025-11-16,Closed,2025-12-05,19,2,Medium
+SR-101449,Code Enforcement,Abandoned Vehicle,2025-11-17,Resolved,2025-11-28,11,4,High
+SR-101753,Water Utilities,Meter Reading Issue,2025-11-17,In Progress,,297,1,Low
+SR-101427,Parks & Recreation,Tree Trimming Request,2025-11-17,In Progress,,297,1,Medium
+SR-101122,Public Works,Road Debris,2025-11-17,Closed,2025-11-17,0,1,Medium
+SR-102158,Animal Control,Animal Bite Report,2025-11-17,Closed,2025-11-23,6,3,Low
+SR-100448,Public Works,Street Light Outage,2025-11-18,Closed,2025-11-26,8,5,Low
+SR-100951,Water Utilities,Low Water Pressure,2025-11-19,In Progress,,295,5,Low
+SR-101321,Public Works,Street Light Outage,2025-11-19,In Progress,,295,1,Medium
+SR-102295,Public Works,Street Light Outage,2025-11-19,Resolved,2025-12-15,26,3,High
+SR-102306,Public Works,Pothole Repair,2025-11-19,Closed,2025-12-17,28,5,Medium
+SR-102446,Parks & Recreation,Tree Trimming Request,2025-11-19,Closed,2025-11-20,1,2,Medium
+SR-100370,Public Works,Storm Drain Blocked,2025-11-20,Resolved,2025-11-25,5,2,Low
+SR-100169,Planning,Permit Question,2025-11-20,Resolved,2025-12-05,15,1,High
+SR-101035,Water Utilities,Billing Inquiry,2025-11-20,Closed,2025-11-22,2,5,Low
+SR-100233,Code Enforcement,Overgrown Lot,2025-11-20,Closed,2025-12-02,12,4,Medium
+SR-101391,Code Enforcement,Unsafe Structure,2025-11-21,Open,,293,2,Medium
+SR-100482,Public Works,Street Light Outage,2025-11-21,Resolved,2026-01-06,46,2,Medium
+SR-102141,Public Works,Sidewalk Damage,2025-11-22,Closed,2025-11-23,1,4,Low
+SR-100239,Planning,Land Use Complaint,2025-11-22,Closed,2025-12-08,16,3,Low
+SR-100734,Planning,Land Use Complaint,2025-11-23,Closed,2025-11-24,1,4,Medium
+SR-102368,Animal Control,Barking Complaint,2025-11-23,Resolved,2025-12-23,30,4,Low
+SR-100693,Public Works,Road Debris,2025-11-23,Open,,291,1,High
+SR-100985,Water Utilities,Low Water Pressure,2025-11-24,Resolved,2025-11-29,5,1,Medium
+SR-100667,Water Utilities,Meter Reading Issue,2025-11-24,Closed,2025-12-04,10,3,High
+SR-101594,Public Works,Storm Drain Blocked,2025-11-24,Open,,290,1,Low
+SR-101111,Public Works,Storm Drain Blocked,2025-11-25,In Progress,,289,2,Medium
+SR-100112,Public Works,Road Debris,2025-11-25,Resolved,2025-12-12,17,3,Low
+SR-100158,Animal Control,Stray Animal,2025-11-26,Resolved,2025-12-10,14,4,Medium
+SR-101315,Code Enforcement,Overgrown Lot,2025-11-26,Resolved,2025-12-04,8,1,Medium
+SR-102125,Code Enforcement,Illegal Dumping,2025-11-26,Resolved,2025-12-02,6,3,High
+SR-100091,Code Enforcement,Overgrown Lot,2025-11-26,Open,,288,5,High
+SR-101738,Public Works,Pothole Repair,2025-11-27,Closed,2025-12-31,34,5,Medium
+SR-101950,Code Enforcement,Abandoned Vehicle,2025-11-28,Closed,2025-12-03,5,3,Low
+SR-101977,Public Works,Storm Drain Blocked,2025-11-28,Closed,2025-12-09,11,3,Low
+SR-100833,Code Enforcement,Noise Complaint,2025-11-29,Resolved,2025-12-11,12,4,Low
+SR-101037,Water Utilities,Water Main Break,2025-11-29,In Progress,,285,3,Medium
+SR-100441,Public Works,Sidewalk Damage,2025-11-29,Resolved,2025-12-07,8,4,High
+SR-101007,Code Enforcement,Noise Complaint,2025-11-29,Open,,285,4,Low
+SR-102402,Public Works,Road Debris,2025-11-29,Open,,285,2,Medium
+SR-101733,Planning,Sign Violation,2025-11-29,Open,,285,2,Medium
+SR-100940,Planning,Sign Violation,2025-11-29,Open,,285,3,Medium
+SR-102343,Water Utilities,Billing Inquiry,2025-11-29,Closed,2025-12-09,10,3,Low
+SR-101684,Public Works,Pothole Repair,2025-11-29,Closed,2025-12-03,4,3,Medium
+SR-100367,Parks & Recreation,Park Maintenance,2025-11-29,In Progress,,285,4,Medium
+SR-100523,Public Works,Street Light Outage,2025-11-29,Resolved,2025-12-18,19,5,Medium
+SR-100353,Code Enforcement,Abandoned Vehicle,2025-11-30,Open,,284,4,High
+SR-100241,Animal Control,Animal Bite Report,2025-11-30,In Progress,,284,4,Medium
+SR-102078,Code Enforcement,Unsafe Structure,2025-11-30,Closed,2026-01-13,44,3,High
+SR-100784,Code Enforcement,Overgrown Lot,2025-11-30,In Progress,,284,1,Medium
+SR-101392,Public Works,Pothole Repair,2025-11-30,Resolved,2025-12-21,21,3,Low
+SR-100766,Animal Control,Barking Complaint,2025-11-30,Closed,2025-12-07,7,3,Low
+SR-101020,Public Works,Sidewalk Damage,2025-11-30,Resolved,2025-12-10,10,3,Medium
+SR-101742,Animal Control,Wildlife Concern,2025-11-30,Closed,2025-12-10,10,1,Medium
+SR-101412,Planning,Land Use Complaint,2025-11-30,Resolved,2025-12-10,10,1,High
+SR-102433,Public Works,Pothole Repair,2025-11-30,Resolved,2025-12-16,16,1,Medium
+SR-101774,Parks & Recreation,Tree Trimming Request,2025-11-30,Closed,2025-12-15,15,5,Medium
+SR-101746,Code Enforcement,Abandoned Vehicle,2025-12-01,Closed,2025-12-02,1,3,High
+SR-100089,Parks & Recreation,Park Maintenance,2025-12-01,Closed,2025-12-07,6,4,Medium
+SR-101988,Code Enforcement,Noise Complaint,2025-12-01,Closed,2025-12-01,0,3,Low
+SR-102022,Public Works,Storm Drain Blocked,2025-12-01,Open,,283,4,Medium
+SR-101362,Public Works,Storm Drain Blocked,2025-12-02,In Progress,,282,2,Low
+SR-100307,Water Utilities,Water Main Break,2025-12-02,Closed,2025-12-05,3,2,Medium
+SR-101167,Parks & Recreation,Tree Trimming Request,2025-12-02,In Progress,,282,4,Medium
+SR-100991,Water Utilities,Billing Inquiry,2025-12-02,Open,,282,4,Medium
+SR-101549,Code Enforcement,Noise Complaint,2025-12-02,Resolved,2025-12-14,12,5,High
+SR-101228,Planning,Permit Question,2025-12-02,Resolved,2025-12-26,24,2,Low
+SR-102168,Planning,Sign Violation,2025-12-02,Closed,2025-12-10,8,4,Low
+SR-102245,Water Utilities,Low Water Pressure,2025-12-02,In Progress,,282,4,High
+SR-100289,Public Works,Storm Drain Blocked,2025-12-03,Closed,2025-12-07,4,1,High
+SR-100009,Planning,Sign Violation,2025-12-04,Resolved,2025-12-13,9,1,Low
+SR-100496,Code Enforcement,Illegal Dumping,2025-12-04,Closed,2025-12-23,19,3,Low
+SR-100561,Water Utilities,Billing Inquiry,2025-12-04,Closed,2025-12-09,5,2,Medium
+SR-100028,Planning,Land Use Complaint,2025-12-04,Closed,2025-12-25,21,1,Low
+SR-102376,Water Utilities,Billing Inquiry,2025-12-05,Resolved,2025-12-06,1,5,Medium
+SR-102280,Public Works,Sidewalk Damage,2025-12-05,Resolved,2025-12-06,1,5,Medium
+SR-101704,Code Enforcement,Noise Complaint,2025-12-06,Closed,2025-12-06,0,5,Medium
+SR-102418,Public Works,Storm Drain Blocked,2025-12-06,Resolved,2025-12-07,1,5,Medium
+SR-101282,Public Works,Pothole Repair,2025-12-06,Resolved,2025-12-16,10,2,Medium
+SR-100553,Public Works,Street Light Outage,2025-12-06,Closed,2025-12-31,25,3,Low
+SR-101556,Code Enforcement,Overgrown Lot,2025-12-06,Open,,278,5,Low
+SR-101696,Planning,Sign Violation,2025-12-08,Open,,276,2,Low
+SR-100584,Animal Control,Animal Bite Report,2025-12-08,Open,,276,3,Medium
+SR-102272,Code Enforcement,Overgrown Lot,2025-12-08,Resolved,2025-12-14,6,5,Medium
+SR-100388,Water Utilities,Billing Inquiry,2025-12-09,Resolved,2025-12-15,6,5,Low
+SR-102266,Water Utilities,Billing Inquiry,2025-12-09,Closed,2025-12-11,2,5,High
+SR-101781,Planning,Permit Question,2025-12-09,Resolved,2026-01-07,29,2,Medium
+SR-101955,Animal Control,Stray Animal,2025-12-09,Open,,275,4,Low
+SR-100170,Public Works,Pothole Repair,2025-12-10,Closed,2025-12-11,1,5,Medium
+SR-100327,Code Enforcement,Unsafe Structure,2025-12-10,Open,,274,3,Low
+SR-101201,Planning,Land Use Complaint,2025-12-10,In Progress,,274,4,Low
+SR-100980,Public Works,Sidewalk Damage,2025-12-10,Open,,274,5,Low
+SR-102285,Code Enforcement,Noise Complaint,2025-12-10,Closed,2025-12-20,10,1,Medium
+SR-100243,Animal Control,Animal Bite Report,2025-12-11,Open,,273,4,Low
+SR-102049,Planning,Zoning Inquiry,2025-12-12,Resolved,2025-12-20,8,3,Medium
+SR-101664,Water Utilities,Billing Inquiry,2025-12-12,Open,,272,3,High
+SR-102407,Water Utilities,Water Main Break,2025-12-12,Resolved,2025-12-28,16,1,Low
+SR-100027,Parks & Recreation,Tree Trimming Request,2025-12-12,In Progress,,272,4,High
+SR-102017,Public Works,Storm Drain Blocked,2025-12-12,Resolved,2026-01-02,21,5,High
+SR-102042,Water Utilities,Water Main Break,2025-12-12,Resolved,2026-01-21,40,5,Medium
+SR-102114,Parks & Recreation,Park Maintenance,2025-12-12,In Progress,,272,1,High
+SR-100947,Animal Control,Barking Complaint,2025-12-13,Resolved,2025-12-14,1,1,Low
+SR-101472,Public Works,Pothole Repair,2025-12-13,Resolved,2025-12-13,0,4,Low
+SR-100078,Planning,Permit Question,2025-12-14,Resolved,2025-12-26,12,4,Medium
+SR-101330,Parks & Recreation,Playground Equipment Damage,2025-12-14,Resolved,2026-01-06,23,3,Low
+SR-101689,Parks & Recreation,Trail Erosion,2025-12-14,Closed,2025-12-28,14,1,Medium
+SR-101555,Code Enforcement,Overgrown Lot,2025-12-14,Closed,2025-12-15,1,5,Low
+SR-100526,Water Utilities,Water Main Break,2025-12-14,Open,,270,1,Medium
+SR-102359,Parks & Recreation,Playground Equipment Damage,2025-12-14,In Progress,,270,5,Low
+SR-100573,Planning,Land Use Complaint,2025-12-15,In Progress,,269,1,Low
+SR-101747,Public Works,Street Light Outage,2025-12-15,Resolved,2026-01-09,25,2,High
+SR-100288,Public Works,Road Debris,2025-12-16,Open,,268,2,Low
+SR-100374,Code Enforcement,Abandoned Vehicle,2025-12-16,Open,,268,4,Low
+SR-101434,Water Utilities,Low Water Pressure,2025-12-16,Closed,2025-12-16,0,3,Medium
+SR-101983,Planning,Land Use Complaint,2025-12-16,Closed,2025-12-29,13,5,Low
+SR-101989,Animal Control,Wildlife Concern,2025-12-16,Closed,2025-12-22,6,5,Medium
+SR-100047,Parks & Recreation,Trail Erosion,2025-12-16,Resolved,2025-12-25,9,4,Low
+SR-101748,Code Enforcement,Noise Complaint,2025-12-18,Open,,266,2,Low
+SR-100774,Animal Control,Animal Bite Report,2025-12-18,Open,,266,1,Low
+SR-100298,Code Enforcement,Noise Complaint,2025-12-19,In Progress,,265,3,Low
+SR-102477,Public Works,Road Debris,2025-12-20,Open,,264,4,Medium
+SR-100412,Public Works,Street Light Outage,2025-12-20,In Progress,,264,1,Low
+SR-102378,Public Works,Street Light Outage,2025-12-20,Closed,2026-01-01,12,5,Medium
+SR-100926,Water Utilities,Billing Inquiry,2025-12-20,Open,,264,4,Low
+SR-102255,Water Utilities,Billing Inquiry,2025-12-21,Resolved,2026-01-02,12,1,Medium
+SR-102083,Parks & Recreation,Tree Trimming Request,2025-12-21,Resolved,2025-12-21,0,1,Low
+SR-100713,Animal Control,Barking Complaint,2025-12-21,Open,,263,1,Low
+SR-101121,Public Works,Street Light Outage,2025-12-21,Open,,263,4,High
+SR-101117,Animal Control,Stray Animal,2025-12-21,Open,,263,1,Low
+SR-101406,Code Enforcement,Illegal Dumping,2025-12-22,Closed,2025-12-25,3,4,Medium
+SR-100651,Water Utilities,Billing Inquiry,2025-12-22,Resolved,2026-01-02,11,5,Medium
+SR-101439,Code Enforcement,Unsafe Structure,2025-12-22,Closed,2026-02-17,57,3,Low
+SR-100210,Planning,Permit Question,2025-12-22,Closed,2026-01-07,16,5,Medium
+SR-101667,Water Utilities,Meter Reading Issue,2025-12-23,Resolved,2026-01-06,14,2,Medium
+SR-101529,Animal Control,Animal Bite Report,2025-12-23,Closed,2026-01-05,13,1,High
+SR-100375,Code Enforcement,Noise Complaint,2025-12-23,Resolved,2025-12-24,1,1,Medium
+SR-101958,Public Works,Storm Drain Blocked,2025-12-23,In Progress,,261,3,High
+SR-102179,Planning,Land Use Complaint,2025-12-24,In Progress,,260,4,Low
+SR-102157,Public Works,Street Light Outage,2025-12-24,In Progress,,260,2,Medium
+SR-102484,Water Utilities,Meter Reading Issue,2025-12-24,Resolved,2025-12-25,1,1,Low
+SR-101641,Animal Control,Stray Animal,2025-12-24,In Progress,,260,2,Medium
+SR-100275,Public Works,Road Debris,2025-12-25,In Progress,,259,4,Medium
+SR-101705,Public Works,Storm Drain Blocked,2025-12-25,Resolved,2025-12-27,2,2,Medium
+SR-100451,Animal Control,Stray Animal,2025-12-25,Resolved,2026-01-04,10,2,High
+SR-100168,Water Utilities,Water Main Break,2025-12-25,Closed,2026-01-02,8,1,Low
+SR-100436,Animal Control,Wildlife Concern,2025-12-26,In Progress,,258,3,Low
+SR-101790,Water Utilities,Water Main Break,2025-12-26,Open,,258,4,Low
+SR-100481,Public Works,Street Light Outage,2025-12-27,Open,,257,5,High
+SR-101574,Parks & Recreation,Trail Erosion,2025-12-27,Open,,257,3,Low
+SR-100073,Water Utilities,Billing Inquiry,2025-12-27,Closed,2026-01-12,16,4,High
+SR-102247,Animal Control,Wildlife Concern,2025-12-27,Open,,257,3,Low
+SR-101046,Code Enforcement,Illegal Dumping,2025-12-29,Closed,2026-01-18,20,4,Low
+SR-101359,Animal Control,Stray Animal,2025-12-29,Resolved,2026-01-10,12,2,Medium
+SR-101868,Public Works,Storm Drain Blocked,2025-12-29,Open,,255,2,Low
+SR-100182,Water Utilities,Water Main Break,2025-12-29,Closed,2026-01-01,3,4,Medium
+SR-100100,Water Utilities,Low Water Pressure,2025-12-29,Open,,255,2,Low
+SR-102221,Parks & Recreation,Playground Equipment Damage,2025-12-29,Open,,255,3,Medium
+SR-100753,Animal Control,Wildlife Concern,2025-12-29,Resolved,2026-01-01,3,1,Low
+SR-101170,Animal Control,Animal Bite Report,2025-12-30,Resolved,2026-01-03,4,5,Low
+SR-100987,Animal Control,Animal Bite Report,2025-12-30,Resolved,2026-01-04,5,4,Low
+SR-102072,Public Works,Sidewalk Damage,2025-12-30,Open,,254,4,Medium
+SR-100397,Water Utilities,Billing Inquiry,2025-12-31,Closed,2026-01-07,7,4,Low
+SR-100851,Code Enforcement,Abandoned Vehicle,2025-12-31,In Progress,,253,1,Medium
+SR-101115,Code Enforcement,Overgrown Lot,2025-12-31,Closed,2026-01-07,7,2,High
+SR-102029,Planning,Permit Question,2025-12-31,Closed,2026-01-02,2,5,Low
+SR-100099,Code Enforcement,Illegal Dumping,2025-12-31,Open,,253,3,Medium
+SR-101222,Code Enforcement,Overgrown Lot,2025-12-31,Resolved,2026-01-14,14,4,Medium
+SR-101840,Parks & Recreation,Playground Equipment Damage,2025-12-31,Resolved,2026-01-04,4,5,High
+SR-101699,Public Works,Road Debris,2026-01-01,Closed,2026-01-10,9,2,Medium
+SR-100606,Animal Control,Barking Complaint,2026-01-01,Open,,252,5,Low
+SR-102324,Public Works,Street Light Outage,2026-01-01,Resolved,2026-01-15,14,5,Medium
+SR-102257,Public Works,Sidewalk Damage,2026-01-01,Closed,2026-01-07,6,2,High
+SR-102297,Public Works,Pothole Repair,2026-01-01,Closed,2026-01-01,0,2,Low
+SR-102090,Planning,Zoning Inquiry,2026-01-02,In Progress,,251,4,Medium
+SR-100700,Public Works,Street Light Outage,2026-01-02,Resolved,2026-01-04,2,5,Low
+SR-102104,Animal Control,Barking Complaint,2026-01-02,Closed,2026-01-26,24,4,Low
+SR-100299,Public Works,Storm Drain Blocked,2026-01-02,Resolved,2026-01-27,25,2,Medium
+SR-100492,Animal Control,Wildlife Concern,2026-01-02,Resolved,2026-01-05,3,1,Low
+SR-100775,Public Works,Street Light Outage,2026-01-03,Closed,2026-01-13,10,5,Medium
+SR-100527,Code Enforcement,Illegal Dumping,2026-01-03,Closed,2026-01-19,16,2,Medium
+SR-101101,Water Utilities,Water Main Break,2026-01-03,Resolved,2026-01-03,0,1,High
+SR-101500,Public Works,Pothole Repair,2026-01-03,Closed,2026-01-07,4,4,Low
+SR-100533,Parks & Recreation,Trail Erosion,2026-01-04,Closed,2026-01-07,3,3,High
+SR-102207,Code Enforcement,Noise Complaint,2026-01-04,Closed,2026-01-17,13,4,Medium
+SR-101078,Planning,Land Use Complaint,2026-01-04,Resolved,2026-01-05,1,4,Low
+SR-102463,Code Enforcement,Illegal Dumping,2026-01-04,Closed,2026-01-26,22,1,Medium
+SR-100491,Public Works,Pothole Repair,2026-01-05,Resolved,2026-01-21,16,4,Medium
+SR-101703,Parks & Recreation,Tree Trimming Request,2026-01-05,In Progress,,248,3,Low
+SR-101444,Planning,Sign Violation,2026-01-05,Resolved,2026-01-21,16,5,Low
+SR-100565,Planning,Permit Question,2026-01-06,Closed,2026-03-04,57,2,Low
+SR-100952,Parks & Recreation,Playground Equipment Damage,2026-01-06,Closed,2026-01-18,12,2,Medium
+SR-100977,Public Works,Pothole Repair,2026-01-06,Resolved,2026-01-16,10,2,Low
+SR-100585,Water Utilities,Billing Inquiry,2026-01-06,Open,,247,3,Low
+SR-100881,Water Utilities,Water Main Break,2026-01-07,Closed,2026-01-19,12,3,Medium
+SR-100976,Parks & Recreation,Playground Equipment Damage,2026-01-07,In Progress,,246,5,High
+SR-102105,Animal Control,Barking Complaint,2026-01-07,Resolved,2026-01-07,0,3,Medium
+SR-101326,Public Works,Street Light Outage,2026-01-08,Open,,245,4,High
+SR-101911,Parks & Recreation,Park Maintenance,2026-01-08,Resolved,2026-01-09,1,3,Medium
+SR-101352,Parks & Recreation,Park Maintenance,2026-01-08,Closed,2026-01-13,5,1,Low
+SR-102132,Water Utilities,Low Water Pressure,2026-01-08,Open,,245,2,Low
+SR-101161,Planning,Permit Question,2026-01-09,Open,,244,1,Low
+SR-100021,Parks & Recreation,Park Maintenance,2026-01-09,Resolved,2026-01-11,2,4,Low
+SR-101838,Animal Control,Wildlife Concern,2026-01-09,Open,,244,2,High
+SR-100093,Code Enforcement,Abandoned Vehicle,2026-01-09,In Progress,,244,4,Low
+SR-101611,Public Works,Pothole Repair,2026-01-10,Open,,243,4,Medium
+SR-102276,Planning,Permit Question,2026-01-10,Open,,243,5,Medium
+SR-100877,Parks & Recreation,Trail Erosion,2026-01-10,Open,,243,4,Medium
+SR-101168,Public Works,Street Light Outage,2026-01-10,Closed,2026-02-03,24,1,Medium
+SR-101534,Planning,Zoning Inquiry,2026-01-10,Resolved,2026-01-28,18,5,Low
+SR-100228,Animal Control,Wildlife Concern,2026-01-10,In Progress,,243,5,Low
+SR-100351,Public Works,Pothole Repair,2026-01-10,Resolved,2026-01-19,9,4,Low
+SR-101583,Public Works,Storm Drain Blocked,2026-01-11,Closed,2026-01-16,5,5,Medium
+SR-101526,Public Works,Street Light Outage,2026-01-11,Closed,2026-01-13,2,4,Medium
+SR-102265,Animal Control,Animal Bite Report,2026-01-11,Resolved,2026-01-12,1,3,Medium
+SR-102027,Water Utilities,Low Water Pressure,2026-01-11,Closed,2026-01-24,13,4,Low
+SR-100475,Parks & Recreation,Park Maintenance,2026-01-11,Resolved,2026-01-31,20,3,High
+SR-100245,Water Utilities,Meter Reading Issue,2026-01-11,Open,,242,5,Medium
+SR-101658,Animal Control,Animal Bite Report,2026-01-11,Resolved,2026-01-15,4,3,Low
+SR-101413,Code Enforcement,Unsafe Structure,2026-01-11,Closed,2026-01-26,15,4,Low
+SR-100060,Parks & Recreation,Playground Equipment Damage,2026-01-11,Closed,2026-01-26,15,1,Medium
+SR-100373,Public Works,Pothole Repair,2026-01-12,In Progress,,241,3,Medium
+SR-101240,Code Enforcement,Abandoned Vehicle,2026-01-12,Resolved,2026-01-18,6,2,Low
+SR-100105,Animal Control,Stray Animal,2026-01-12,Open,,241,4,High
+SR-100595,Water Utilities,Billing Inquiry,2026-01-13,Closed,2026-01-24,11,4,Low
+SR-101812,Animal Control,Barking Complaint,2026-01-13,In Progress,,240,5,Low
+SR-100427,Code Enforcement,Unsafe Structure,2026-01-13,Closed,2026-01-21,8,4,Low
+SR-100792,Public Works,Sidewalk Damage,2026-01-13,Closed,2026-01-29,16,1,Medium
+SR-101294,Planning,Zoning Inquiry,2026-01-13,Resolved,2026-01-14,1,3,Low
+SR-101531,Code Enforcement,Overgrown Lot,2026-01-14,Closed,2026-03-17,62,5,Medium
+SR-101842,Water Utilities,Billing Inquiry,2026-01-14,Resolved,2026-02-02,19,3,Medium
+SR-100406,Code Enforcement,Illegal Dumping,2026-01-15,Open,,238,2,Medium
+SR-100362,Animal Control,Barking Complaint,2026-01-15,Resolved,2026-01-22,7,5,Low
+SR-102384,Animal Control,Animal Bite Report,2026-01-15,Open,,238,3,Medium
+SR-101470,Parks & Recreation,Trail Erosion,2026-01-15,Resolved,2026-01-16,1,2,Medium
+SR-100982,Animal Control,Wildlife Concern,2026-01-15,Closed,2026-01-15,0,3,Medium
+SR-100056,Code Enforcement,Abandoned Vehicle,2026-01-15,Closed,2026-01-16,1,3,High
+SR-100829,Water Utilities,Water Main Break,2026-01-15,Resolved,2026-01-20,5,5,High
+SR-102196,Public Works,Street Light Outage,2026-01-15,In Progress,,238,4,Low
+SR-101708,Public Works,Sidewalk Damage,2026-01-15,Resolved,2026-01-26,11,1,High
+SR-101991,Parks & Recreation,Playground Equipment Damage,2026-01-16,Resolved,2026-02-10,25,2,Low
+SR-101847,Public Works,Pothole Repair,2026-01-16,Closed,2026-02-08,23,4,Low
+SR-100218,Code Enforcement,Unsafe Structure,2026-01-16,Resolved,2026-01-23,7,1,Medium
+SR-101237,Code Enforcement,Noise Complaint,2026-01-16,Resolved,2026-01-18,2,3,High
+SR-102417,Public Works,Street Light Outage,2026-01-16,Resolved,2026-01-28,12,1,High
+SR-102413,Code Enforcement,Noise Complaint,2026-01-17,Resolved,2026-01-26,9,5,Medium
+SR-100339,Public Works,Storm Drain Blocked,2026-01-17,Closed,2026-01-22,5,4,High
+SR-101975,Planning,Sign Violation,2026-01-17,Closed,2026-01-18,1,3,High
+SR-100616,Water Utilities,Billing Inquiry,2026-01-17,Closed,2026-01-18,1,2,Low
+SR-100924,Water Utilities,Meter Reading Issue,2026-01-18,Resolved,2026-01-23,5,3,High
+SR-102496,Code Enforcement,Illegal Dumping,2026-01-20,Open,,233,3,Medium
+SR-101119,Public Works,Pothole Repair,2026-01-21,Closed,2026-01-24,3,2,Low
+SR-101586,Code Enforcement,Abandoned Vehicle,2026-01-21,Closed,2026-02-22,32,4,Low
+SR-100002,Water Utilities,Low Water Pressure,2026-01-21,In Progress,,232,4,Medium
+SR-101721,Parks & Recreation,Park Maintenance,2026-01-21,Closed,2026-03-08,46,5,Low
+SR-100921,Public Works,Street Light Outage,2026-01-21,Resolved,2026-03-09,47,1,Medium
+SR-102044,Water Utilities,Water Main Break,2026-01-21,In Progress,,232,1,Low
+SR-100130,Code Enforcement,Abandoned Vehicle,2026-01-21,Resolved,2026-01-28,7,3,Low
+SR-101582,Animal Control,Animal Bite Report,2026-01-21,Closed,2026-01-31,10,3,Low
+SR-100334,Parks & Recreation,Trail Erosion,2026-01-21,Closed,2026-01-25,4,3,High
+SR-100426,Public Works,Street Light Outage,2026-01-22,Resolved,2026-01-28,6,4,Low
+SR-101341,Public Works,Storm Drain Blocked,2026-01-22,Closed,2026-01-26,4,4,Low
+SR-100886,Animal Control,Barking Complaint,2026-01-22,Resolved,2026-01-29,7,5,Medium
+SR-101367,Planning,Zoning Inquiry,2026-01-22,Resolved,2026-01-22,0,2,High
+SR-101992,Planning,Zoning Inquiry,2026-01-22,Closed,2026-02-09,18,2,Low
+SR-102128,Public Works,Storm Drain Blocked,2026-01-23,Resolved,2026-02-05,13,4,Low
+SR-100005,Public Works,Street Light Outage,2026-01-23,Resolved,2026-02-26,34,2,Low
+SR-102010,Code Enforcement,Overgrown Lot,2026-01-23,Closed,2026-01-27,4,5,Low
+SR-100619,Water Utilities,Meter Reading Issue,2026-01-23,In Progress,,230,3,Low
+SR-101892,Planning,Permit Question,2026-01-23,Closed,2026-01-24,1,1,Low
+SR-101518,Planning,Land Use Complaint,2026-01-24,Open,,229,2,Medium
+SR-101411,Public Works,Street Light Outage,2026-01-24,Resolved,2026-02-22,29,3,Low
+SR-102326,Parks & Recreation,Park Maintenance,2026-01-24,Resolved,2026-01-26,2,4,Low
+SR-101816,Public Works,Sidewalk Damage,2026-01-24,Resolved,2026-01-27,3,3,High
+SR-101599,Water Utilities,Billing Inquiry,2026-01-24,Open,,229,5,Medium
+SR-100913,Public Works,Storm Drain Blocked,2026-01-24,Closed,2026-02-10,17,2,High
+SR-101118,Code Enforcement,Noise Complaint,2026-01-24,Resolved,2026-01-28,4,1,Low
+SR-102150,Animal Control,Animal Bite Report,2026-01-24,Resolved,2026-02-17,24,5,Medium
+SR-101897,Water Utilities,Low Water Pressure,2026-01-24,Closed,2026-01-25,1,2,Low
+SR-102240,Water Utilities,Meter Reading Issue,2026-01-25,In Progress,,228,2,Medium
+SR-100414,Water Utilities,Water Main Break,2026-01-25,Closed,2026-01-28,3,5,High
+SR-100764,Animal Control,Stray Animal,2026-01-26,Closed,2026-01-29,3,1,Low
+SR-102262,Code Enforcement,Noise Complaint,2026-01-26,Closed,2026-01-28,2,4,Low
+SR-101775,Planning,Sign Violation,2026-01-27,Resolved,2026-01-30,3,2,Low
+SR-100108,Water Utilities,Billing Inquiry,2026-01-27,Closed,2026-02-03,7,5,Low
+SR-102404,Public Works,Street Light Outage,2026-01-27,Closed,2026-02-01,5,5,Low
+SR-100944,Public Works,Street Light Outage,2026-01-28,Open,,225,1,Low
+SR-100347,Water Utilities,Billing Inquiry,2026-01-28,Closed,2026-02-15,18,2,Medium
+SR-100302,Planning,Zoning Inquiry,2026-01-28,Open,,225,2,Medium
+SR-102143,Parks & Recreation,Tree Trimming Request,2026-01-28,Resolved,2026-01-28,0,2,Medium
+SR-100042,Planning,Sign Violation,2026-01-28,Resolved,2026-02-11,14,5,Low
+SR-101834,Parks & Recreation,Tree Trimming Request,2026-01-28,Closed,2026-02-06,9,5,Low
+SR-100892,Code Enforcement,Illegal Dumping,2026-01-29,In Progress,,224,4,Low
+SR-102424,Water Utilities,Meter Reading Issue,2026-01-29,Resolved,2026-03-03,33,1,Low
+SR-100992,Parks & Recreation,Playground Equipment Damage,2026-01-29,Resolved,2026-02-05,7,5,High
+SR-101151,Animal Control,Animal Bite Report,2026-01-30,Resolved,2026-02-03,4,4,High
+SR-101027,Water Utilities,Meter Reading Issue,2026-01-31,Closed,2026-01-31,0,1,Low
+SR-101016,Planning,Sign Violation,2026-01-31,Closed,2026-02-17,17,2,High
+SR-102163,Animal Control,Stray Animal,2026-01-31,Closed,2026-02-21,21,5,Low
+SR-101632,Animal Control,Animal Bite Report,2026-01-31,Resolved,2026-02-07,7,2,Medium
+SR-100653,Parks & Recreation,Park Maintenance,2026-01-31,Closed,2026-02-04,4,5,Low
+SR-102007,Public Works,Sidewalk Damage,2026-01-31,Open,,222,2,Low
+SR-102003,Water Utilities,Meter Reading Issue,2026-02-01,Open,,221,5,Low
+SR-100063,Water Utilities,Low Water Pressure,2026-02-01,Resolved,2026-02-28,27,4,High
+SR-101569,Public Works,Road Debris,2026-02-01,In Progress,,221,2,Medium
+SR-101431,Water Utilities,Meter Reading Issue,2026-02-01,Open,,221,2,Medium
+SR-100295,Code Enforcement,Noise Complaint,2026-02-01,Closed,2026-02-03,2,4,Low
+SR-102030,Public Works,Pothole Repair,2026-02-01,Closed,2026-02-08,7,3,Low
+SR-100234,Water Utilities,Low Water Pressure,2026-02-01,Resolved,2026-02-20,19,3,Low
+SR-100959,Planning,Permit Question,2026-02-02,Resolved,2026-02-11,9,5,Low
+SR-101327,Public Works,Road Debris,2026-02-02,Closed,2026-03-13,39,2,Medium
+SR-101464,Planning,Land Use Complaint,2026-02-02,Resolved,2026-02-26,24,1,Low
+SR-101324,Public Works,Road Debris,2026-02-02,Resolved,2026-02-03,1,5,Low
+SR-101751,Water Utilities,Meter Reading Issue,2026-02-02,In Progress,,220,4,Low
+SR-101287,Water Utilities,Meter Reading Issue,2026-02-02,Closed,2026-02-07,5,4,Medium
+SR-102219,Water Utilities,Meter Reading Issue,2026-02-03,Closed,2026-03-07,32,5,Low
+SR-101904,Planning,Permit Question,2026-02-03,Open,,219,1,Low
+SR-102223,Public Works,Storm Drain Blocked,2026-02-03,Closed,2026-02-08,5,4,High
+SR-102028,Public Works,Pothole Repair,2026-02-03,Closed,2026-02-17,14,3,Low
+SR-101552,Animal Control,Stray Animal,2026-02-03,In Progress,,219,5,High
+SR-100979,Code Enforcement,Illegal Dumping,2026-02-03,In Progress,,219,4,Low
+SR-102194,Public Works,Sidewalk Damage,2026-02-04,Closed,2026-02-08,4,4,Low
+SR-101564,Public Works,Road Debris,2026-02-04,Closed,2026-02-07,3,3,Medium
+SR-102365,Water Utilities,Low Water Pressure,2026-02-04,Resolved,2026-02-08,4,5,Low
+SR-101764,Water Utilities,Water Main Break,2026-02-04,Resolved,2026-02-20,16,4,High
+SR-101329,Water Utilities,Water Main Break,2026-02-04,Resolved,2026-02-07,3,5,Medium
+SR-100259,Code Enforcement,Unsafe Structure,2026-02-04,Closed,2026-02-17,13,5,Low
+SR-100035,Water Utilities,Billing Inquiry,2026-02-05,Resolved,2026-02-09,4,3,Low
+SR-102211,Code Enforcement,Unsafe Structure,2026-02-05,Closed,2026-02-21,16,3,Low
+SR-100654,Public Works,Storm Drain Blocked,2026-02-05,Closed,2026-02-26,21,2,Low
+SR-100529,Planning,Permit Question,2026-02-05,Resolved,2026-02-08,3,5,Medium
+SR-102127,Water Utilities,Water Main Break,2026-02-05,Open,,217,2,Low
+SR-101615,Planning,Land Use Complaint,2026-02-05,Resolved,2026-02-06,1,5,Medium
+SR-101038,Water Utilities,Billing Inquiry,2026-02-05,Closed,2026-02-05,0,5,High
+SR-100854,Code Enforcement,Illegal Dumping,2026-02-06,In Progress,,216,1,High
+SR-100807,Code Enforcement,Illegal Dumping,2026-02-06,Resolved,2026-02-10,4,5,High
+SR-102442,Parks & Recreation,Park Maintenance,2026-02-07,Closed,2026-02-22,15,4,Medium
+SR-102409,Public Works,Sidewalk Damage,2026-02-07,In Progress,,215,2,Low
+SR-100455,Planning,Land Use Complaint,2026-02-07,Resolved,2026-02-08,1,2,High
+SR-100964,Code Enforcement,Abandoned Vehicle,2026-02-08,Open,,214,5,Low
+SR-102390,Public Works,Pothole Repair,2026-02-08,Resolved,2026-02-25,17,4,Medium
+SR-102057,Water Utilities,Low Water Pressure,2026-02-08,In Progress,,214,3,High
+SR-101960,Code Enforcement,Abandoned Vehicle,2026-02-08,Open,,214,4,Low
+SR-101056,Planning,Permit Question,2026-02-08,Open,,214,1,Medium
+SR-101990,Parks & Recreation,Trail Erosion,2026-02-09,Closed,2026-02-13,4,2,Medium
+SR-102444,Public Works,Road Debris,2026-02-09,Closed,2026-02-10,1,5,Low
+SR-101394,Public Works,Sidewalk Damage,2026-02-09,Open,,213,1,Low
+SR-102244,Public Works,Road Debris,2026-02-10,Resolved,2026-02-10,0,1,Low
+SR-100264,Code Enforcement,Abandoned Vehicle,2026-02-10,Closed,2026-02-18,8,5,Low
+SR-100016,Code Enforcement,Noise Complaint,2026-02-11,Resolved,2026-02-22,11,5,Low
+SR-100127,Animal Control,Animal Bite Report,2026-02-11,In Progress,,211,2,Medium
+SR-100893,Planning,Land Use Complaint,2026-02-11,Open,,211,4,Low
+SR-100348,Water Utilities,Billing Inquiry,2026-02-11,Resolved,2026-02-13,2,4,Low
+SR-101906,Public Works,Sidewalk Damage,2026-02-11,In Progress,,211,2,Medium
+SR-102138,Public Works,Road Debris,2026-02-12,Resolved,2026-02-22,10,4,Low
+SR-101195,Parks & Recreation,Playground Equipment Damage,2026-02-12,Resolved,2026-03-06,22,5,Low
+SR-101525,Planning,Permit Question,2026-02-12,Resolved,2026-03-02,18,2,Low
+SR-100286,Parks & Recreation,Tree Trimming Request,2026-02-12,Open,,210,4,Medium
+SR-100043,Planning,Permit Question,2026-02-12,Resolved,2026-03-13,29,1,Medium
+SR-101711,Animal Control,Barking Complaint,2026-02-13,Resolved,2026-02-26,13,1,Low
+SR-102490,Code Enforcement,Illegal Dumping,2026-02-13,Closed,2026-02-27,14,2,Medium
+SR-100074,Planning,Zoning Inquiry,2026-02-13,In Progress,,209,2,Low
+SR-100818,Water Utilities,Billing Inquiry,2026-02-13,Resolved,2026-02-13,0,1,Low
+SR-102303,Water Utilities,Water Main Break,2026-02-14,Resolved,2026-03-21,35,2,High
+SR-101370,Public Works,Storm Drain Blocked,2026-02-14,Open,,208,5,Low
+SR-101856,Public Works,Storm Drain Blocked,2026-02-14,Resolved,2026-02-17,3,4,High
+SR-100120,Water Utilities,Water Main Break,2026-02-15,Open,,207,2,Medium
+SR-100463,Water Utilities,Meter Reading Issue,2026-02-15,Open,,207,3,High
+SR-101188,Public Works,Pothole Repair,2026-02-16,Closed,2026-02-17,1,5,Medium
+SR-101846,Public Works,Pothole Repair,2026-02-16,Closed,2026-02-22,6,2,Low
+SR-100187,Code Enforcement,Illegal Dumping,2026-02-16,Closed,2026-02-28,12,5,Medium
+SR-101471,Parks & Recreation,Park Maintenance,2026-02-16,Closed,2026-02-24,8,4,Low
+SR-101698,Public Works,Road Debris,2026-02-16,Open,,206,4,Low
+SR-101311,Animal Control,Wildlife Concern,2026-02-16,Open,,206,4,Low
+SR-101158,Public Works,Storm Drain Blocked,2026-02-17,Closed,2026-03-29,40,1,Low
+SR-100489,Code Enforcement,Illegal Dumping,2026-02-18,Resolved,2026-03-03,13,1,Low
+SR-100404,Public Works,Storm Drain Blocked,2026-02-18,Resolved,2026-02-18,0,3,Medium
+SR-100672,Animal Control,Wildlife Concern,2026-02-18,Closed,2026-03-23,33,1,Low
+SR-102195,Parks & Recreation,Tree Trimming Request,2026-02-18,Resolved,2026-02-23,5,4,Low
+SR-100508,Water Utilities,Billing Inquiry,2026-02-18,Resolved,2026-02-24,6,5,Low
+SR-102134,Animal Control,Barking Complaint,2026-02-18,Resolved,2026-03-07,17,2,Medium
+SR-101539,Code Enforcement,Illegal Dumping,2026-02-18,Resolved,2026-02-28,10,5,Low
+SR-101320,Public Works,Sidewalk Damage,2026-02-19,Resolved,2026-03-09,18,3,Low
+SR-101973,Animal Control,Stray Animal,2026-02-19,Open,,203,1,Medium
+SR-100738,Water Utilities,Water Main Break,2026-02-19,Resolved,2026-02-20,1,4,Low
+SR-101052,Water Utilities,Billing Inquiry,2026-02-19,Open,,203,3,Low
+SR-101219,Code Enforcement,Illegal Dumping,2026-02-19,In Progress,,203,1,Low
+SR-101060,Planning,Permit Question,2026-02-20,Closed,2026-03-01,9,3,Low
+SR-101274,Public Works,Sidewalk Damage,2026-02-20,Resolved,2026-03-11,19,4,Medium
+SR-102380,Water Utilities,Water Main Break,2026-02-20,Closed,2026-02-24,4,1,Medium
+SR-102198,Animal Control,Stray Animal,2026-02-20,Closed,2026-02-27,7,4,High
+SR-101588,Animal Control,Animal Bite Report,2026-02-20,Closed,2026-02-27,7,1,Medium
+SR-101196,Public Works,Sidewalk Damage,2026-02-21,Closed,2026-03-15,22,4,Medium
+SR-102217,Water Utilities,Meter Reading Issue,2026-02-21,Closed,2026-03-22,29,1,Medium
+SR-102367,Public Works,Street Light Outage,2026-02-21,Open,,201,4,Low
+SR-101114,Water Utilities,Meter Reading Issue,2026-02-21,Open,,201,1,Low
+SR-101186,Water Utilities,Billing Inquiry,2026-02-21,Resolved,2026-02-25,4,1,Medium
+SR-100059,Water Utilities,Low Water Pressure,2026-02-22,Resolved,2026-02-25,3,2,Medium
+SR-102403,Public Works,Pothole Repair,2026-02-22,In Progress,,200,1,Low
+SR-101758,Code Enforcement,Noise Complaint,2026-02-23,Resolved,2026-02-27,4,1,Low
+SR-100250,Code Enforcement,Noise Complaint,2026-02-23,Resolved,2026-03-06,11,2,Low
+SR-100610,Parks & Recreation,Tree Trimming Request,2026-02-23,Resolved,2026-02-23,0,4,Medium
+SR-102299,Water Utilities,Billing Inquiry,2026-02-23,Resolved,2026-02-23,0,4,Low
+SR-101397,Code Enforcement,Noise Complaint,2026-02-23,Open,,199,2,High
+SR-101597,Code Enforcement,Noise Complaint,2026-02-23,Resolved,2026-02-23,0,1,Medium
+SR-100830,Code Enforcement,Unsafe Structure,2026-02-24,Closed,2026-03-12,16,2,High
+SR-100214,Code Enforcement,Illegal Dumping,2026-02-24,Resolved,2026-02-24,0,4,High
+SR-102183,Water Utilities,Billing Inquiry,2026-02-25,Closed,2026-03-10,13,2,Low
+SR-100429,Planning,Zoning Inquiry,2026-02-25,Open,,197,5,Low
+SR-100933,Code Enforcement,Overgrown Lot,2026-02-26,Closed,2026-03-02,4,2,Low
+SR-101646,Public Works,Street Light Outage,2026-02-26,Closed,2026-03-10,12,3,High
+SR-101053,Water Utilities,Low Water Pressure,2026-02-26,Closed,2026-03-11,13,2,Low
+SR-101831,Water Utilities,Meter Reading Issue,2026-02-27,Closed,2026-03-09,10,2,Low
+SR-102293,Code Enforcement,Illegal Dumping,2026-02-27,Closed,2026-02-27,0,1,Low
+SR-101385,Water Utilities,Low Water Pressure,2026-02-28,Resolved,2026-03-12,12,2,Medium
+SR-101312,Animal Control,Wildlife Concern,2026-02-28,Open,,194,5,Low
+SR-102459,Planning,Zoning Inquiry,2026-03-01,Open,,193,2,Medium
+SR-100934,Water Utilities,Billing Inquiry,2026-03-01,In Progress,,193,5,Low
+SR-102246,Water Utilities,Low Water Pressure,2026-03-01,Resolved,2026-03-09,8,3,Low
+SR-100321,Code Enforcement,Noise Complaint,2026-03-02,Closed,2026-03-23,21,1,Low
+SR-101495,Public Works,Sidewalk Damage,2026-03-02,Closed,2026-03-04,2,1,Low
+SR-100604,Public Works,Street Light Outage,2026-03-02,Closed,2026-03-22,20,3,Low
+SR-100696,Parks & Recreation,Playground Equipment Damage,2026-03-03,Closed,2026-03-03,0,3,Medium
+SR-101982,Water Utilities,Billing Inquiry,2026-03-03,Open,,191,5,Medium
+SR-100773,Water Utilities,Meter Reading Issue,2026-03-03,In Progress,,191,1,Low
+SR-102202,Code Enforcement,Abandoned Vehicle,2026-03-03,Closed,2026-03-19,16,2,High
+SR-102377,Water Utilities,Water Main Break,2026-03-03,In Progress,,191,1,Low
+SR-101638,Public Works,Sidewalk Damage,2026-03-04,Resolved,2026-03-04,0,4,High
+SR-100702,Public Works,Road Debris,2026-03-04,Resolved,2026-03-12,8,3,High
+SR-101757,Public Works,Storm Drain Blocked,2026-03-04,Open,,190,4,Low
+SR-101678,Animal Control,Animal Bite Report,2026-03-05,Resolved,2026-05-14,70,5,High
+SR-100613,Public Works,Storm Drain Blocked,2026-03-05,Resolved,2026-03-07,2,2,Medium
+SR-100135,Code Enforcement,Overgrown Lot,2026-03-05,Closed,2026-03-10,5,3,Low
+SR-101257,Water Utilities,Low Water Pressure,2026-03-05,Resolved,2026-03-06,1,1,Low
+SR-101153,Public Works,Road Debris,2026-03-07,Open,,187,2,Low
+SR-102243,Planning,Zoning Inquiry,2026-03-07,Closed,2026-03-12,5,2,Low
+SR-101126,Water Utilities,Low Water Pressure,2026-03-07,Closed,2026-03-10,3,4,Low
+SR-100053,Public Works,Street Light Outage,2026-03-08,Resolved,2026-03-27,19,5,Low
+SR-101460,Code Enforcement,Abandoned Vehicle,2026-03-08,Open,,186,1,Low
+SR-100363,Public Works,Sidewalk Damage,2026-03-08,In Progress,,186,5,Medium
+SR-102082,Public Works,Pothole Repair,2026-03-08,Resolved,2026-03-23,15,4,Medium
+SR-100938,Animal Control,Animal Bite Report,2026-03-08,Closed,2026-03-19,11,2,High
+SR-101614,Code Enforcement,Noise Complaint,2026-03-08,Closed,2026-03-08,0,5,Low
+SR-101964,Water Utilities,Meter Reading Issue,2026-03-08,Closed,2026-03-11,3,3,Low
+SR-100914,Animal Control,Animal Bite Report,2026-03-09,Open,,185,1,Low
+SR-100542,Public Works,Street Light Outage,2026-03-09,Open,,185,3,Low
+SR-101156,Water Utilities,Water Main Break,2026-03-09,Closed,2026-04-09,31,1,Low
+SR-100970,Public Works,Sidewalk Damage,2026-03-09,Resolved,2026-03-27,18,3,Low
+SR-100908,Public Works,Street Light Outage,2026-03-10,Resolved,2026-03-11,1,2,Medium
+SR-101416,Water Utilities,Meter Reading Issue,2026-03-10,Resolved,2026-03-21,11,5,Medium
+SR-100550,Water Utilities,Low Water Pressure,2026-03-10,Closed,2026-03-10,0,3,Medium
+SR-100825,Code Enforcement,Noise Complaint,2026-03-10,In Progress,,184,4,Low
+SR-101914,Animal Control,Animal Bite Report,2026-03-11,Closed,2026-03-18,7,4,Low
+SR-101665,Water Utilities,Water Main Break,2026-03-11,Resolved,2026-03-14,3,5,Low
+SR-102189,Public Works,Storm Drain Blocked,2026-03-11,Closed,2026-03-13,2,2,Low
+SR-100709,Water Utilities,Meter Reading Issue,2026-03-11,Closed,2026-03-16,5,4,Medium
+SR-100785,Code Enforcement,Abandoned Vehicle,2026-03-12,Resolved,2026-03-21,9,2,Low
+SR-100129,Water Utilities,Low Water Pressure,2026-03-12,Resolved,2026-03-30,18,3,Low
+SR-102346,Public Works,Sidewalk Damage,2026-03-12,Closed,2026-04-04,23,3,Medium
+SR-102080,Planning,Permit Question,2026-03-13,Closed,2026-03-30,17,2,Medium
+SR-100184,Public Works,Sidewalk Damage,2026-03-13,In Progress,,181,4,Medium
+SR-101323,Public Works,Sidewalk Damage,2026-03-13,Closed,2026-03-14,1,4,High
+SR-100084,Public Works,Storm Drain Blocked,2026-03-13,Closed,2026-03-23,10,2,Medium
+SR-100552,Public Works,Road Debris,2026-03-14,Resolved,2026-03-24,10,3,Low
+SR-100670,Planning,Sign Violation,2026-03-14,Closed,2026-03-23,9,2,Medium
+SR-101234,Water Utilities,Low Water Pressure,2026-03-14,In Progress,,180,5,Low
+SR-100602,Code Enforcement,Noise Complaint,2026-03-14,Closed,2026-03-20,6,2,Low
+SR-101940,Animal Control,Wildlife Concern,2026-03-14,Open,,180,4,Medium
+SR-101716,Water Utilities,Low Water Pressure,2026-03-15,Closed,2026-03-25,10,5,Medium
+SR-100716,Planning,Zoning Inquiry,2026-03-15,Resolved,2026-03-20,5,5,Medium
+SR-100665,Animal Control,Barking Complaint,2026-03-15,Resolved,2026-03-18,3,3,High
+SR-100906,Public Works,Pothole Repair,2026-03-15,Resolved,2026-03-16,1,1,Low
+SR-100564,Planning,Zoning Inquiry,2026-03-15,Resolved,2026-03-15,0,1,Low
+SR-100747,Code Enforcement,Illegal Dumping,2026-03-15,Closed,2026-03-31,16,1,Medium
+SR-101260,Public Works,Pothole Repair,2026-03-15,Resolved,2026-03-16,1,5,Low
+SR-100568,Water Utilities,Low Water Pressure,2026-03-15,Resolved,2026-03-29,14,5,High
+SR-101005,Water Utilities,Water Main Break,2026-03-16,Closed,2026-03-26,10,3,Low
+SR-101612,Water Utilities,Low Water Pressure,2026-03-16,Resolved,2026-03-16,0,5,Low
+SR-102252,Planning,Permit Question,2026-03-16,Closed,2026-03-16,0,4,Low
+SR-101976,Animal Control,Barking Complaint,2026-03-16,Closed,2026-03-28,12,2,Low
+SR-101344,Code Enforcement,Overgrown Lot,2026-03-16,Resolved,2026-03-17,1,3,Medium
+SR-100916,Planning,Permit Question,2026-03-17,Closed,2026-03-18,1,3,Medium
+SR-101371,Water Utilities,Meter Reading Issue,2026-03-17,Resolved,2026-05-07,51,4,Medium
+SR-100076,Code Enforcement,Unsafe Structure,2026-03-17,Resolved,2026-03-25,8,1,Medium
+SR-100435,Public Works,Street Light Outage,2026-03-17,Closed,2026-03-28,11,5,Low
+SR-102061,Planning,Permit Question,2026-03-17,Resolved,2026-03-18,1,3,High
+SR-102473,Water Utilities,Low Water Pressure,2026-03-17,In Progress,,177,4,Low
+SR-101100,Code Enforcement,Noise Complaint,2026-03-18,Resolved,2026-03-28,10,5,Medium
+SR-100147,Water Utilities,Meter Reading Issue,2026-03-18,Closed,2026-04-14,27,5,Low
+SR-101149,Parks & Recreation,Park Maintenance,2026-03-18,Closed,2026-04-03,16,4,Medium
+SR-102123,Public Works,Road Debris,2026-03-18,Open,,176,2,High
+SR-100803,Code Enforcement,Overgrown Lot,2026-03-19,Closed,2026-04-06,18,4,Medium
+SR-101486,Planning,Sign Violation,2026-03-19,Closed,2026-04-10,22,2,Low
+SR-102284,Water Utilities,Billing Inquiry,2026-03-19,Open,,175,1,Medium
+SR-100139,Code Enforcement,Abandoned Vehicle,2026-03-19,Resolved,2026-03-27,8,1,Medium
+SR-102415,Planning,Zoning Inquiry,2026-03-19,Resolved,2026-03-21,2,5,Low
+SR-102162,Public Works,Pothole Repair,2026-03-19,Closed,2026-03-28,9,3,High
+SR-101024,Water Utilities,Billing Inquiry,2026-03-19,Closed,2026-03-22,3,2,Low
+SR-102342,Code Enforcement,Unsafe Structure,2026-03-19,Closed,2026-03-25,6,5,Medium
+SR-101993,Animal Control,Animal Bite Report,2026-03-19,Open,,175,3,Medium
+SR-101912,Water Utilities,Water Main Break,2026-03-20,Open,,174,2,Low
+SR-101445,Planning,Zoning Inquiry,2026-03-20,Resolved,2026-03-23,3,4,Low
+SR-102001,Public Works,Pothole Repair,2026-03-20,Closed,2026-04-04,15,4,Medium
+SR-101000,Planning,Zoning Inquiry,2026-03-20,Resolved,2026-03-22,2,2,Medium
+SR-102197,Planning,Zoning Inquiry,2026-03-20,Closed,2026-03-29,9,1,Medium
+SR-100772,Planning,Land Use Complaint,2026-03-20,Closed,2026-03-20,0,1,High
+SR-100046,Planning,Land Use Complaint,2026-03-20,Closed,2026-03-24,4,4,Low
+SR-102075,Code Enforcement,Overgrown Lot,2026-03-20,In Progress,,174,2,Low
+SR-100323,Animal Control,Wildlife Concern,2026-03-21,In Progress,,173,4,Low
+SR-100499,Water Utilities,Water Main Break,2026-03-21,Resolved,2026-04-14,24,2,Low
+SR-100962,Public Works,Street Light Outage,2026-03-21,Resolved,2026-03-28,7,3,Medium
+SR-101734,Public Works,Storm Drain Blocked,2026-03-21,In Progress,,173,3,Low
+SR-101232,Parks & Recreation,Playground Equipment Damage,2026-03-21,Resolved,2026-04-01,11,5,Low
+SR-100071,Planning,Land Use Complaint,2026-03-21,Closed,2026-03-26,5,2,High
+SR-101206,Water Utilities,Low Water Pressure,2026-03-21,In Progress,,173,2,Low
+SR-100244,Code Enforcement,Overgrown Lot,2026-03-21,Closed,2026-03-24,3,4,Low
+SR-101776,Parks & Recreation,Park Maintenance,2026-03-22,In Progress,,172,5,Medium
+SR-101668,Code Enforcement,Abandoned Vehicle,2026-03-22,Open,,172,1,Medium
+SR-102232,Parks & Recreation,Playground Equipment Damage,2026-03-22,In Progress,,172,5,Medium
+SR-102274,Code Enforcement,Abandoned Vehicle,2026-03-22,Open,,172,2,Low
+SR-100271,Code Enforcement,Illegal Dumping,2026-03-23,In Progress,,171,2,Medium
+SR-101396,Public Works,Storm Drain Blocked,2026-03-23,Closed,2026-03-24,1,2,Low
+SR-100798,Planning,Land Use Complaint,2026-03-23,In Progress,,171,2,Medium
+SR-102220,Water Utilities,Low Water Pressure,2026-03-23,Closed,2026-04-19,27,2,Low
+SR-100567,Code Enforcement,Overgrown Lot,2026-03-23,Closed,2026-04-01,9,4,Low
+SR-101442,Animal Control,Barking Complaint,2026-03-23,Closed,2026-04-18,26,5,Low
+SR-100871,Public Works,Pothole Repair,2026-03-23,Resolved,2026-03-31,8,2,Low
+SR-101130,Water Utilities,Billing Inquiry,2026-03-23,Resolved,2026-04-09,17,3,Low
+SR-100666,Code Enforcement,Abandoned Vehicle,2026-03-24,Resolved,2026-03-30,6,1,Medium
+SR-100186,Parks & Recreation,Tree Trimming Request,2026-03-24,Closed,2026-04-02,9,3,Medium
+SR-101547,Public Works,Storm Drain Blocked,2026-03-24,Closed,2026-04-11,18,2,Medium
+SR-102428,Public Works,Pothole Repair,2026-03-24,Closed,2026-04-08,15,1,Medium
+SR-100263,Animal Control,Stray Animal,2026-03-25,Resolved,2026-03-29,4,2,Medium
+SR-102475,Parks & Recreation,Trail Erosion,2026-03-25,Resolved,2026-03-26,1,4,Medium
+SR-100900,Public Works,Storm Drain Blocked,2026-03-25,Closed,2026-03-25,0,4,Low
+SR-101221,Planning,Permit Question,2026-03-25,Closed,2026-04-04,10,3,High
+SR-100155,Planning,Permit Question,2026-03-26,Open,,168,1,Low
+SR-102339,Animal Control,Stray Animal,2026-03-26,Resolved,2026-03-27,1,5,Low
+SR-100858,Public Works,Storm Drain Blocked,2026-03-26,Resolved,2026-04-02,7,2,Medium
+SR-101636,Water Utilities,Billing Inquiry,2026-03-26,Closed,2026-04-15,20,1,Low
+SR-101230,Animal Control,Animal Bite Report,2026-03-26,Closed,2026-03-28,2,2,High
+SR-102192,Public Works,Street Light Outage,2026-03-26,Closed,2026-04-05,10,4,Medium
+SR-100780,Water Utilities,Billing Inquiry,2026-03-26,Resolved,2026-04-24,29,4,Medium
+SR-101184,Animal Control,Wildlife Concern,2026-03-27,In Progress,,167,3,High
+SR-100692,Code Enforcement,Noise Complaint,2026-03-27,Resolved,2026-03-27,0,5,High
+SR-101536,Animal Control,Barking Complaint,2026-03-27,Resolved,2026-04-16,20,2,High
+SR-100418,Public Works,Sidewalk Damage,2026-03-28,In Progress,,166,5,Low
+SR-102314,Public Works,Storm Drain Blocked,2026-03-28,Resolved,2026-04-11,14,1,Low
+SR-100761,Code Enforcement,Illegal Dumping,2026-03-28,Resolved,2026-04-13,16,3,Medium
+SR-101718,Parks & Recreation,Playground Equipment Damage,2026-03-28,In Progress,,166,5,High
+SR-101510,Water Utilities,Low Water Pressure,2026-03-29,In Progress,,165,3,High
+SR-101538,Planning,Land Use Complaint,2026-03-30,Resolved,2026-04-13,14,2,Low
+SR-102476,Water Utilities,Low Water Pressure,2026-03-30,Resolved,2026-04-05,6,5,Low
+SR-102335,Public Works,Sidewalk Damage,2026-03-30,Open,,164,3,Medium
+SR-100538,Water Utilities,Meter Reading Issue,2026-03-31,Closed,2026-06-05,66,2,Medium
+SR-102482,Code Enforcement,Noise Complaint,2026-03-31,Resolved,2026-07-22,113,2,Low
+SR-100064,Water Utilities,Water Main Break,2026-03-31,Closed,2026-05-07,37,4,Medium
+SR-101383,Parks & Recreation,Tree Trimming Request,2026-03-31,Resolved,2026-04-10,10,3,Low
+SR-100989,Planning,Land Use Complaint,2026-03-31,Resolved,2026-04-01,1,2,Medium
+SR-101802,Water Utilities,Billing Inquiry,2026-04-01,Closed,2026-04-11,10,2,Low
+SR-102480,Public Works,Street Light Outage,2026-04-01,Closed,2026-04-19,18,1,Low
+SR-100261,Code Enforcement,Illegal Dumping,2026-04-01,Open,,162,4,Medium
+SR-102466,Public Works,Storm Drain Blocked,2026-04-01,Closed,2026-04-06,5,3,Medium
+SR-102102,Planning,Sign Violation,2026-04-02,Open,,161,1,Low
+SR-102455,Public Works,Street Light Outage,2026-04-02,In Progress,,161,5,Medium
+SR-102148,Animal Control,Stray Animal,2026-04-02,Open,,161,4,Low
+SR-100431,Water Utilities,Billing Inquiry,2026-04-02,Closed,2026-04-11,9,1,Low
+SR-100540,Water Utilities,Water Main Break,2026-04-03,Resolved,2026-04-03,0,5,Low
+SR-100615,Parks & Recreation,Playground Equipment Damage,2026-04-03,Open,,160,5,Low
+SR-101466,Planning,Sign Violation,2026-04-04,Resolved,2026-04-08,4,3,Low
+SR-100191,Planning,Land Use Complaint,2026-04-04,Resolved,2026-04-17,13,2,High
+SR-100625,Public Works,Sidewalk Damage,2026-04-04,Closed,2026-04-04,0,5,Low
+SR-102118,Planning,Permit Question,2026-04-04,Open,,159,1,Medium
+SR-102218,Planning,Land Use Complaint,2026-04-04,Closed,2026-04-14,10,4,Medium
+SR-101465,Code Enforcement,Abandoned Vehicle,2026-04-05,Resolved,2026-04-08,3,1,Low
+SR-100125,Code Enforcement,Illegal Dumping,2026-04-05,Closed,2026-04-06,1,5,High
+SR-100593,Public Works,Sidewalk Damage,2026-04-05,In Progress,,158,2,High
+SR-101570,Code Enforcement,Illegal Dumping,2026-04-06,Resolved,2026-04-14,8,3,Medium
+SR-100083,Planning,Permit Question,2026-04-06,Open,,157,1,Low
+SR-101617,Public Works,Pothole Repair,2026-04-06,In Progress,,157,5,Medium
+SR-100632,Code Enforcement,Unsafe Structure,2026-04-06,Closed,2026-04-16,10,3,High
+SR-100015,Code Enforcement,Illegal Dumping,2026-04-06,Closed,2026-04-08,2,1,Low
+SR-100915,Public Works,Street Light Outage,2026-04-07,Resolved,2026-04-12,5,2,Low
+SR-100971,Public Works,Road Debris,2026-04-08,In Progress,,155,4,Low
+SR-102277,Code Enforcement,Overgrown Lot,2026-04-08,Closed,2026-04-27,19,1,Low
+SR-101474,Code Enforcement,Abandoned Vehicle,2026-04-08,Closed,2026-04-10,2,3,Low
+SR-101105,Public Works,Pothole Repair,2026-04-08,In Progress,,155,1,Medium
+SR-101120,Public Works,Storm Drain Blocked,2026-04-09,Open,,154,3,Low
+SR-101302,Public Works,Street Light Outage,2026-04-09,Resolved,2026-04-26,17,3,Medium
+SR-102360,Parks & Recreation,Park Maintenance,2026-04-09,Resolved,2026-04-22,13,3,Medium
+SR-101437,Code Enforcement,Noise Complaint,2026-04-09,Closed,2026-04-19,10,4,Low
+SR-101284,Water Utilities,Water Main Break,2026-04-09,Resolved,2026-04-16,7,2,Low
+SR-101706,Code Enforcement,Noise Complaint,2026-04-09,Resolved,2026-04-11,2,5,Low
+SR-100555,Public Works,Street Light Outage,2026-04-10,Closed,2026-04-21,11,5,Low
+SR-102259,Water Utilities,Meter Reading Issue,2026-04-10,Closed,2026-04-16,6,3,Medium
+SR-102288,Planning,Permit Question,2026-04-10,In Progress,,153,3,Low
+SR-100352,Water Utilities,Water Main Break,2026-04-10,Open,,153,4,Low
+SR-102155,Planning,Sign Violation,2026-04-11,In Progress,,152,3,Low
+SR-100267,Public Works,Sidewalk Damage,2026-04-11,Resolved,2026-05-18,37,2,Medium
+SR-101331,Code Enforcement,Overgrown Lot,2026-04-11,Resolved,2026-04-21,10,2,Low
+SR-101922,Code Enforcement,Overgrown Lot,2026-04-11,In Progress,,152,5,Medium
+SR-102234,Public Works,Storm Drain Blocked,2026-04-12,Closed,2026-04-19,7,3,Low
+SR-101055,Code Enforcement,Overgrown Lot,2026-04-12,Closed,2026-04-17,5,5,Medium
+SR-100727,Water Utilities,Billing Inquiry,2026-04-12,Closed,2026-04-20,8,1,Low
+SR-101741,Planning,Permit Question,2026-04-12,Closed,2026-04-14,2,2,Low
+SR-100154,Public Works,Storm Drain Blocked,2026-04-12,Open,,151,3,Medium
+SR-101259,Water Utilities,Water Main Break,2026-04-13,Closed,2026-05-03,20,5,High
+SR-100953,Public Works,Sidewalk Damage,2026-04-13,Resolved,2026-04-21,8,1,Low
+SR-100698,Planning,Sign Violation,2026-04-13,Open,,150,1,Low
+SR-102191,Public Works,Storm Drain Blocked,2026-04-13,Open,,150,4,Low
+SR-101675,Parks & Recreation,Trail Erosion,2026-04-13,Resolved,2026-04-17,4,5,High
+SR-101863,Public Works,Road Debris,2026-04-14,Closed,2026-05-12,28,5,Medium
+SR-101669,Public Works,Pothole Repair,2026-04-14,Resolved,2026-04-21,7,1,Medium
+SR-100141,Animal Control,Animal Bite Report,2026-04-14,Resolved,2026-04-20,6,2,Low
+SR-100530,Water Utilities,Water Main Break,2026-04-15,Resolved,2026-05-02,17,5,Medium
+SR-101896,Public Works,Storm Drain Blocked,2026-04-15,Open,,148,3,Medium
+SR-101348,Public Works,Road Debris,2026-04-15,Open,,148,4,Medium
+SR-101902,Planning,Zoning Inquiry,2026-04-16,In Progress,,147,4,High
+SR-100879,Public Works,Road Debris,2026-04-16,Closed,2026-05-06,20,2,Medium
+SR-100594,Planning,Sign Violation,2026-04-16,In Progress,,147,1,Low
+SR-100278,Water Utilities,Water Main Break,2026-04-16,Resolved,2026-04-17,1,1,Low
+SR-100580,Water Utilities,Water Main Break,2026-04-16,In Progress,,147,1,Low
+SR-100257,Code Enforcement,Illegal Dumping,2026-04-16,Open,,147,4,Low
+SR-100044,Public Works,Storm Drain Blocked,2026-04-16,Resolved,2026-04-16,0,3,Low
+SR-101587,Planning,Permit Question,2026-04-16,Resolved,2026-04-17,1,4,Low
+SR-100634,Public Works,Road Debris,2026-04-16,In Progress,,147,5,Low
+SR-101200,Code Enforcement,Illegal Dumping,2026-04-17,Resolved,2026-04-17,0,1,Low
+SR-100750,Public Works,Street Light Outage,2026-04-17,Resolved,2026-04-17,0,2,Low
+SR-101187,Parks & Recreation,Trail Erosion,2026-04-17,Closed,2026-04-17,0,3,Low
+SR-100301,Water Utilities,Billing Inquiry,2026-04-18,Closed,2026-04-27,9,3,Low
+SR-101849,Planning,Sign Violation,2026-04-18,Closed,2026-04-18,0,2,Low
+SR-101042,Animal Control,Barking Complaint,2026-04-18,Closed,2026-05-01,13,4,Medium
+SR-101213,Public Works,Street Light Outage,2026-04-18,Open,,145,5,Low
+SR-102436,Planning,Zoning Inquiry,2026-04-18,Resolved,2026-04-24,6,2,Low
+SR-101197,Water Utilities,Water Main Break,2026-04-18,Closed,2026-05-12,24,4,High
+SR-101962,Planning,Zoning Inquiry,2026-04-19,Closed,2026-04-19,0,1,Medium
+SR-101174,Public Works,Sidewalk Damage,2026-04-19,In Progress,,144,2,Medium
+SR-101679,Code Enforcement,Illegal Dumping,2026-04-19,In Progress,,144,4,High
+SR-101572,Water Utilities,Water Main Break,2026-04-19,In Progress,,144,5,Low
+SR-100381,Planning,Land Use Complaint,2026-04-20,Resolved,2026-04-26,6,5,Medium
+SR-102126,Water Utilities,Low Water Pressure,2026-04-20,Closed,2026-05-02,12,1,High
+SR-101414,Public Works,Street Light Outage,2026-04-20,Resolved,2026-06-06,47,4,Low
+SR-102430,Animal Control,Barking Complaint,2026-04-20,Resolved,2026-06-13,54,1,High
+SR-101519,Public Works,Pothole Repair,2026-04-20,Resolved,2026-05-05,15,2,Low
+SR-101162,Code Enforcement,Overgrown Lot,2026-04-21,Open,,142,3,Medium
+SR-101441,Water Utilities,Meter Reading Issue,2026-04-21,In Progress,,142,2,Low
+SR-102177,Planning,Land Use Complaint,2026-04-21,Resolved,2026-05-07,16,2,Medium
+SR-101901,Code Enforcement,Overgrown Lot,2026-04-21,Open,,142,4,Medium
+SR-100162,Public Works,Street Light Outage,2026-04-22,Closed,2026-04-29,7,3,Low
+SR-102117,Code Enforcement,Overgrown Lot,2026-04-22,Closed,2026-05-08,16,5,High
+SR-100469,Public Works,Sidewalk Damage,2026-04-22,In Progress,,141,4,High
+SR-100758,Public Works,Street Light Outage,2026-04-22,In Progress,,141,1,Low
+SR-101350,Public Works,Road Debris,2026-04-22,In Progress,,141,2,High
+SR-100167,Public Works,Road Debris,2026-04-22,Resolved,2026-04-22,0,4,High
+SR-102264,Water Utilities,Low Water Pressure,2026-04-22,Closed,2026-05-13,21,4,Low
+SR-102355,Parks & Recreation,Tree Trimming Request,2026-04-23,Closed,2026-05-01,8,3,Low
+SR-102425,Parks & Recreation,Trail Erosion,2026-04-23,Open,,140,3,High
+SR-100859,Planning,Zoning Inquiry,2026-04-24,Resolved,2026-05-16,22,2,Low
+SR-100875,Public Works,Sidewalk Damage,2026-04-24,In Progress,,139,3,Medium
+SR-101880,Animal Control,Wildlife Concern,2026-04-24,Resolved,2026-04-29,5,5,Medium
+SR-101180,Public Works,Street Light Outage,2026-04-24,Closed,2026-05-14,20,3,Low
+SR-102461,Parks & Recreation,Playground Equipment Damage,2026-04-24,Resolved,2026-05-03,9,5,Medium
+SR-102304,Public Works,Sidewalk Damage,2026-04-24,Resolved,2026-04-24,0,3,High
+SR-100995,Public Works,Road Debris,2026-04-25,Closed,2026-05-12,17,1,Low
+SR-100652,Animal Control,Barking Complaint,2026-04-25,Open,,138,5,Medium
+SR-101740,Animal Control,Animal Bite Report,2026-04-25,Closed,2026-04-27,2,4,Low
+SR-102471,Public Works,Road Debris,2026-04-26,Open,,137,1,Medium
+SR-100262,Water Utilities,Low Water Pressure,2026-04-26,Resolved,2026-04-29,3,1,Low
+SR-100037,Parks & Recreation,Tree Trimming Request,2026-04-26,Closed,2026-04-28,2,3,Medium
+SR-102405,Planning,Permit Question,2026-04-27,Open,,136,1,Low
+SR-100745,Animal Control,Barking Complaint,2026-04-27,Resolved,2026-05-13,16,1,Low
+SR-100732,Public Works,Sidewalk Damage,2026-04-27,In Progress,,136,5,Low
+SR-101270,Code Enforcement,Illegal Dumping,2026-04-27,In Progress,,136,1,Medium
+SR-101145,Water Utilities,Meter Reading Issue,2026-04-27,In Progress,,136,1,Medium
+SR-102160,Planning,Land Use Complaint,2026-04-28,Open,,135,3,Medium
+SR-101916,Public Works,Street Light Outage,2026-04-28,Resolved,2026-05-02,4,5,Low
+SR-100974,Code Enforcement,Illegal Dumping,2026-04-28,Closed,2026-04-30,2,3,Low
+SR-100390,Code Enforcement,Noise Complaint,2026-04-28,Closed,2026-04-29,1,4,Low
+SR-101422,Code Enforcement,Unsafe Structure,2026-04-28,Closed,2026-05-02,4,5,High
+SR-100510,Public Works,Street Light Outage,2026-04-30,Resolved,2026-05-15,15,1,Low
+SR-101380,Public Works,Sidewalk Damage,2026-04-30,Closed,2026-05-28,28,3,Low
+SR-100101,Planning,Sign Violation,2026-04-30,Resolved,2026-05-02,2,1,Low
+SR-102069,Parks & Recreation,Trail Erosion,2026-04-30,Resolved,2026-05-07,7,1,Medium
+SR-101349,Water Utilities,Billing Inquiry,2026-04-30,Closed,2026-04-30,0,4,Medium
+SR-100762,Public Works,Pothole Repair,2026-04-30,Closed,2026-05-21,21,1,Medium
+SR-102212,Water Utilities,Water Main Break,2026-05-01,Open,,132,5,Low
+SR-101998,Code Enforcement,Abandoned Vehicle,2026-05-01,Open,,132,1,Low
+SR-101730,Water Utilities,Meter Reading Issue,2026-05-01,In Progress,,132,5,Medium
+SR-102053,Public Works,Road Debris,2026-05-01,Closed,2026-05-04,3,1,Medium
+SR-101166,Public Works,Pothole Repair,2026-05-01,Closed,2026-05-08,7,3,Medium
+SR-101322,Water Utilities,Billing Inquiry,2026-05-02,Resolved,2026-05-04,2,1,Low
+SR-100817,Public Works,Sidewalk Damage,2026-05-02,Open,,131,5,High
+SR-100960,Code Enforcement,Overgrown Lot,2026-05-03,Resolved,2026-05-09,6,5,Medium
+SR-101759,Code Enforcement,Noise Complaint,2026-05-03,Open,,130,1,High
+SR-100928,Animal Control,Wildlife Concern,2026-05-03,Resolved,2026-05-26,23,3,Low
+SR-100050,Code Enforcement,Overgrown Lot,2026-05-03,Resolved,2026-06-04,32,5,Medium
+SR-100160,Parks & Recreation,Tree Trimming Request,2026-05-04,Open,,129,2,Medium
+SR-100192,Code Enforcement,Noise Complaint,2026-05-04,Closed,2026-05-06,2,5,Low
+SR-101211,Planning,Zoning Inquiry,2026-05-04,Open,,129,3,Low
+SR-101467,Water Utilities,Meter Reading Issue,2026-05-05,Resolved,2026-05-15,10,4,High
+SR-102437,Public Works,Sidewalk Damage,2026-05-05,Closed,2026-05-20,15,2,Low
+SR-101514,Code Enforcement,Unsafe Structure,2026-05-05,Closed,2026-05-13,8,3,Low
+SR-102330,Parks & Recreation,Tree Trimming Request,2026-05-05,Open,,128,2,Medium
+SR-100927,Water Utilities,Billing Inquiry,2026-05-06,Resolved,2026-05-21,15,2,Low
+SR-101420,Code Enforcement,Overgrown Lot,2026-05-06,In Progress,,127,2,Low
+SR-100068,Parks & Recreation,Park Maintenance,2026-05-07,Closed,2026-05-31,24,5,Low
+SR-101836,Planning,Zoning Inquiry,2026-05-07,Closed,2026-05-09,2,2,Medium
+SR-100590,Planning,Sign Violation,2026-05-07,In Progress,,126,4,Low
+SR-100360,Water Utilities,Billing Inquiry,2026-05-07,Resolved,2026-06-12,36,1,Medium
+SR-100878,Public Works,Street Light Outage,2026-05-08,In Progress,,125,2,High
+SR-101584,Water Utilities,Billing Inquiry,2026-05-08,Closed,2026-05-26,18,2,Medium
+SR-101516,Public Works,Storm Drain Blocked,2026-05-08,In Progress,,125,1,Low
+SR-101585,Code Enforcement,Unsafe Structure,2026-05-08,In Progress,,125,5,Low
+SR-101493,Public Works,Sidewalk Damage,2026-05-08,Resolved,2026-05-15,7,5,Medium
+SR-100868,Animal Control,Stray Animal,2026-05-08,Closed,2026-05-19,11,1,Low
+SR-101726,Water Utilities,Billing Inquiry,2026-05-08,Open,,125,4,Low
+SR-101961,Water Utilities,Water Main Break,2026-05-08,Closed,2026-05-25,17,5,Low
+SR-100695,Public Works,Pothole Repair,2026-05-09,In Progress,,124,1,Low
+SR-100457,Public Works,Storm Drain Blocked,2026-05-09,Open,,124,3,Medium
+SR-101773,Animal Control,Animal Bite Report,2026-05-09,Resolved,2026-06-11,33,3,High
+SR-101535,Public Works,Storm Drain Blocked,2026-05-09,Closed,2026-05-16,7,2,Low
+SR-101542,Animal Control,Wildlife Concern,2026-05-10,In Progress,,123,4,Medium
+SR-101832,Public Works,Street Light Outage,2026-05-10,Resolved,2026-05-17,7,1,Medium
+SR-102478,Parks & Recreation,Playground Equipment Damage,2026-05-10,Open,,123,3,Low
+SR-102350,Animal Control,Animal Bite Report,2026-05-11,In Progress,,122,1,Low
+SR-101829,Water Utilities,Meter Reading Issue,2026-05-11,Closed,2026-05-30,19,2,Medium
+SR-101058,Code Enforcement,Overgrown Lot,2026-05-12,Open,,121,5,Medium
+SR-101537,Planning,Sign Violation,2026-05-12,Open,,121,3,Medium
+SR-101939,Code Enforcement,Unsafe Structure,2026-05-12,Closed,2026-05-15,3,1,Medium
+SR-102190,Public Works,Pothole Repair,2026-05-12,Open,,121,1,Medium
+SR-100578,Code Enforcement,Noise Complaint,2026-05-13,Closed,2026-05-19,6,5,Medium
+SR-101154,Public Works,Street Light Outage,2026-05-13,Resolved,2026-05-25,12,5,Medium
+SR-101629,Animal Control,Wildlife Concern,2026-05-13,Closed,2026-05-17,4,4,Low
+SR-101756,Public Works,Street Light Outage,2026-05-13,Resolved,2026-05-13,0,2,Medium
+SR-100739,Planning,Permit Question,2026-05-13,Closed,2026-05-13,0,2,Medium
+SR-101719,Public Works,Sidewalk Damage,2026-05-13,Closed,2026-05-21,8,5,Medium
+SR-100771,Public Works,Sidewalk Damage,2026-05-13,Resolved,2026-05-20,7,2,High
+SR-101793,Public Works,Storm Drain Blocked,2026-05-13,In Progress,,120,1,High
+SR-100058,Planning,Zoning Inquiry,2026-05-14,Resolved,2026-05-25,11,2,Low
+SR-100011,Public Works,Sidewalk Damage,2026-05-14,Closed,2026-05-28,14,1,Medium
+SR-100396,Code Enforcement,Abandoned Vehicle,2026-05-14,Closed,2026-05-24,10,3,Low
+SR-101674,Code Enforcement,Overgrown Lot,2026-05-14,Resolved,2026-06-21,38,4,Low
+SR-100541,Animal Control,Barking Complaint,2026-05-14,Open,,119,4,Medium
+SR-102310,Code Enforcement,Illegal Dumping,2026-05-14,Resolved,2026-05-22,8,3,Low
+SR-100511,Planning,Sign Violation,2026-05-14,Resolved,2026-05-17,3,4,Medium
+SR-101336,Water Utilities,Low Water Pressure,2026-05-15,Resolved,2026-06-06,22,2,Medium
+SR-102320,Parks & Recreation,Trail Erosion,2026-05-15,Open,,118,2,Low
+SR-100070,Water Utilities,Low Water Pressure,2026-05-15,Closed,2026-05-18,3,5,Medium
+SR-102236,Water Utilities,Meter Reading Issue,2026-05-15,Resolved,2026-05-19,4,2,Medium
+SR-101267,Public Works,Pothole Repair,2026-05-16,In Progress,,117,5,Low
+SR-102131,Water Utilities,Water Main Break,2026-05-16,In Progress,,117,2,Low
+SR-101895,Public Works,Pothole Repair,2026-05-16,Resolved,2026-06-01,16,1,Low
+SR-101565,Planning,Permit Question,2026-05-16,Closed,2026-05-29,13,5,Medium
+SR-102483,Animal Control,Barking Complaint,2026-05-16,Resolved,2026-06-07,22,5,Medium
+SR-100079,Public Works,Pothole Repair,2026-05-17,In Progress,,116,5,Medium
+SR-101886,Animal Control,Wildlife Concern,2026-05-17,Resolved,2026-05-29,12,3,Low
+SR-102050,Animal Control,Stray Animal,2026-05-17,Closed,2026-05-31,14,4,Low
+SR-101193,Public Works,Road Debris,2026-05-18,Closed,2026-06-26,39,2,Medium
+SR-102273,Public Works,Street Light Outage,2026-05-18,In Progress,,115,5,Medium
+SR-102486,Water Utilities,Billing Inquiry,2026-05-18,Resolved,2026-05-25,7,1,Low
+SR-100845,Water Utilities,Billing Inquiry,2026-05-19,In Progress,,114,2,High
+SR-100464,Planning,Sign Violation,2026-05-19,Resolved,2026-06-05,17,1,Low
+SR-101272,Public Works,Sidewalk Damage,2026-05-20,Closed,2026-06-02,13,4,Low
+SR-100466,Parks & Recreation,Park Maintenance,2026-05-20,Closed,2026-05-25,5,1,Low
+SR-100173,Planning,Zoning Inquiry,2026-05-21,Resolved,2026-06-08,18,5,Medium
+SR-101178,Code Enforcement,Unsafe Structure,2026-05-21,Open,,112,5,Low
+SR-101861,Planning,Permit Question,2026-05-21,Resolved,2026-06-13,23,2,Low
+SR-100195,Public Works,Sidewalk Damage,2026-05-22,Closed,2026-05-28,6,2,Low
+SR-101822,Water Utilities,Water Main Break,2026-05-23,Resolved,2026-05-24,1,5,Medium
+SR-100407,Parks & Recreation,Tree Trimming Request,2026-05-23,Resolved,2026-06-15,23,3,Low
+SR-102000,Public Works,Pothole Repair,2026-05-23,Resolved,2026-06-20,28,1,Low
+SR-100678,Public Works,Storm Drain Blocked,2026-05-23,Resolved,2026-06-17,25,3,Low
+SR-101554,Code Enforcement,Unsafe Structure,2026-05-23,Resolved,2026-06-03,11,4,Low
+SR-100657,Code Enforcement,Illegal Dumping,2026-05-23,Resolved,2026-05-26,3,1,Low
+SR-102166,Public Works,Storm Drain Blocked,2026-05-24,Resolved,2026-06-09,16,2,Low
+SR-100722,Public Works,Road Debris,2026-05-24,In Progress,,109,5,Medium
+SR-100460,Public Works,Road Debris,2026-05-24,Resolved,2026-05-30,6,5,Medium
+SR-102396,Planning,Sign Violation,2026-05-25,Closed,2026-05-26,1,3,Medium
+SR-100824,Water Utilities,Low Water Pressure,2026-05-25,Resolved,2026-05-27,2,1,Medium
+SR-101676,Public Works,Road Debris,2026-05-26,Resolved,2026-06-04,9,3,Medium
+SR-102382,Water Utilities,Low Water Pressure,2026-05-26,Closed,2026-06-03,8,5,High
+SR-102362,Water Utilities,Meter Reading Issue,2026-05-26,Closed,2026-05-26,0,1,Medium
+SR-101637,Public Works,Sidewalk Damage,2026-05-26,Closed,2026-05-27,1,2,Medium
+SR-100224,Public Works,Street Light Outage,2026-05-26,Open,,107,1,Low
+SR-101077,Public Works,Road Debris,2026-05-28,In Progress,,105,4,High
+SR-100748,Animal Control,Stray Animal,2026-05-28,Resolved,2026-05-29,1,2,Low
+SR-100675,Water Utilities,Water Main Break,2026-05-28,Closed,2026-05-30,2,4,Medium
+SR-102215,Public Works,Sidewalk Damage,2026-05-28,In Progress,,105,5,Low
+SR-101778,Planning,Permit Question,2026-05-28,Closed,2026-06-13,16,3,Low
+SR-100114,Public Works,Sidewalk Damage,2026-05-28,Resolved,2026-06-13,16,5,Low
+SR-101609,Water Utilities,Billing Inquiry,2026-05-29,Closed,2026-06-01,3,3,Low
+SR-101717,Water Utilities,Low Water Pressure,2026-05-31,Closed,2026-05-31,0,2,Medium
+SR-102363,Public Works,Storm Drain Blocked,2026-05-31,Resolved,2026-06-07,7,2,Low
+SR-100957,Water Utilities,Low Water Pressure,2026-05-31,Open,,102,3,Low
+SR-100796,Code Enforcement,Unsafe Structure,2026-05-31,Closed,2026-06-02,2,5,Medium
+SR-102489,Public Works,Road Debris,2026-05-31,Resolved,2026-06-19,19,5,Low
+SR-100055,Code Enforcement,Noise Complaint,2026-05-31,Closed,2026-06-11,11,2,Low
+SR-100272,Public Works,Sidewalk Damage,2026-06-01,Resolved,2026-06-19,18,2,Low
+SR-100260,Animal Control,Animal Bite Report,2026-06-01,Closed,2026-06-17,16,1,Medium
+SR-100636,Code Enforcement,Illegal Dumping,2026-06-01,Closed,2026-06-03,2,5,Low
+SR-100255,Code Enforcement,Unsafe Structure,2026-06-01,Resolved,2026-06-01,0,2,Medium
+SR-102093,Public Works,Road Debris,2026-06-01,In Progress,,101,3,Low
+SR-101869,Animal Control,Animal Bite Report,2026-06-01,In Progress,,101,4,Low
+SR-100841,Public Works,Storm Drain Blocked,2026-06-01,Resolved,2026-06-02,1,1,Low
+SR-100392,Planning,Sign Violation,2026-06-01,Resolved,2026-06-08,7,3,Low
+SR-100814,Public Works,Road Debris,2026-06-01,Closed,2026-06-03,2,1,Low
+SR-101657,Water Utilities,Low Water Pressure,2026-06-01,Closed,2026-06-05,4,1,Medium
+SR-100440,Public Works,Sidewalk Damage,2026-06-02,In Progress,,100,3,Medium
+SR-101205,Parks & Recreation,Trail Erosion,2026-06-02,Open,,100,2,High
+SR-100699,Animal Control,Wildlife Concern,2026-06-02,Resolved,2026-06-17,15,5,Low
+SR-100104,Planning,Zoning Inquiry,2026-06-02,Resolved,2026-06-29,27,3,Low
+SR-101942,Water Utilities,Meter Reading Issue,2026-06-02,Resolved,2026-06-03,1,3,High
+SR-101789,Public Works,Storm Drain Blocked,2026-06-03,In Progress,,99,3,Medium
+SR-101952,Parks & Recreation,Park Maintenance,2026-06-03,Resolved,2026-06-08,5,5,Low
+SR-100735,Parks & Recreation,Playground Equipment Damage,2026-06-03,Resolved,2026-06-18,15,4,Low
+SR-100320,Planning,Permit Question,2026-06-03,In Progress,,99,3,High
+SR-100445,Animal Control,Barking Complaint,2026-06-04,Resolved,2026-06-06,2,4,Low
+SR-100369,Animal Control,Stray Animal,2026-06-04,Open,,98,5,Medium
+SR-100199,Code Enforcement,Unsafe Structure,2026-06-05,Resolved,2026-06-07,2,5,Low
+SR-100799,Planning,Zoning Inquiry,2026-06-06,In Progress,,96,4,Low
+SR-101928,Planning,Permit Question,2026-06-06,Resolved,2026-06-11,5,3,Low
+SR-100143,Water Utilities,Billing Inquiry,2026-06-07,Resolved,2026-06-10,3,4,Medium
+SR-101522,Code Enforcement,Illegal Dumping,2026-06-07,In Progress,,95,4,Low
+SR-100196,Public Works,Pothole Repair,2026-06-08,Resolved,2026-06-17,9,3,High
+SR-101929,Water Utilities,Meter Reading Issue,2026-06-09,Open,,93,4,Medium
+SR-101317,Animal Control,Animal Bite Report,2026-06-09,Resolved,2026-07-06,27,4,Medium
+SR-101423,Water Utilities,Billing Inquiry,2026-06-09,Resolved,2026-06-12,3,5,Low
+SR-100424,Public Works,Sidewalk Damage,2026-06-09,Open,,93,2,Medium
+SR-101731,Public Works,Sidewalk Damage,2026-06-09,In Progress,,93,2,Medium
+SR-102005,Public Works,Road Debris,2026-06-10,Resolved,2026-06-15,5,2,Low
+SR-101545,Parks & Recreation,Trail Erosion,2026-06-10,Resolved,2026-06-11,1,5,Low
+SR-101475,Public Works,Street Light Outage,2026-06-10,Closed,2026-06-12,2,5,Medium
+SR-100217,Public Works,Storm Drain Blocked,2026-06-10,In Progress,,92,5,Low
+SR-100163,Water Utilities,Water Main Break,2026-06-10,In Progress,,92,4,Low
+SR-102020,Animal Control,Barking Complaint,2026-06-11,Closed,2026-06-21,10,3,Low
+SR-102233,Public Works,Road Debris,2026-06-11,Closed,2026-06-18,7,2,Medium
+SR-101354,Animal Control,Wildlife Concern,2026-06-11,Resolved,2026-07-03,22,5,Medium
+SR-101425,Planning,Permit Question,2026-06-11,Resolved,2026-06-19,8,2,High
+SR-100956,Planning,Permit Question,2026-06-11,Resolved,2026-06-14,3,1,Medium
+SR-102095,Public Works,Storm Drain Blocked,2026-06-11,Resolved,2026-06-19,8,5,Low
+SR-101779,Public Works,Storm Drain Blocked,2026-06-12,In Progress,,90,2,Medium
+SR-100421,Water Utilities,Billing Inquiry,2026-06-12,Closed,2026-06-17,5,1,Medium
+SR-101578,Code Enforcement,Abandoned Vehicle,2026-06-12,Closed,2026-06-19,7,1,Medium
+SR-102014,Animal Control,Barking Complaint,2026-06-12,Closed,2026-06-15,3,2,Low
+SR-100605,Planning,Land Use Complaint,2026-06-13,In Progress,,89,1,Low
+SR-101325,Animal Control,Barking Complaint,2026-06-13,Closed,2026-06-20,7,3,Low
+SR-101233,Water Utilities,Water Main Break,2026-06-13,Closed,2026-06-22,9,3,Low
+SR-100325,Public Works,Pothole Repair,2026-06-13,In Progress,,89,2,Low
+SR-101797,Parks & Recreation,Tree Trimming Request,2026-06-13,Open,,89,3,Low
+SR-100366,Public Works,Pothole Repair,2026-06-13,Resolved,2026-06-14,1,1,Low
+SR-101332,Code Enforcement,Abandoned Vehicle,2026-06-14,Resolved,2026-06-18,4,4,Medium
+SR-100853,Public Works,Storm Drain Blocked,2026-06-14,Closed,2026-06-26,12,2,High
+SR-102434,Public Works,Sidewalk Damage,2026-06-14,Open,,88,1,Low
+SR-101033,Water Utilities,Meter Reading Issue,2026-06-15,Resolved,2026-06-16,1,5,Medium
+SR-101663,Code Enforcement,Overgrown Lot,2026-06-15,Resolved,2026-06-23,8,1,Low
+SR-102328,Water Utilities,Meter Reading Issue,2026-06-16,Open,,86,2,Low
+SR-100551,Water Utilities,Low Water Pressure,2026-06-16,Resolved,2026-07-24,38,2,Low
+SR-101974,Public Works,Street Light Outage,2026-06-16,Closed,2026-07-11,25,4,Medium
+SR-101830,Public Works,Pothole Repair,2026-06-16,Closed,2026-06-17,1,5,Low
+SR-100389,Public Works,Storm Drain Blocked,2026-06-17,Resolved,2026-07-27,40,3,Low
+SR-102349,Public Works,Storm Drain Blocked,2026-06-17,In Progress,,85,2,Medium
+SR-101855,Public Works,Storm Drain Blocked,2026-06-17,Resolved,2026-07-22,35,2,Medium
+SR-101254,Animal Control,Wildlife Concern,2026-06-17,Resolved,2026-07-12,25,3,Medium
+SR-100095,Public Works,Storm Drain Blocked,2026-06-18,Open,,84,1,Low
+SR-100646,Public Works,Road Debris,2026-06-18,Closed,2026-06-19,1,3,Medium
+SR-101390,Code Enforcement,Unsafe Structure,2026-06-19,In Progress,,83,5,Medium
+SR-102301,Code Enforcement,Illegal Dumping,2026-06-19,Resolved,2026-06-19,0,5,Medium
+SR-101606,Public Works,Storm Drain Blocked,2026-06-19,Closed,2026-06-30,11,1,Low
+SR-101881,Code Enforcement,Noise Complaint,2026-06-20,Resolved,2026-06-29,9,1,High
+SR-101888,Water Utilities,Billing Inquiry,2026-06-20,Resolved,2026-07-03,13,5,Low
+SR-101028,Code Enforcement,Unsafe Structure,2026-06-20,Open,,82,2,Medium
+SR-101811,Water Utilities,Low Water Pressure,2026-06-20,Closed,2026-07-10,20,5,Low
+SR-102019,Planning,Sign Violation,2026-06-20,Resolved,2026-06-24,4,2,High
+SR-100198,Parks & Recreation,Trail Erosion,2026-06-20,Resolved,2026-07-20,30,1,Low
+SR-100591,Planning,Zoning Inquiry,2026-06-21,In Progress,,81,2,High
+SR-100102,Planning,Sign Violation,2026-06-21,Resolved,2026-07-17,26,4,Low
+SR-101116,Public Works,Storm Drain Blocked,2026-06-21,Resolved,2026-07-09,18,1,Low
+SR-101660,Parks & Recreation,Park Maintenance,2026-06-21,Resolved,2026-06-21,0,3,Medium
+SR-102435,Public Works,Street Light Outage,2026-06-21,Resolved,2026-07-24,33,1,Low
+SR-101845,Public Works,Pothole Repair,2026-06-21,Open,,81,5,Low
+SR-102147,Code Enforcement,Abandoned Vehicle,2026-06-22,Open,,80,3,High
+SR-100935,Water Utilities,Low Water Pressure,2026-06-22,Resolved,2026-07-01,9,3,Low
+SR-100779,Water Utilities,Meter Reading Issue,2026-06-22,Resolved,2026-06-28,6,4,Medium
+SR-102479,Water Utilities,Meter Reading Issue,2026-06-23,Resolved,2026-06-25,2,2,Low
+SR-101560,Water Utilities,Meter Reading Issue,2026-06-23,Closed,2026-06-27,4,4,Low
+SR-101693,Water Utilities,Low Water Pressure,2026-06-23,Open,,79,1,Low
+SR-100536,Water Utilities,Water Main Break,2026-06-24,Resolved,2026-06-26,2,5,High
+SR-100545,Planning,Permit Question,2026-06-24,In Progress,,78,3,Low
+SR-100512,Public Works,Street Light Outage,2026-06-24,In Progress,,78,3,Low
+SR-101378,Code Enforcement,Illegal Dumping,2026-06-25,In Progress,,77,3,High
+SR-102337,Planning,Land Use Complaint,2026-06-25,Resolved,2026-06-26,1,1,High
+SR-102441,Code Enforcement,Abandoned Vehicle,2026-06-25,Closed,2026-07-02,7,5,Low
+SR-100943,Water Utilities,Low Water Pressure,2026-06-25,Closed,2026-06-27,2,1,Low
+SR-101209,Animal Control,Animal Bite Report,2026-06-25,Closed,2026-06-29,4,3,Low
+SR-101883,Water Utilities,Water Main Break,2026-06-26,Resolved,2026-07-11,15,1,Low
+SR-100920,Public Works,Sidewalk Damage,2026-06-26,Closed,2026-06-28,2,2,Low
+SR-101877,Public Works,Street Light Outage,2026-06-26,Closed,2026-07-15,19,2,Medium
+SR-100349,Public Works,Sidewalk Damage,2026-06-26,Resolved,2026-07-15,19,1,Low
+SR-102070,Code Enforcement,Overgrown Lot,2026-06-26,Resolved,2026-07-17,21,1,Low
+SR-100521,Code Enforcement,Abandoned Vehicle,2026-06-26,Open,,76,2,Low
+SR-101080,Code Enforcement,Illegal Dumping,2026-06-26,Closed,2026-06-26,0,1,Medium
+SR-100090,Code Enforcement,Unsafe Structure,2026-06-26,Closed,2026-07-07,11,5,Medium
+SR-102101,Water Utilities,Water Main Break,2026-06-26,Closed,2026-06-26,0,1,Low
+SR-100603,Planning,Land Use Complaint,2026-06-27,Closed,2026-06-27,0,5,Medium
+SR-101959,Public Works,Street Light Outage,2026-06-27,Closed,2026-06-29,2,2,Low
+SR-100756,Water Utilities,Low Water Pressure,2026-06-27,Closed,2026-07-01,4,2,Low
+SR-101268,Parks & Recreation,Trail Erosion,2026-06-28,Closed,2026-07-04,6,5,Low
+SR-102107,Code Enforcement,Illegal Dumping,2026-06-28,Resolved,2026-06-30,2,2,High
+SR-102199,Animal Control,Animal Bite Report,2026-06-28,Closed,2026-06-28,0,5,Medium
+SR-100471,Code Enforcement,Unsafe Structure,2026-06-28,Closed,2026-07-03,5,1,Low
+SR-101498,Public Works,Street Light Outage,2026-06-28,Closed,2026-07-04,6,5,High
+SR-101386,Code Enforcement,Illegal Dumping,2026-06-29,In Progress,,73,1,Medium
+SR-101278,Water Utilities,Meter Reading Issue,2026-06-29,Closed,2026-06-30,1,3,Low
+SR-101432,Water Utilities,Water Main Break,2026-06-30,Resolved,2026-07-09,9,1,Medium
+SR-101306,Animal Control,Stray Animal,2026-06-30,Closed,2026-07-01,1,1,Low
+SR-101357,Water Utilities,Meter Reading Issue,2026-06-30,Resolved,2026-07-25,25,5,Low
+SR-100961,Animal Control,Animal Bite Report,2026-06-30,Open,,72,2,Medium
+SR-102260,Water Utilities,Billing Inquiry,2026-06-30,Open,,72,3,Medium
+SR-100794,Animal Control,Stray Animal,2026-07-01,In Progress,,71,2,High
+SR-100507,Public Works,Road Debris,2026-07-01,Resolved,2026-07-06,5,5,Medium
+SR-100855,Public Works,Sidewalk Damage,2026-07-01,Resolved,2026-07-10,9,4,Medium
+SR-100869,Code Enforcement,Noise Complaint,2026-07-01,Resolved,2026-07-08,7,3,Medium
+SR-100403,Water Utilities,Meter Reading Issue,2026-07-01,Open,,71,1,Medium
+SR-100314,Animal Control,Animal Bite Report,2026-07-01,Closed,2026-07-07,6,5,Low
+SR-100728,Water Utilities,Billing Inquiry,2026-07-01,In Progress,,71,4,Low
+SR-101968,Code Enforcement,Unsafe Structure,2026-07-02,Resolved,2026-07-07,5,1,Low
+SR-100447,Public Works,Street Light Outage,2026-07-02,Closed,2026-07-07,5,2,Medium
+SR-100317,Planning,Sign Violation,2026-07-02,In Progress,,70,2,Low
+SR-101073,Water Utilities,Low Water Pressure,2026-07-02,Closed,2026-07-03,1,4,Low
+SR-102414,Water Utilities,Meter Reading Issue,2026-07-02,Open,,70,4,Low
+SR-100211,Code Enforcement,Illegal Dumping,2026-07-03,Closed,2026-09-08,67,3,Low
+SR-100500,Code Enforcement,Abandoned Vehicle,2026-07-03,Resolved,2026-07-21,18,3,Medium
+SR-100402,Water Utilities,Water Main Break,2026-07-03,Closed,2026-07-03,0,4,Medium
+SR-100635,Planning,Land Use Complaint,2026-07-04,Closed,2026-07-07,3,1,Low
+SR-101143,Water Utilities,Meter Reading Issue,2026-07-04,Resolved,2026-08-08,35,2,High
+SR-101263,Parks & Recreation,Trail Erosion,2026-07-04,Resolved,2026-07-30,26,2,High
+SR-100539,Water Utilities,Water Main Break,2026-07-04,Closed,2026-07-05,1,3,High
+SR-100742,Public Works,Road Debris,2026-07-04,Resolved,2026-07-04,0,2,Low
+SR-100679,Code Enforcement,Overgrown Lot,2026-07-05,Closed,2026-08-07,33,1,Medium
+SR-101702,Planning,Sign Violation,2026-07-06,Closed,2026-07-14,8,1,Low
+SR-100146,Code Enforcement,Overgrown Lot,2026-07-06,Resolved,2026-07-20,14,1,Low
+SR-102302,Public Works,Road Debris,2026-07-06,Resolved,2026-07-08,2,2,Low
+SR-102386,Public Works,Storm Drain Blocked,2026-07-06,In Progress,,66,4,Low
+SR-100485,Animal Control,Barking Complaint,2026-07-07,Resolved,2026-07-08,1,4,Low
+SR-102201,Public Works,Sidewalk Damage,2026-07-07,Open,,65,3,Medium
+SR-102269,Parks & Recreation,Playground Equipment Damage,2026-07-07,Resolved,2026-07-20,13,3,Low
+SR-102449,Public Works,Pothole Repair,2026-07-08,Resolved,2026-07-13,5,3,Medium
+SR-102115,Code Enforcement,Overgrown Lot,2026-07-08,Resolved,2026-07-12,4,5,Low
+SR-100253,Parks & Recreation,Park Maintenance,2026-07-08,Closed,2026-08-05,28,4,Low
+SR-101967,Public Works,Sidewalk Damage,2026-07-08,Closed,2026-07-10,2,5,Low
+SR-100978,Parks & Recreation,Trail Erosion,2026-07-09,Closed,2026-07-11,2,3,High
+SR-101356,Animal Control,Stray Animal,2026-07-09,Resolved,2026-07-27,18,4,Low
+SR-101245,Code Enforcement,Abandoned Vehicle,2026-07-09,Closed,2026-07-16,7,3,High
+SR-100945,Animal Control,Animal Bite Report,2026-07-10,Closed,2026-07-17,7,3,Low
+SR-100786,Code Enforcement,Unsafe Structure,2026-07-10,Resolved,2026-07-19,9,2,Medium
+SR-100008,Public Works,Street Light Outage,2026-07-10,Closed,2026-08-12,33,4,Low
+SR-100223,Water Utilities,Meter Reading Issue,2026-07-10,Closed,2026-07-17,7,4,Medium
+SR-100801,Water Utilities,Low Water Pressure,2026-07-10,Closed,2026-07-14,4,2,Low
+SR-102036,Planning,Land Use Complaint,2026-07-10,In Progress,,62,2,High
+SR-102032,Code Enforcement,Noise Complaint,2026-07-11,In Progress,,61,1,Medium
+SR-100872,Code Enforcement,Overgrown Lot,2026-07-11,Closed,2026-08-04,24,3,Medium
+SR-101342,Public Works,Road Debris,2026-07-11,Resolved,2026-07-23,12,5,Medium
+SR-101580,Public Works,Pothole Repair,2026-07-11,Closed,2026-07-12,1,1,Low
+SR-101655,Animal Control,Wildlife Concern,2026-07-11,Open,,61,4,Medium
+SR-102333,Public Works,Street Light Outage,2026-07-12,Closed,2026-07-24,12,2,Medium
+SR-100425,Public Works,Street Light Outage,2026-07-12,Closed,2026-07-15,3,2,Low
+SR-101164,Public Works,Road Debris,2026-07-12,Closed,2026-09-09,59,4,Low
+SR-100151,Planning,Sign Violation,2026-07-12,In Progress,,60,3,Low
+SR-100080,Parks & Recreation,Playground Equipment Damage,2026-07-12,Closed,2026-07-12,0,3,Medium
+SR-100509,Planning,Sign Violation,2026-07-12,Resolved,2026-07-17,5,5,Low
+SR-101107,Water Utilities,Water Main Break,2026-07-12,Resolved,2026-07-16,4,5,Low
+SR-101212,Parks & Recreation,Park Maintenance,2026-07-12,Closed,2026-08-30,49,2,Medium
+SR-102487,Planning,Zoning Inquiry,2026-07-13,Resolved,2026-07-23,10,3,Low
+SR-100909,Parks & Recreation,Tree Trimming Request,2026-07-13,Open,,59,5,Low
+SR-100740,Public Works,Sidewalk Damage,2026-07-13,Open,,59,5,Low
+SR-100479,Planning,Permit Question,2026-07-13,Closed,2026-07-18,5,4,Medium
+SR-101639,Public Works,Road Debris,2026-07-14,Closed,2026-07-14,0,3,Low
+SR-101497,Public Works,Road Debris,2026-07-14,Resolved,2026-07-14,0,5,Low
+SR-102011,Public Works,Sidewalk Damage,2026-07-14,Closed,2026-07-20,6,1,High
+SR-101062,Planning,Permit Question,2026-07-15,In Progress,,57,3,Medium
+SR-101159,Public Works,Pothole Repair,2026-07-15,Closed,2026-07-15,0,3,Medium
+SR-101214,Parks & Recreation,Tree Trimming Request,2026-07-15,Resolved,2026-07-19,4,2,Low
+SR-100290,Parks & Recreation,Tree Trimming Request,2026-07-15,In Progress,,57,1,Medium
+SR-100470,Water Utilities,Billing Inquiry,2026-07-15,Resolved,2026-07-30,15,1,Low
+SR-100003,Public Works,Pothole Repair,2026-07-15,Resolved,2026-07-23,8,4,High
+SR-102254,Animal Control,Wildlife Concern,2026-07-15,Open,,57,2,Low
+SR-100007,Public Works,Pothole Repair,2026-07-16,Resolved,2026-07-29,13,2,Medium
+SR-101417,Code Enforcement,Illegal Dumping,2026-07-16,Closed,2026-07-31,15,2,Low
+SR-101852,Water Utilities,Low Water Pressure,2026-07-17,Closed,2026-07-31,14,3,Low
+SR-100802,Parks & Recreation,Park Maintenance,2026-07-17,Closed,2026-07-18,1,5,Low
+SR-102156,Water Utilities,Billing Inquiry,2026-07-17,Resolved,2026-07-25,8,3,Medium
+SR-101622,Code Enforcement,Unsafe Structure,2026-07-17,In Progress,,55,1,Medium
+SR-100036,Public Works,Road Debris,2026-07-17,Resolved,2026-08-12,26,2,Low
+SR-100668,Animal Control,Wildlife Concern,2026-07-17,Open,,55,1,High
+SR-100558,Public Works,Street Light Outage,2026-07-18,Resolved,2026-07-24,6,5,Medium
+SR-101752,Animal Control,Animal Bite Report,2026-07-18,Open,,54,1,Low
+SR-101106,Code Enforcement,Overgrown Lot,2026-07-18,Open,,54,2,Medium
+SR-101806,Public Works,Street Light Outage,2026-07-19,Resolved,2026-07-24,5,1,Medium
+SR-101490,Water Utilities,Low Water Pressure,2026-07-19,Resolved,2026-08-06,18,2,Low
+SR-102193,Public Works,Road Debris,2026-07-19,Resolved,2026-07-25,6,4,Medium
+SR-101791,Code Enforcement,Abandoned Vehicle,2026-07-19,Resolved,2026-07-23,4,3,High
+SR-100658,Public Works,Sidewalk Damage,2026-07-20,Resolved,2026-07-27,7,2,Low
+SR-101395,Public Works,Sidewalk Damage,2026-07-20,Resolved,2026-07-20,0,5,Low
+SR-100733,Animal Control,Stray Animal,2026-07-20,Closed,2026-08-02,13,3,High
+SR-101920,Animal Control,Wildlife Concern,2026-07-20,In Progress,,52,1,Low
+SR-101310,Water Utilities,Low Water Pressure,2026-07-20,Resolved,2026-08-02,13,5,Medium
+SR-101006,Public Works,Sidewalk Damage,2026-07-21,Resolved,2026-08-07,17,2,Medium
+SR-102251,Water Utilities,Billing Inquiry,2026-07-21,Closed,2026-08-08,18,2,High
+SR-100004,Public Works,Sidewalk Damage,2026-07-21,Resolved,2026-09-08,49,5,Medium
+SR-102278,Code Enforcement,Unsafe Structure,2026-07-21,Closed,2026-07-22,1,1,Medium
+SR-100579,Water Utilities,Meter Reading Issue,2026-07-21,In Progress,,51,1,Low
+SR-100547,Water Utilities,Billing Inquiry,2026-07-21,Open,,51,3,Low
+SR-101488,Planning,Land Use Complaint,2026-07-21,Open,,51,2,Medium
+SR-101981,Parks & Recreation,Park Maintenance,2026-07-22,Closed,2026-07-22,0,4,Medium
+SR-101930,Planning,Permit Question,2026-07-22,Resolved,2026-07-27,5,1,Medium
+SR-102121,Public Works,Street Light Outage,2026-07-22,In Progress,,50,2,Low
+SR-100996,Public Works,Pothole Repair,2026-07-23,Resolved,2026-07-24,1,3,High
+SR-100066,Animal Control,Wildlife Concern,2026-07-23,Closed,2026-07-24,1,2,Low
+SR-101575,Animal Control,Wildlife Concern,2026-07-23,In Progress,,49,4,Low
+SR-100649,Code Enforcement,Illegal Dumping,2026-07-23,Open,,49,4,Medium
+SR-101131,Code Enforcement,Overgrown Lot,2026-07-23,Closed,2026-07-27,4,2,Low
+SR-101068,Code Enforcement,Overgrown Lot,2026-07-24,Resolved,2026-07-25,1,1,High
+SR-101634,Water Utilities,Meter Reading Issue,2026-07-24,Closed,2026-07-29,5,4,Medium
+SR-102281,Code Enforcement,Abandoned Vehicle,2026-07-24,Closed,2026-07-24,0,1,Medium
+SR-100820,Animal Control,Wildlife Concern,2026-07-24,Closed,2026-07-29,5,4,Medium
+SR-102120,Animal Control,Stray Animal,2026-07-25,Open,,47,1,Medium
+SR-102348,Public Works,Road Debris,2026-07-25,Closed,2026-08-01,7,4,Medium
+SR-100444,Public Works,Sidewalk Damage,2026-07-25,Closed,2026-07-30,5,3,Medium
+SR-100548,Code Enforcement,Overgrown Lot,2026-07-25,Resolved,2026-08-08,14,2,Medium
+SR-100599,Public Works,Sidewalk Damage,2026-07-27,Open,,45,5,Low
+SR-102228,Public Works,Road Debris,2026-07-27,In Progress,,45,3,Medium
+SR-102040,Parks & Recreation,Park Maintenance,2026-07-27,Resolved,2026-09-03,38,3,Low
+SR-101140,Public Works,Storm Drain Blocked,2026-07-27,Resolved,2026-07-31,4,1,High
+SR-101418,Water Utilities,Water Main Break,2026-07-27,Resolved,2026-08-17,21,3,Low
+SR-101034,Animal Control,Wildlife Concern,2026-07-27,Closed,2026-07-29,2,3,Medium
+SR-100276,Code Enforcement,Noise Complaint,2026-07-28,Resolved,2026-08-09,12,3,Low
+SR-100755,Public Works,Sidewalk Damage,2026-07-28,Closed,2026-08-02,5,4,Medium
+SR-100232,Code Enforcement,Unsafe Structure,2026-07-29,Resolved,2026-09-12,45,5,Medium
+SR-100172,Planning,Zoning Inquiry,2026-07-29,Closed,2026-08-01,3,2,Low
+SR-101750,Code Enforcement,Abandoned Vehicle,2026-07-29,Open,,43,2,Medium
+SR-101936,Water Utilities,Low Water Pressure,2026-07-29,In Progress,,43,2,High
+SR-100736,Water Utilities,Low Water Pressure,2026-07-29,Resolved,2026-08-13,15,1,Low
+SR-101879,Water Utilities,Billing Inquiry,2026-07-29,Closed,2026-07-29,0,3,High
+SR-102311,Public Works,Road Debris,2026-07-29,Resolved,2026-09-16,49,4,Low
+SR-101761,Code Enforcement,Noise Complaint,2026-07-29,Open,,43,1,High
+SR-102467,Public Works,Street Light Outage,2026-07-29,Closed,2026-08-01,3,4,Medium
+SR-101688,Parks & Recreation,Trail Erosion,2026-07-30,Resolved,2026-08-07,8,5,Low
+SR-102268,Public Works,Sidewalk Damage,2026-07-30,In Progress,,42,1,High
+SR-101430,Water Utilities,Water Main Break,2026-07-30,Resolved,2026-08-03,4,4,High
+SR-102373,Water Utilities,Meter Reading Issue,2026-07-30,Resolved,2026-08-29,30,5,Low
+SR-102086,Public Works,Road Debris,2026-07-31,Closed,2026-08-05,5,3,Low
+SR-102059,Water Utilities,Low Water Pressure,2026-07-31,Open,,41,1,Medium
+SR-101512,Code Enforcement,Illegal Dumping,2026-07-31,In Progress,,41,3,Medium
+SR-100088,Public Works,Road Debris,2026-08-01,Closed,2026-08-20,19,4,High
+SR-100787,Code Enforcement,Unsafe Structure,2026-08-01,Resolved,2026-08-01,0,5,Medium
+SR-101807,Animal Control,Barking Complaint,2026-08-01,In Progress,,40,5,Medium
+SR-101066,Public Works,Road Debris,2026-08-01,Resolved,2026-08-20,19,2,Low
+SR-100383,Code Enforcement,Abandoned Vehicle,2026-08-02,Resolved,2026-09-10,39,3,Low
+SR-101762,Planning,Zoning Inquiry,2026-08-02,Open,,39,2,Medium
+SR-101481,Water Utilities,Billing Inquiry,2026-08-03,Resolved,2026-08-06,3,3,Medium
+SR-101298,Animal Control,Stray Animal,2026-08-03,In Progress,,38,3,Low
+SR-100454,Public Works,Street Light Outage,2026-08-03,Resolved,2026-08-13,10,3,Low
+SR-100176,Code Enforcement,Overgrown Lot,2026-08-03,Open,,38,1,Low
+SR-102387,Planning,Zoning Inquiry,2026-08-04,Open,,37,4,Medium
+SR-101454,Planning,Permit Question,2026-08-04,In Progress,,37,3,Low
+SR-101448,Water Utilities,Low Water Pressure,2026-08-04,In Progress,,37,2,Medium
+SR-100249,Code Enforcement,Illegal Dumping,2026-08-04,Closed,2026-08-06,2,2,Low
+SR-101786,Planning,Zoning Inquiry,2026-08-04,Closed,2026-08-04,0,3,Medium
+SR-102334,Planning,Permit Question,2026-08-04,Resolved,2026-08-17,13,4,Low
+SR-100726,Parks & Recreation,Tree Trimming Request,2026-08-05,Open,,36,3,Medium
+SR-101296,Water Utilities,Meter Reading Issue,2026-08-05,Closed,2026-08-11,6,5,Low
+SR-102035,Public Works,Storm Drain Blocked,2026-08-05,Open,,36,4,Low
+SR-101242,Parks & Recreation,Park Maintenance,2026-08-06,Resolved,2026-08-21,15,4,High
+SR-102227,Public Works,Sidewalk Damage,2026-08-06,Resolved,2026-09-11,36,2,Medium
+SR-101110,Planning,Zoning Inquiry,2026-08-06,Resolved,2026-08-20,14,3,Medium
+SR-100767,Public Works,Pothole Repair,2026-08-06,Resolved,2026-09-01,26,2,High
+SR-101828,Public Works,Sidewalk Damage,2026-08-06,Closed,2026-08-07,1,1,Low
+SR-101083,Public Works,Pothole Repair,2026-08-07,Open,,34,5,Low
+SR-100247,Planning,Permit Question,2026-08-07,Resolved,2026-08-24,17,3,Medium
+SR-101926,Public Works,Pothole Repair,2026-08-07,In Progress,,34,1,Low
+SR-100513,Water Utilities,Meter Reading Issue,2026-08-07,Resolved,2026-09-27,51,1,Low
+SR-102175,Animal Control,Barking Complaint,2026-08-07,Resolved,2026-08-25,18,4,Low
+SR-101506,Code Enforcement,Noise Complaint,2026-08-07,In Progress,,34,4,High
+SR-101136,Code Enforcement,Unsafe Structure,2026-08-08,Closed,2026-08-18,10,2,High
+SR-101913,Public Works,Sidewalk Damage,2026-08-08,Open,,33,3,Low
+SR-101179,Public Works,Sidewalk Damage,2026-08-09,Closed,2026-08-22,13,2,Low
+SR-100776,Water Utilities,Meter Reading Issue,2026-08-09,In Progress,,32,4,High
+SR-101661,Animal Control,Animal Bite Report,2026-08-09,In Progress,,32,5,Medium
+SR-100804,Public Works,Sidewalk Damage,2026-08-09,Closed,2026-08-17,8,2,Medium
+SR-100484,Public Works,Storm Drain Blocked,2026-08-09,Open,,32,3,Low
+SR-100032,Planning,Zoning Inquiry,2026-08-10,Closed,2026-09-11,32,4,Medium
+SR-100831,Code Enforcement,Overgrown Lot,2026-08-11,Resolved,2026-08-20,9,4,Low
+SR-100637,Public Works,Storm Drain Blocked,2026-08-12,In Progress,,29,4,High
+SR-102263,Public Works,Storm Drain Blocked,2026-08-12,Resolved,2026-08-28,16,1,Low
+SR-100569,Water Utilities,Low Water Pressure,2026-08-12,Resolved,2026-08-22,10,4,High
+SR-101613,Animal Control,Wildlife Concern,2026-08-13,Closed,2026-09-08,26,1,Medium
+SR-101766,Planning,Permit Question,2026-08-13,Closed,2026-09-04,22,3,Low
+SR-101563,Parks & Recreation,Trail Erosion,2026-08-14,In Progress,,27,2,High
+SR-101938,Planning,Permit Question,2026-08-14,In Progress,,27,3,Low
+SR-101919,Animal Control,Wildlife Concern,2026-08-14,Closed,2026-09-05,22,1,Low
+SR-101801,Water Utilities,Low Water Pressure,2026-08-14,Closed,2026-08-24,10,4,Low
+SR-101248,Planning,Land Use Complaint,2026-08-15,Resolved,2026-08-15,0,1,Low
+SR-100474,Public Works,Sidewalk Damage,2026-08-15,Closed,2026-08-16,1,4,Medium
+SR-101343,Public Works,Pothole Repair,2026-08-15,Closed,2026-08-18,3,1,Medium
+SR-102290,Parks & Recreation,Playground Equipment Damage,2026-08-15,Resolved,2026-08-15,0,5,Medium
+SR-100532,Water Utilities,Meter Reading Issue,2026-08-16,Open,,25,3,Medium
+SR-100324,Public Works,Pothole Repair,2026-08-16,In Progress,,25,4,Medium
+SR-100446,Parks & Recreation,Tree Trimming Request,2026-08-16,Resolved,2026-08-18,2,5,Low
+SR-101504,Water Utilities,Billing Inquiry,2026-08-16,Open,,25,2,Low
+SR-102045,Animal Control,Barking Complaint,2026-08-16,Resolved,2026-08-28,12,4,High
+SR-101511,Public Works,Road Debris,2026-08-17,Closed,2026-09-22,36,1,Low
+SR-101925,Code Enforcement,Unsafe Structure,2026-08-17,In Progress,,24,3,Medium
+SR-101030,Animal Control,Barking Complaint,2026-08-18,Open,,23,1,Medium
+SR-102161,Code Enforcement,Overgrown Lot,2026-08-18,Open,,23,5,Medium
+SR-102375,Planning,Land Use Complaint,2026-08-18,Closed,2026-09-07,20,2,Medium
+SR-101279,Water Utilities,Low Water Pressure,2026-08-18,Closed,2026-08-20,2,4,Medium
+SR-102372,Water Utilities,Water Main Break,2026-08-18,In Progress,,23,1,High
+SR-100574,Public Works,Road Debris,2026-08-19,In Progress,,22,5,Medium
+SR-100997,Water Utilities,Low Water Pressure,2026-08-19,In Progress,,22,2,Low
+SR-101435,Public Works,Storm Drain Blocked,2026-08-19,Closed,2026-08-20,1,2,Medium
+SR-101103,Public Works,Storm Drain Blocked,2026-08-19,Resolved,2026-08-24,5,5,Low
+SR-102453,Parks & Recreation,Park Maintenance,2026-08-19,Open,,22,2,Low
+SR-102497,Public Works,Pothole Repair,2026-08-20,Resolved,2026-09-07,18,4,Low
+SR-101069,Water Utilities,Low Water Pressure,2026-08-20,Closed,2026-08-26,6,3,Low
+SR-100354,Water Utilities,Water Main Break,2026-08-21,In Progress,,20,5,Medium
+SR-100682,Water Utilities,Meter Reading Issue,2026-08-21,Resolved,2026-08-28,7,5,Low
+SR-102067,Code Enforcement,Unsafe Structure,2026-08-21,In Progress,,20,2,Low
+SR-102401,Code Enforcement,Illegal Dumping,2026-08-21,Resolved,2026-09-20,30,5,High
+SR-101012,Public Works,Street Light Outage,2026-08-21,Resolved,2026-08-22,1,3,Medium
+SR-102112,Parks & Recreation,Park Maintenance,2026-08-21,In Progress,,20,4,Medium
+SR-100277,Water Utilities,Water Main Break,2026-08-21,In Progress,,20,3,Low
+SR-101898,Public Works,Sidewalk Damage,2026-08-22,Closed,2026-09-01,10,5,Low
+SR-101532,Public Works,Road Debris,2026-08-22,Closed,2026-08-25,3,5,Medium
+SR-100149,Code Enforcement,Unsafe Structure,2026-08-22,Open,,19,3,High
+SR-101736,Parks & Recreation,Tree Trimming Request,2026-08-22,Resolved,2026-08-26,4,3,Medium
+SR-102394,Planning,Sign Violation,2026-08-22,Closed,2026-08-22,0,2,Medium
+SR-101223,Public Works,Sidewalk Damage,2026-08-22,Open,,19,4,Low
+SR-101415,Planning,Permit Question,2026-08-22,Resolved,2026-08-30,8,2,High
+SR-101794,Public Works,Road Debris,2026-08-22,Resolved,2026-08-23,1,2,Low
+SR-101124,Public Works,Road Debris,2026-08-23,In Progress,,18,2,Low
+SR-102165,Planning,Permit Question,2026-08-23,Closed,2026-08-23,0,1,Low
+SR-100718,Public Works,Storm Drain Blocked,2026-08-23,Closed,2026-08-29,6,4,Medium
+SR-102464,Water Utilities,Low Water Pressure,2026-08-23,Closed,2026-09-10,18,1,Low
+SR-101546,Public Works,Storm Drain Blocked,2026-08-23,Resolved,2026-09-01,9,4,Low
+SR-101157,Animal Control,Animal Bite Report,2026-08-24,Resolved,2026-08-24,0,2,High
+SR-100936,Planning,Permit Question,2026-08-24,Resolved,2026-09-04,11,5,Low
+SR-100647,Planning,Permit Question,2026-08-24,Resolved,2026-09-24,31,4,Low
+SR-100443,Public Works,Road Debris,2026-08-24,In Progress,,17,2,High
+SR-102133,Planning,Permit Question,2026-08-24,In Progress,,17,5,Low
+SR-101015,Code Enforcement,Noise Complaint,2026-08-25,In Progress,,16,1,Low
+SR-101494,Water Utilities,Water Main Break,2026-08-26,In Progress,,15,3,Medium
+SR-100497,Water Utilities,Billing Inquiry,2026-08-26,Open,,15,2,Low
+SR-101782,Animal Control,Stray Animal,2026-08-26,Open,,15,3,Medium
+SR-101521,Public Works,Storm Drain Blocked,2026-08-26,Resolved,2026-08-30,4,2,Medium
+SR-100126,Water Utilities,Low Water Pressure,2026-08-27,Open,,14,3,Medium
+SR-102238,Public Works,Pothole Repair,2026-08-27,Resolved,2026-09-15,19,4,Low
+SR-100140,Public Works,Pothole Repair,2026-08-27,Open,,14,3,High
+SR-101333,Code Enforcement,Unsafe Structure,2026-08-27,Resolved,2026-08-31,4,3,High
+SR-100711,Public Works,Road Debris,2026-08-27,Resolved,2026-09-06,10,1,Low
+SR-101935,Code Enforcement,Noise Complaint,2026-08-28,Closed,2026-09-09,12,1,Low
+SR-100450,Code Enforcement,Overgrown Lot,2026-08-28,Resolved,2026-09-04,7,4,Medium
+SR-101850,Code Enforcement,Illegal Dumping,2026-08-28,Resolved,2026-09-23,26,1,High
+SR-100197,Public Works,Pothole Repair,2026-08-28,Closed,2026-09-14,17,2,Medium
+SR-101308,Code Enforcement,Overgrown Lot,2026-08-28,Resolved,2026-08-29,1,5,Medium
+SR-100624,Public Works,Street Light Outage,2026-08-29,Open,,12,3,Medium
+SR-101409,Code Enforcement,Overgrown Lot,2026-08-29,Closed,2026-09-06,8,4,Low
+SR-102374,Planning,Sign Violation,2026-08-29,Closed,2026-08-30,1,5,High
+SR-101905,Water Utilities,Water Main Break,2026-08-30,Closed,2026-10-15,46,2,Medium
+SR-100686,Animal Control,Wildlife Concern,2026-08-30,Closed,2026-09-19,20,2,Low
+SR-101224,Public Works,Sidewalk Damage,2026-08-30,Open,,11,4,Low
+SR-100201,Planning,Land Use Complaint,2026-08-30,Closed,2026-09-14,15,1,High
