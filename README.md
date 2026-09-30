@@ -1,6 +1,6 @@
 # GGA Python Workshop
 
-A 3.5-hour, project-based workshop for GIS analysts, administrators, and power users in local government who are newer to Python. Built for Google Colab.
+A project-based workshop for GIS analysts, administrators, and power users who are newer to Python. Built for Google Colab.
 
 ## What's in this package
 
